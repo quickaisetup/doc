@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SMS &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/sms/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Jun 2023 23:34:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>SMS &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get started with SMS Automation Using Twilio</title>
+		<link>https://docs.chatrace.com/kb/how-to-combine-messenger-marking-with-sms/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-combine-messenger-marking-with-sms/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2020 16:47:20 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=390</guid>
+
+					<description><![CDATA[SMS channels allow your business to communicate with your clients over SMS. SMS channel is available worldwide. No matter where your business is located or]]></description>
+										<content:encoded><![CDATA[
+<p>SMS channels allow your business to communicate with your clients over SMS. SMS channel is available worldwide. No matter where your business is located or where your customers are, you can use the SMS channel to generate more results for your business.</p>
+
+
+
+<p>We integrated with Twilio to let you send and receive SMS. Twilio doesn&#8217;t provide phone numbers for all countries, but if there is no phone number available for your country, you can buy a phone number from a supported country and communicate with customer worldwide.</p>
+
+
+
+<p>We handle all the complexity for you. Your customers can easily opt out of SMS with the &#8220;STOP&#8221; keyword.  </p>
+
+
+
+<p><strong>1 &#8211;  Connect your Twilio account to Chatrace</strong><br>If you don&#8217;t have a Twilio account, you can create a new account <a href="http://www.twilio.com/referral/c7VtJh" target="_blank" rel="noreferrer noopener">here </a>for free. </p>
+
+
+
+<p>The video below shows how to connect your Twilio account to Chatrace. If you didn&#8217;t have an account on Twilio before, the video shows where you can buy the phone number in Twilio to send SMS to your customers. You will need to enable send SMS to the countries you want to send SMS to <a class="rank-math-link" href="https://www.twilio.com/console/sms/settings/geo-permissions">here</a>.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Collect phone number</strong></h4>
+
+
+
+<p>If a user sends an SMS to your business phone number, your chatbot will automatically save the user number. But you can ask your customer for their phone number from any channel like Messenger, Instagram, Viber, Google Business Message, or Telegram &#8230; and send the user SMS.</p>
+
+
+
+<p>Before you send an SMS, you need to have the user&#8217;s phone number. If you don&#8217;t have a user&#8217;s phone number, You can ask your users their phone numbers with the &#8220;<strong>Get User Data</strong>&#8221; block and save the user&#8217;s phone into the &#8220;Phone&#8221; system field. </p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="615" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-16-1024x615.png" alt="" class="wp-image-2494" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-16-1024x615.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-16-300x180.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-16-768x461.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-16.png 1494w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="481" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-15-1024x481.png" alt="" class="wp-image-2493" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-15-1024x481.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-15-300x141.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-15-768x361.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-15-1536x722.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-15.png 1916w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Get consent to send SMS</h4>
+
+
+
+<p>To save the user consent to send SMS, you need to use the &#8220;<strong>Set SMS Opt-In</strong>&#8221; action. You can find this action in the &#8220;Actions&#8221; block. We advise you to use this action when the user presses a button to give consent. Your SMS will not be sent if you don&#8217;t set the user consent using the &#8220;<strong>Set SMS Opt-In</strong>&#8220;.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="479" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-13-1024x479.png" alt="" class="wp-image-2491" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-13-1024x479.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-13-300x140.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-13-768x360.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-13-1536x719.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-13.png 1916w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>We created a flow to ask for the user&#8217;s phone number and consent. You can get the flow now for free <a rel="noreferrer noopener" href="https://chatrace.com/store/template?id=100374" target="_blank">here</a>.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Creating SMS flows</h4>
+
+
+
+<p>The process of building flows for all channels is the same. We recommend you always use&nbsp;the <strong>Omnichannel</strong>&nbsp;message type.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-11-1024x559.png" alt="" class="wp-image-2489" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-11-1024x559.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-11-300x164.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-11-768x419.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-11.png 1452w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If you want to force a message to be delivered over SMS, you need to use the <strong>SMS</strong> message type. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="561" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-12-1024x561.png" alt="" class="wp-image-2490" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-12-1024x561.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-12-300x164.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-12-768x421.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-12.png 1450w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Useful links</strong><br><a href="https://www.twilio.com/sms/pricing/us" class="rank-math-link">SMS pricing in Twilio</a><br><a href="https://www.twilio.com/learn/call-and-text-marketing/global-sms-best-practices" class="rank-math-link">Global SMS Best Practices</a><br><a href="https://www.twilio.com/sms/coverage" class="rank-math-link">Twilio SMS Source &amp; Destination Coverage</a><br> <a href="https://www.twilio.com/guidelines/sms" class="rank-math-link">SMS works differently in every country. See how it works in your country </a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-combine-messenger-marking-with-sms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to import contacts?</title>
+		<link>https://docs.chatrace.com/kb/import-contacts/</link>
+					<comments>https://docs.chatrace.com/kb/import-contacts/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 03:36:31 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=242</guid>
+
+					<description><![CDATA[The &#8216;Import Contact&#8217; tool is powerful and allows you to import contacts into your Chatrace account. With this tool, you can easily import WhatsApp contacts,]]></description>
+										<content:encoded><![CDATA[
+<p>The &#8216;Import Contact&#8217; tool is powerful and allows you to import contacts into your Chatrace account. With this tool, you can easily import WhatsApp contacts, SMS contacts and also import contacts from other chatbot platforms.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to import Sms and Whatsapp contact" width="780" height="439" src="https://www.youtube.com/embed/TTCJteDWx84?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To Import Contact, go to the &#8216;Contact&#8217; section and click on action >> Import contacts.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="558" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-1024x558.png" alt="" class="wp-image-2740" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-1024x558.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-300x163.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-768x418.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-1536x837.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Import contacts from other chatbot platforms</h4>
+
+
+
+<p><strong>To imports contacts from Manychat, Select Manychat on the source option</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-1024x498.png" alt="" class="wp-image-2741" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>To import contacts from other chatbot platforms different from Manychat, set the source as Other messenger bot platform and upload PSIDs</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-1024x498.png" alt="" class="wp-image-2742" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Import WhatsApp &amp; SMS contacts</h4>
+
+
+
+<p>To import WhatsApp contacts or SMS contacts, Set the source to WhatsApp contacts or Phone (For SMS), Set the country code, and upload a .csv or .xlsx file. The &#8216;More Options&#8217; option allows you to set a custom field or add a tag to the contacts. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="500" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-1024x500.png" alt="" class="wp-image-2743" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-1024x500.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-768x375.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-1536x750.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7.png 1850w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-1024x494.png" alt="" class="wp-image-2744" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/import-contacts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

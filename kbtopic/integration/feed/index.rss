@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Integration &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/integration/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 10 Jan 2024 19:10:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Integration &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Google Sheets Integration</title>
+		<link>https://docs.chatrace.com/kb/google-sheet-integration/</link>
+					<comments>https://docs.chatrace.com/kb/google-sheet-integration/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2019 10:11:32 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=300</guid>
+
+					<description><![CDATA[Google Sheets integration allows you to send data, get data, get a random row, and generate dynamic galleries from Google Sheets. Connecting Chatrace to Google]]></description>
+										<content:encoded><![CDATA[
+<p>Google Sheets integration allows you to send data, get data, get a random row, and generate dynamic galleries from Google Sheets.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Connecting Chatrace to Google Sheets</h2>
+
+
+
+<p><strong>Step 1</strong>: Go to Menu &gt;&gt; Settings</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="873" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.56.06-AM-1024x873.png" alt="" class="wp-image-1526" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.56.06-AM-1024x873.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.56.06-AM-300x256.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.56.06-AM-768x655.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.56.06-AM.png 1330w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p><strong>Step 2</strong>: Go to <em>Settings</em> and Select <em>Integrations</em> on the top menu.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="565" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.57.50-AM-1024x565.png" alt="" class="wp-image-1529" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.57.50-AM-1024x565.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.57.50-AM-300x166.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.57.50-AM-768x424.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.57.50-AM-1536x848.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-1.57.50-AM-2048x1130.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p><strong>Step 3</strong>: Look for the <em>Google Sheets Integration</em> field and click the <em>Connect</em> button</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="423" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-2.00.13-AM-1024x423.png" alt="" class="wp-image-1535" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-2.00.13-AM-1024x423.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-2.00.13-AM-300x124.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-2.00.13-AM-768x317.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-2.00.13-AM-1536x634.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-2.00.13-AM.png 1932w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p><strong>Step 4</strong>: From here, you need to <em>choose the account</em> associated with the Google Sheet.</p>
+
+
+
+<p><strong>Step 5</strong>: Once you connected your Google Sheet, you will get the integration window like this image below.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh5.googleusercontent.com/mq2XQxiw_ba8qLhD2Zu_k5BM1Jazdbq8oQyHGqyKeQLyhPvioTjv2c1RD2cMlmJd0hakueddzuBIgZRAFRpdEOrA_0esBlcP4y8MfAO2YpXPuZ1ce3wZ2Cbqb2O8umzNMalx2Uvw" alt="Google Sheets Integration Confirmation"/></figure></div>
+
+
+
+<p>*Note that you can disconnect the Google sheets with Chatrace anytime by pressing the button.</p>
+
+
+
+<h2 class="wp-block-heading">Google Sheet Integration in Action</h2>
+
+
+
+<p>Now, you will learn how to use the Google Sheets integration.</p>
+
+
+
+<h3 class="wp-block-heading">How to find the Google Sheets actions</h3>
+
+
+
+<p>To be able to use the Google Sheets integration you need to use this in a flow. </p>
+
+
+
+<p>From your menu go to <strong>Flows</strong>. Once you arrive at the flows overview press the topright button <strong>Add Flow</strong>.</p>
+
+
+
+<p>Once you reach the flow editor you can press the message block that you start with &gt; select Action &gt; Google sheets. Take a look below on how to find the Google sheets integration</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="793" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_56-1024x793.png" alt="" class="wp-image-1661" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_56-1024x793.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_56-300x232.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_56-768x595.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_56.png 1141w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<h2 class="wp-block-heading">What kind of actions does the Google Sheets integration have?</h2>
+
+
+
+<p>There are several options to choose from when selecting the Google Sheets integration. It all depends on your needs. Below are the options we currently support:</p>
+
+
+
+<ul class="wp-block-list"><li>Send Data to Google Sheets</li><li>Get Row(Value) from Google Sheets</li><li>Update Google Sheet Row</li><li>Clear Row(Value) on Google Sheets</li><li>Get Random Row in Google Sheets</li><li>Create Dynamic Gallery with Google Sheets </li></ul>
+
+
+
+<h2 class="wp-block-heading">Setting up your Google Sheet</h2>
+
+
+
+<p>Before using any of the above actions you need to create a Google sheet with some preset information.</p>
+
+
+
+<p>Let’s say you want to capture subscriber&#8217;s data like name, email, and phone number. Then export this to a Google Sheet. For this, we need to create a few Headers inside the Google Sheet itself where we can export the data to.</p>
+
+
+
+<p>Create a Google sheet like &#8220;Subscriber&#8217;s Data&#8221;. </p>
+
+
+
+<p>Then create the Headers for each Column. We will use Full Name, User ID, Email and Phone number</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="801" height="325" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_68.png" alt="" class="wp-image-1679" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_68.png 801w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_68-300x122.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_68-768x312.png 768w" sizes="auto, (max-width: 801px) 100vw, 801px" /></figure>
+
+
+
+<p>Now that we prepared the Google Sheet it is time to export the data to this sheet from our Messenger bot.</p>
+
+
+
+<h2 class="wp-block-heading">IMPORTANT FACT!</h2>
+
+
+
+<p>Whenever you connect your Google Sheet with Chatrace you need to take into account that whenever you change the name of the worksheet or spreadsheet you need to redo that Google Sheet action. </p>
+
+
+
+<p>The integration is setup to work with the name of the sheet instead of the id. So changing this will cause the integration to stop working. </p>
+
+
+
+<p>So if you change either name keep in mind that you need to redo the Google Sheet action inside of your flow builder.</p>
+
+
+
+<h2 class="wp-block-heading">Send Data to Google Sheets</h2>
+
+
+
+<p>Once you collected all the information we can use the Google sheets action <strong>Send Data</strong>.</p>
+
+
+
+<p>Choose the action (Send data to Google Sheets) and select the name of the spreadsheet that you want to export the data to. The next step is selecting the worksheet.</p>
+
+
+
+<p>Now match the Chatrace bot data you collected to the Google column titles. You can select any of the custom fields, subscribers data, or bot data. It is all available to you to export.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="643" height="576" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_59.png" alt="" class="wp-image-1666" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_59.png 643w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_59-300x269.png 300w" sizes="auto, (max-width: 643px) 100vw, 643px" /></figure>
+
+
+
+<p>Once the subscriber has gone through your flow and you used the Google Sheet action <strong>Send Data</strong> at the end of that flow, all the data should nicely have been exported like this</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="362" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_58-1024x362.png" alt="" class="wp-image-1665" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_58-1024x362.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_58-300x106.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_58-768x272.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_58.png 1150w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Really easy and simple to do right?</p>
+
+
+
+<h2 class="wp-block-heading">Get Row(Value)</h2>
+
+
+
+<p>Instead of exporting to data to a Google Sheet we can also do it the other way around. Getting data from a Google sheet and display that information into the Messenger bot for the subscriber to see. </p>
+
+
+
+<p>Let&#8217;s say your client has a food truck and changes location a few times a week. He wants to be able to give his current location to his customers when they ask for the location. Instead of having to update the bot every single time you can just let your client update his Google sheet instead. </p>
+
+
+
+<p>Every time he changes location he just updates that into the Google Sheet and the Messenger bot will fetch the most recent location. </p>
+
+
+
+<p>To be able to do this you have to create two <a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/bot-fields/" target="_blank">botfields</a>. One botfield is used as a lookup value inside the sheet, while the other will store the location of that food truck. In this case, we will create:</p>
+
+
+
+<ul class="wp-block-list"><li>Current Location</li><li>Current Adress</li></ul>
+
+
+
+<p>The Current Location botfield will need to have the value that is the same in the likewise named column in your Google Sheet. So in this case we give the value same as the botfield &#8220;<strong>Current Location</strong>&#8220;</p>
+
+
+
+<p>Once you created this, create your Google sheet with the same titles and fill in the information. It should look like this;</p>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" decoding="async" width="803" height="339" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_60.png" alt="" class="wp-image-1667" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_60.png 803w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_60-300x127.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_60-768x324.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_60-800x339.png 800w" sizes="auto, (max-width: 803px) 100vw, 803px" /></figure>
+
+
+
+<p>Then all you need to do inside your flow builder is to go to &gt; <strong>Google Sheets </strong>&gt; <strong>Get Row </strong>&gt; <strong>Select sheet </strong>&gt; <strong>Select Worksheet </strong>&gt; <strong>Select lookup column </strong>&gt; <strong>Map data from sheets to Messenger bot</strong>.</p>
+
+
+
+<p>The lookup column will be the current location as this value stays constant. So you choose that columns and set the search to must be equal to. Here you insert your botfield <strong>Current Location</strong>. </p>
+
+
+
+<p>Like we do below</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="641" height="612" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_61.png" alt="" class="wp-image-1668" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_61.png 641w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_61-300x286.png 300w" sizes="auto, (max-width: 641px) 100vw, 641px" /></figure>
+
+
+
+<p>Now your client has the most recent location to his food truck inside the Messenger bot without touching it. The perfect solution!</p>
+
+
+
+<h2 class="wp-block-heading">Getting Random Row</h2>
+
+
+
+<p>Similar to the getting row data, we can also get a random row presented to us instead. This is great to generate dynamic combinations.</p>
+
+
+
+<p>An example could be when creating a Messenger bot to provide boys and girls names for babies. </p>
+
+
+
+<p>We will have a Google Sheet with 3 columns:</p>
+
+
+
+<ul class="wp-block-list"><li>Value Lookup</li><li>Girl Names</li><li>Boy Names</li></ul>
+
+
+
+<p>That looks like this; </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="696" height="423" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_62.png" alt="" class="wp-image-1669" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_62.png 696w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_62-300x182.png 300w" sizes="auto, (max-width: 696px) 100vw, 696px" /></figure>
+
+
+
+<p>So for this to work we will ask a subscriber to choose if they would like to hear a boy&#8217;s name or that of a girl. We will use a user input block for this so we can store the value to a custom field. This will allow us to pick a random name from either the boy&#8217;s column or that of the girls. </p>
+
+
+
+<p>The next step is the determine the lookup value. For this, we will use the column <strong>Lookup Value</strong>. because we want to generate a random answer/value, we will now need to give it a range to search the sheet for. </p>
+
+
+
+<p>That will look something like this;  </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="643" height="662" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_63.png" alt="" class="wp-image-1672" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_63.png 643w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_63-291x300.png 291w" sizes="auto, (max-width: 643px) 100vw, 643px" /></figure>
+
+
+
+<p>From here the answer is saved to the subscribers custom field and you can display it directly inside of the Messenger conversation.</p>
+
+
+
+<h2 class="wp-block-heading">Update Google Sheets Row</h2>
+
+
+
+<p>Another great action with the Google Sheets integration is the ability to update a row if you already have values stored. Let&#8217;s say you want to provide a subscribers list for your client as an easy way to for him to have a good overview of his subscribers. </p>
+
+
+
+<p>So for new subscribers you would have have exported some data like Name, UserId. </p>
+
+
+
+<p>Now when they opt-in for a leadmagnet, loyalty program you might want to capture their email and or phone number as well. Instead of creating a new row with this information, you can simply update the one you already have for that subscriber.</p>
+
+
+
+<p>So let&#8217;s take a look at a subscriber data with basic information</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="811" height="320" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_64.png" alt="" class="wp-image-1673" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_64.png 811w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_64-300x118.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_64-768x303.png 768w" sizes="auto, (max-width: 811px) 100vw, 811px" /></figure>
+
+
+
+<p>As you can see we currently only have their name and user id. The user id is important as this will be your lookup value when wanting to update the subscriber&#8217;s data. This is the column that will never change as the user id is unique to that subscriber.</p>
+
+
+
+<p>So after you captured the additional subscriber&#8217;s data like phone number and email we can select the Google Sheets action <strong>Update Row</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="641" height="710" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_65.png" alt="" class="wp-image-1675" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_65.png 641w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_65-271x300.png 271w" sizes="auto, (max-width: 641px) 100vw, 641px" /></figure>
+
+
+
+<p>This way you will always have your Google Sheet up to date with the most recent information gathered from your Messenger bot.</p>
+
+
+
+<p>It will fill in or update the information that wasn&#8217;t there before. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="850" height="367" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_67.png" alt="" class="wp-image-1678" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_67.png 850w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_67-300x130.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_67-768x332.png 768w" sizes="auto, (max-width: 850px) 100vw, 850px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Clear Row On Google Sheet</h2>
+
+
+
+<p>Same as the updating row, we can also clear a row in Google Sheets. It pretty much the same process. For example, if you would like to delete subscribers from your sheet that have unsubscribed from your Messenger bot.</p>
+
+
+
+<p>You choose the action <strong>Google Sheets</strong> -&gt; <strong>Clear Row</strong>. The same principle applies. You select your spreadsheet and your worksheet. Then choose your Lookup Column. In this case, as mentioned before that will be the user id since this one remains constant. </p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="640" height="503" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_69.png" alt="" class="wp-image-1680" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_69.png 640w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_69-300x236.png 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></figure></div>
+
+
+
+<h2 class="wp-block-heading">Create Dynamic Galleries</h2>
+
+
+
+<p>This feature has been updated and simplified while even providing much more powerful features. You can find the documentation about this special new update <a href="https://docs.chatrace.com/kb/creating-dynamic-gallery-from-any-google-sheet/" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>Chatrace Google Sheet integration helps you in numerous ways to automate the export and import of your data from and to Google Sheets. It gives you much flexibility and more features are being added on a regular basis. </p>
+
+
+
+<p>If that happens this documentation will be updated to help you understand the new features, so you can implement them easily. </p>
+
+
+
+<p>If you have any questions be sure to let us know inside the <a href="https://www.facebook.com/groups/2702553000056069" target="_blank" rel="noreferrer noopener">community group</a> so we can help you with any problems you might have. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/google-sheet-integration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dialogflow</title>
+		<link>https://docs.chatrace.com/kb/build-smarter-bots-with-chatrace-dialogflow/</link>
+					<comments>https://docs.chatrace.com/kb/build-smarter-bots-with-chatrace-dialogflow/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2020 18:19:32 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=813</guid>
+
+					<description><![CDATA[Dialogflow&#160;is a natural language processing (NLP) platform that can be&#160;used&#160;to build smart chatbots able to understand a natural conversation. We advise you to use our]]></description>
+										<content:encoded><![CDATA[
+<p>Dialogflow&nbsp;is a natural language processing (NLP) platform that can be&nbsp;used&nbsp;to build smart chatbots able to understand a natural conversation.</p>
+
+
+
+<p></p>
+
+
+
+<p> We advise you to use our built-in AI to automate FAQs in your chatbot since our AI will always provide 100% accurate responses to your customers and you can train your bot much faster because you will only need to provide one version of any FAQ (training phrase).  You can learn how to train your bot <a aria-label="HERE (opens in a new tab)" href="https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/" target="_blank" rel="noreferrer noopener" class="rank-math-link">HERE</a>.</p>
+
+
+
+<p>In all other cases you can use Dialogflow to understand users messages.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Connect Dialogflow agent to chatrace</h3>
+
+
+
+<p>Go to Settings &gt; Integrations and scroll down until Dialogflow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="988" height="562" src="https://docs.chatrace.com/wp-content/uploads/2021/04/3.png" alt="" class="wp-image-1802" srcset="https://docs.chatrace.com/wp-content/uploads/2021/04/3.png 988w, https://docs.chatrace.com/wp-content/uploads/2021/04/3-300x171.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/04/3-768x437.png 768w" sizes="auto, (max-width: 988px) 100vw, 988px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>After you connect your Google account, you will be redirected to Settings in Chatrace again. Now you need to click Integration and scroll until Dialogflow again. Choose your Dialogflow agent and you are done.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="976" height="411" src="https://docs.chatrace.com/wp-content/uploads/2021/04/4-1.png" alt="" class="wp-image-1805" srcset="https://docs.chatrace.com/wp-content/uploads/2021/04/4-1.png 976w, https://docs.chatrace.com/wp-content/uploads/2021/04/4-1-300x126.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/04/4-1-768x323.png 768w" sizes="auto, (max-width: 976px) 100vw, 976px" /></figure>
+
+
+
+<p>Now your bot will automatically communicate with your Dialogflow agent every time a user sends a message to your bot. It is important to mention that the user language is automatically sent to Dialogflow also.</p>
+
+
+
+<p><strong><em>If the parameter name on Dialogflow matches a custom field in chatrace that value is automatically saved.</em></strong></p>
+
+
+
+<p>chatrace AI will not work if your Dialogflow agent contains the default intent. You need to remove the default intent on your Dialogflow agent if you want chatrace AI and Dialogflow to work simultaneously.<br></p>
+
+
+
+<h3 class="wp-block-heading">How to refer to user name on Dialogflow</h3>
+
+
+
+<p>{{{first_name}}} to refer to the user first name.</p>
+
+
+
+<p>{{{last_name}}} to refer to the user last name.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">How to send flows from Dialogflow</h2>
+
+
+
+<p>To send a flow you will need to send a JSON RESPONSE from Dialogflow. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="703" height="333" src="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow2-1.png" alt="" class="wp-image-821" srcset="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow2-1.png 703w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow2-1-300x142.png 300w" sizes="auto, (max-width: 703px) 100vw, 703px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="709" height="356" src="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow3.png" alt="" class="wp-image-822" srcset="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow3.png 709w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow3-300x151.png 300w" sizes="auto, (max-width: 709px) 100vw, 709px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="698" height="351" src="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow4.png" alt="" class="wp-image-823" srcset="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow4.png 698w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-connect-dialogflow4-300x151.png 300w" sizes="auto, (max-width: 698px) 100vw, 698px" /></figure></div>
+
+
+
+<p>To get the flow ID, go to the list of flows, and try to edit the flow. After that you can get the flow id in the URL bar of your browser.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="836" height="276" src="https://docs.chatrace.com/wp-content/uploads/2021/04/6.png" alt="" class="wp-image-1807" srcset="https://docs.chatrace.com/wp-content/uploads/2021/04/6.png 836w, https://docs.chatrace.com/wp-content/uploads/2021/04/6-300x99.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/04/6-768x254.png 768w" sizes="auto, (max-width: 836px) 100vw, 836px" /></figure>
+
+
+
+<p>You can send multiple JSON response and even combine multiple TEXT RESPONSE and JSON RESPONSE. It is possible to add/remove tags, set/clear custom fields from Dialogflow agent.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Use actions from Dialogflow</h3>
+
+
+
+<p>You can use any actions that is supported <a aria-label="external request (opens in a new tab)" href="https://docs.chatrace.com/kb/how-to-use-dynamic-contents/" target="_blank" rel="noreferrer noopener" class="rank-math-link">external request</a>. The <em>flow</em> flied is optional.</p>
+
+
+
+<p><strong>Add Tag</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "flow": flow_id,
+    "actions": &#91;
+        {
+            "action": "add_tag",
+            "tag_name": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<p><strong>Remove Tag</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "flow": flow_id,
+    "actions": &#91;
+        {
+            "action": "remove_tag",
+            "tag_name": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p><br><strong>Set Custom Field</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "flow": flow_id,
+    "actions": &#91;
+        {
+            "action": "set_field_value",
+            "field_name": "...",
+            "value": ""
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<p><strong>Unset Custom Field</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "flow": flow_id,
+    "actions": &#91;
+        {
+            "action": "unset_field_value",
+            "field_name": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Call Dialogflow intent from chatrace with event</h3>
+
+
+
+<p>You can use Dialogflow action on chatrace to start any intent at any point during the conversation. For example, you can start an intent when a user clicks a button.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="508" height="644" src="https://docs.chatrace.com/wp-content/uploads/2021/04/7.png" alt="" class="wp-image-1808" srcset="https://docs.chatrace.com/wp-content/uploads/2021/04/7.png 508w, https://docs.chatrace.com/wp-content/uploads/2021/04/7-237x300.png 237w" sizes="auto, (max-width: 508px) 100vw, 508px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="791" src="https://docs.chatrace.com/wp-content/uploads/2021/04/8-1024x791.png" alt="" class="wp-image-1809" srcset="https://docs.chatrace.com/wp-content/uploads/2021/04/8-1024x791.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/04/8-300x232.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/04/8-768x593.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/04/8.png 1146w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="881" height="619" src="https://docs.chatrace.com/wp-content/uploads/2021/04/9.png" alt="" class="wp-image-1810" srcset="https://docs.chatrace.com/wp-content/uploads/2021/04/9.png 881w, https://docs.chatrace.com/wp-content/uploads/2021/04/9-300x211.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/04/9-768x540.png 768w" sizes="auto, (max-width: 881px) 100vw, 881px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/build-smarter-bots-with-chatrace-dialogflow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Make (Formerly known as Integromat)</title>
+		<link>https://docs.chatrace.com/kb/integromat/</link>
+					<comments>https://docs.chatrace.com/kb/integromat/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2019 12:39:22 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=381</guid>
+
+					<description><![CDATA[Make integration allows you to send data from your bot to any other apps on Make. Also, you can send data from Any other app]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Make</strong> integration allows you to send data from your bot to any other apps on <strong>Make</strong>. Also, you can send data from <strong>Any</strong> other app to your bot using <strong>Make</strong>.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send data to other systems using Make Formerly Integromat" width="780" height="439" src="https://www.youtube.com/embed/oYqb_09q8I4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">How to find and connect Chatrace Make App</h4>
+
+
+
+<p>Navigate to Settings > Integration > <strong>Make</strong> </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_223924661-1024x486.png" alt="" class="wp-image-3458" srcset="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_223924661-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_223924661-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_223924661-768x364.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_223924661-1536x728.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_223924661.png 1845w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>Click the &#8220;<strong>Chatrace in Make</strong>&#8221; button and accept the invitation to use our <strong>Make</strong> App. . </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="985" height="232" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_40.png" alt="" class="wp-image-1631" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_40.png 985w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_40-300x71.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_40-768x181.png 768w" sizes="auto, (max-width: 985px) 100vw, 985px" /></figure></div>
+
+
+<h4 class="wp-block-heading">Send data from your bot to Make.</h4>
+
+
+
+<p>Chatrace provides many triggers that allow you to send data from your bot to <strong>Make</strong>. For example, you can automatically send contact data every time a tag is applied to a contact, a custom field value changes, a conversation is moved to a human or bot, and much more. Please check <strong>Make</strong> to see all triggers that Chatrace <strong>Make</strong> has.</p>
+
+
+
+<p>There is a special trigger that allows you to send data from your bot to <strong>Make</strong> at any time during your automation. Use <strong>Actions</strong> > <strong>Trigger</strong> > <strong>Trigger Make </strong>action. Name your <strong>Make</strong> action.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_224919037-1024x486.png" alt="" class="wp-image-3461" srcset="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_224919037-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_224919037-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_224919037-768x364.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_224919037-1536x728.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_224919037.png 1845w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After setup your flow that will send the data to <strong>Make</strong>. Go to <strong>Make</strong> and use the <strong>Watch New &#8220;Trigger Make&#8221; Event</strong> trigger.</p>
+
+
+
+<p>Below are triggers available that allow you to send data from your bot to <strong>Make</strong></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="487" src="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225227501-1024x487.png" alt="" class="wp-image-3462" srcset="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225227501-1024x487.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225227501-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225227501-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225227501-1536x731.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225227501.png 1876w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+</div>
+
+
+
+<h4 class="wp-block-heading">Send data from Make to your bot.</h4>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>From <strong>Make</strong> you can add tags to a contact, set a contact custom fields, send flows to a contact, and much more.</p>
+
+
+
+<p>Below are actions available on <strong>Make</strong> that allow you to send data to Chatrace or trigger automation from <strong>Make</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="482" src="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225437511-1024x482.png" alt="" class="wp-image-3463" srcset="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225437511-1024x482.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225437511-300x141.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225437511-768x362.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225437511-1536x723.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_225437511.png 1892w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/integromat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Zapier</title>
+		<link>https://docs.chatrace.com/kb/zapier/</link>
+					<comments>https://docs.chatrace.com/kb/zapier/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2019 12:20:02 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=319</guid>
+
+					<description><![CDATA[Zapier integration allows you to send data from your bot to any other apps on Zapier. Also, you can send data from Any other app]]></description>
+										<content:encoded><![CDATA[
+<p>Zapier integration allows you to send data from your bot to any other apps on Zapier. Also, you can send data from Any other app to your bot using Zapier.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send data from your bot to other systems using Zapier" width="780" height="439" src="https://www.youtube.com/embed/bmr8gFz5GUk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">How to find and connect Chatrace Zapier App</h2>
+
+
+
+<p>Navigate to Settings &gt; Integration &gt; Zapier </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="361" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_48-1024x361.png" alt="" class="wp-image-1647" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_48-1024x361.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_48-300x106.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_48-768x270.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_48.png 1531w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Click the &#8220;<strong>Chatrace in Zapier</strong>&#8221; button and accept the invitation to use our Zapier App. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="708" height="334" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_50.png" alt="" class="wp-image-1651" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_50.png 708w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_50-300x142.png 300w" sizes="auto, (max-width: 708px) 100vw, 708px" /></figure></div>
+
+
+<h2 class="wp-block-heading">Send data from your bot to Zapier</h2>
+
+
+
+<p>Chatrace provides many triggers that allow you to send data from your bot to Zapier. For example, you can automatically send contact data every time a tag is applied to a contact, a custom field value changes, a conversation is moved to a human or bot, and much more. Please check Zapier to see all triggers that Chatrace Zapier has.</p>
+
+
+
+<p>There is a special trigger that allows you to send data from your bot to Zapier at any time during your automation. Use <strong>Actions</strong> &gt; <strong>Trigger</strong> &gt; <strong>Trigger Zapier </strong>action. Provide any name to your Zapier action.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="491" src="https://docs.chatrace.com/wp-content/uploads/2023/09/image-1-1024x491.png" alt="" class="wp-image-3443" srcset="https://docs.chatrace.com/wp-content/uploads/2023/09/image-1-1024x491.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/09/image-1-300x144.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/09/image-1-768x368.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/09/image-1-1536x737.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/09/image-1.png 1918w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After setup your flow that will send the data to Zapier. Go to Zapier and use the <strong>New &#8220;Trigger a Zap&#8221; Event</strong> trigger.</p>
+
+
+
+<p></p>
+
+
+
+<p>Below are all triggers available that allow you to send data from your bot to Zapier</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="763" height="481" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_55.png" alt="" class="wp-image-1656" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_55.png 763w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_55-300x189.png 300w" sizes="auto, (max-width: 763px) 100vw, 763px" /></figure>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Send data from Zapier to your bot</h2>
+
+
+
+<p>From Zapier you can add tags to a contact, set a contact custom fields, send flows to a contact, and much more.</p>
+
+
+
+<p>Bellow are all actions available on Zapier that allow you to send data to Chatrace or trigger automation from Zapier.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="499" src="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_111346734-1024x499.png" alt="" class="wp-image-3447" srcset="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_111346734-1024x499.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_111346734-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_111346734-768x375.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_111346734.png 1226w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="574" src="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_122716435-1024x574.png" alt="" class="wp-image-3451" srcset="https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_122716435-1024x574.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_122716435-300x168.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_122716435-768x430.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/09/image_2023-09-14_122716435.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/zapier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stripe</title>
+		<link>https://docs.chatrace.com/kb/stripe/</link>
+					<comments>https://docs.chatrace.com/kb/stripe/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 04:08:52 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=249</guid>
+
+					<description><![CDATA[You can integrate your Stripe account with your chatbot to handle the sales on the Messenger platform, instead of diverting your audience to another platform]]></description>
+										<content:encoded><![CDATA[
+<p>You can integrate your Stripe account with your chatbot to handle the sales on the Messenger platform, instead of diverting your audience to another platform that they are not ready to. Follow the steps to connect your <em>Stripe</em> account.</p>
+
+
+
+<ul class="wp-block-list"><li><strong>Step 1:</strong> Select <em>Menu</em> on the top-left corner of the page.</li><li><strong>Step 2:</strong> Go to the <em>Ecommerce </em>section and click Settings on the options on the top.</li><li><strong>Step 3:</strong> You will find the first field <em>&#8220;Stripe account&#8221;  </em>on the list of other options.</li><li><strong>Step 3:</strong> Connect your stripe account to integrate with your chatbot.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/stripe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PayPal</title>
+		<link>https://docs.chatrace.com/kb/paypal/</link>
+					<comments>https://docs.chatrace.com/kb/paypal/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 10:03:03 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=556</guid>
+
+					<description><![CDATA[PayPal is an international payment gateway where you can accept payments from many countries in the world. If you are running a business or eCommerce]]></description>
+										<content:encoded><![CDATA[
+<p>PayPal is an international payment gateway where you can accept payments from many countries in the world. If you are running a business or eCommerce store worldwide, then PayPal gateway will help you to sell your products worldwide.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="906" height="630" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_35.png" alt="" class="wp-image-1597" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_35.png 906w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_35-300x209.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_35-768x534.png 768w" sizes="auto, (max-width: 906px) 100vw, 906px" /></figure></div>
+
+
+<p>In this integration field, you need a Client ID &amp; Secret of your PayPal account.&nbsp;</p>
+
+
+
+<p>Log in to your PayPal id (or create a new PayPal id) and go to <a href="https://developer.paypal.com" target="_blank" rel="noreferrer noopener">PayPal</a> to get the id and secret key. </p>
+
+
+
+<p>On the right-top of the web page, you will find a drop-down with your profile details.</p>
+
+
+
+<p>Select the drop-down and go to the dashboard.</p>
+
+
+
+<p>On the dashboard under the “My Apps &amp; Credentials” section, find the “REST API Apps” column and click “Create App” button to get the credentials that you need to use on Chatrace platform.</p>
+
+
+
+<p>Now, you need to enter the app name (Ex. Chatrace) and choose the business account to proceed further.</p>
+
+
+
+<p>In the next window, you will get the Client ID and secret key from PayPal platform.</p>
+
+
+
+<p>Copy those credentials and paste them into the respective fields in the Chatrace platform.</p>
+
+
+
+<p>That’s it.</p>
+
+
+
+<p>Your PayPal payment gateway account is now integrated with the Chatrace platform.</p>
+
+
+
+<p>Now, you will receive the money to your PayPal account that you collected with the help of Messenger chatbots for your business.</p>
+
+
+
+<p>Hope this article helps you to learn more about “PayPal Integration” on Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/paypal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Razorpay</title>
+		<link>https://docs.chatrace.com/kb/razorpay/</link>
+					<comments>https://docs.chatrace.com/kb/razorpay/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 25 Oct 2021 12:43:00 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=725</guid>
+
+					<description><![CDATA[Razorpay is the only payments solution in India that allows businesses to accept, process and disburse payments with its product suite. It gives you access]]></description>
+										<content:encoded><![CDATA[
+<p>Razorpay is the only payments solution in India that allows businesses to accept, process and disburse payments with its product suite. It gives you access to all payment modes including credit card, debit card, netbanking, UPI and popular wallets including JioMoney, Mobikwik, Airtel Money, FreeCharge, Ola Money and PayZapp.</p>
+
+
+
+<p>Chatrace has a built-in integration with Razorpay that allows your business to accept payments inside your bot.</p>
+
+
+
+<p>Follow the below steps to connect Razorpay to Chatrace</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">1 &#8211; Generate API Key in Razorpay</h4>
+
+
+
+<p>1.1 Log into your Razorpay Dashboard with appropriate credentials.</p>
+
+
+
+<p>1.2 Select the mode (<strong>Test</strong>&nbsp;or&nbsp;<strong>Live</strong>) for which you want to generate the API key.</p>
+
+
+
+<p>1.3 Navigate to&nbsp;<strong>Settings</strong>&nbsp;→&nbsp;<strong>API Keys</strong>&nbsp;→&nbsp;<strong>Generate Key</strong>&nbsp;to generate key for the selected mode.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Generate API Keys in Live Mode" width="780" height="439" src="https://www.youtube.com/embed/30REpNtYSak?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Generate Razorpay API key</figcaption></figure>
+
+
+
+<p> </p>
+
+
+
+<h4 class="wp-block-heading">2 &#8211; Connect Chatrace to Razorpay</h4>
+
+
+
+<p>Navigate to <strong>Settings</strong>  → <strong>Integrations</strong>  →  <strong>Razorpay</strong> and click connect and user the data generated in step 1.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200434169-1024x488.png" alt="" class="wp-image-3626" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200434169-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200434169-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200434169-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200434169-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200434169.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200514636-1024x488.png" alt="" class="wp-image-3627" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200514636-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200514636-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200514636-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200514636-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200514636.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After you connect Razorpay, navigate to  Navigate to <strong>Tool </strong>>> <strong>Ecommerce</strong>  → <strong>Settings</strong>  →  <strong>Payment</strong> and enable <strong>card</strong> in payment methods. Also change to currency to <strong>INR</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200653247-1024x488.png" alt="" class="wp-image-3628" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200653247-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200653247-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200653247-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200653247-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200653247.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200841368-1024x488.png" alt="" class="wp-image-3629" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200841368-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200841368-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200841368-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200841368-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200841368.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">3 &#8211; Set up webbook in Razorpay</h4>
+
+
+
+<p>3.1 Log into the&nbsp;<a rel="noreferrer noopener" href="https://dashboard.razorpay.com/#/access/signin" target="_blank">Razorpay Dashboard</a>&nbsp;and navigate to&nbsp;<strong>Settings</strong>&nbsp;→&nbsp;<strong>Webhooks</strong>.</p>
+
+
+
+<p>3.2 Click the&nbsp;<strong>+ Add New Webhook</strong>&nbsp;button.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-1024x488.png" alt="" class="wp-image-3623" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>3.3 In the&nbsp;<strong>Webhook Setup</strong>&nbsp;pop-up page:</p>
+
+
+
+<p><strong>Webhook URL (Chatrace)</strong>: https://chatrace.com/webhooks/razorpay.php<br><strong>Webhook URL (Whitelabel)</strong>: https://subdomain/webhooks/razorpay.php </p>
+
+
+
+<p><strong>Secret</strong>: Use your Secret ID generated in step 1</p>
+
+
+
+<p><strong>Email</strong>: Your email address</p>
+
+
+
+<p><strong>Events</strong>: payment.authorized</p>
+
+
+
+<p></p>
+
+
+
+<p>3.4 Click&nbsp;<strong>Create Webhook</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-1024x488.png" alt="" class="wp-image-3623" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-22.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200122213-1024x488.png" alt="" class="wp-image-3625" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200122213-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200122213-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200122213-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200122213-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-10_200122213.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/razorpay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MailChimp</title>
+		<link>https://docs.chatrace.com/kb/mailchimp/</link>
+					<comments>https://docs.chatrace.com/kb/mailchimp/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2019 12:16:52 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=311</guid>
+
+					<description><![CDATA[MailChimp integration with Chatrace can give you more power on the omnichannel approach. Because integrating email marketing channels &#38; Messenger marketing channels can give you]]></description>
+										<content:encoded><![CDATA[
+<p>MailChimp integration with Chatrace can give you more power on the omnichannel approach. Because integrating email marketing channels &amp; Messenger marketing channels can give you multiple possibilities.</p>
+
+
+
+<p>Or, follow the simple steps below to know how to integrate MailChimp with Chatrace,</p>
+
+
+
+<ul class="wp-block-list"><li>Step 1: Select Menu on the top-left corner of the page.</li><li>Step 2: Go to Settings and Select Integrations on the top menu. </li><li>Step 3: Look for MailChimp Integration and click the Connect button.</li><li>Step 4: Enter your MailChimp credentials to proceed further and click Login.</li><li>Step 5: Hurray! Your MailChimp account has been connected with Chatrace now.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/mailchimp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ActiveCampaign</title>
+		<link>https://docs.chatrace.com/kb/activecampaign/</link>
+					<comments>https://docs.chatrace.com/kb/activecampaign/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2019 12:17:34 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=312</guid>
+
+					<description><![CDATA[ActiveCampaign integration with Chatrace can give you more power on the omnichannel approach. Because integrating email marketing channels &#38; Messenger marketing channels can give you]]></description>
+										<content:encoded><![CDATA[
+<p>ActiveCampaign integration with Chatrace can give you more power on the omnichannel approach. Because integrating email marketing channels &amp; Messenger marketing channels can give you multiple possibilities.</p>
+
+
+
+<p>Or, follow the simple steps below to know how to integrate ActiveCampaign with Chatrace,</p>
+
+
+
+<ul class="wp-block-list"><li>Step 1: Select Menu on the top-left corner of the page.</li><li>Step 2: Go to Settings and Select Integrations on the top menu. </li><li>Step 3: Look for ActiveCampaign Integration and enter the API URL &amp; Key to proceed further.</li><li>Step 4: Here is the link to help you find the API URL &amp; Key on ActiveCampaign: <a href="https://help.activecampaign.com/hc/en-us/articles/207317590-Getting-started-with-the-API#how-to-obtain-your-activecampaign-api-url-and-key">https://help.activecampaign.com/hc/en-us/articles/207317590-Getting-started-with-the-API#how-to-obtain-your-activecampaign-api-url-and-key</a>.</li><li>Step 5: Your ActiveCampaign account has been connected with Chatrace now.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/activecampaign/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mailerlite</title>
+		<link>https://docs.chatrace.com/kb/mailerlite/</link>
+					<comments>https://docs.chatrace.com/kb/mailerlite/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 10:58:04 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=572</guid>
+
+					<description><![CDATA[Mailerlite is the complete marketing automation platform where you can create email drip campaigns, landing pages, popups, and even surveys also. Integrating Mailerlite with the]]></description>
+										<content:encoded><![CDATA[
+<p>Mailerlite is the complete marketing automation platform where you can create email drip campaigns, landing pages, popups, and even surveys also. Integrating Mailerlite with the Chatrace platform will help your business to reach the omnichannel marketing approach. </p>
+
+
+
+<p>In this article, you will learn how to integrate the Mailerlite email automation platform with the Chatrace platform, so that you can acquire an email from your Messenger subscribers on the flow and add them to your email marketing campaigns.</p>
+
+
+
+<p>Follow the below steps to integrate Mailerlite with Chatrace platform.</p>
+
+
+
+<p>Select Menu on the top-left corner of the page.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="281" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_32-1024x281.png" alt="" class="wp-image-1588" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_32-1024x281.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_32-300x82.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_32-768x211.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_32-1536x422.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_32.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Go to the Settings section and select the Integrations tab.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="906" height="226" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_33.png" alt="" class="wp-image-1589" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_33.png 906w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_33-300x75.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_33-768x192.png 768w" sizes="auto, (max-width: 906px) 100vw, 906px" /></figure></div>
+
+
+
+<p>Look for Mailerlite Integration column and enter the API key to proceed further.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="891" height="575" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_34.png" alt="" class="wp-image-1591" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_34.png 891w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_34-300x194.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_34-768x496.png 768w" sizes="auto, (max-width: 891px) 100vw, 891px" /></figure></div>
+
+
+
+<p>You can find the API key on your Mailerlite account settings. Or else the following link will help you to find the API key on this email automation platform: <a href="https://app.mailerlite.com/integrations/api/">https://app.mailerlite.com/integrations/api/</a></p>
+
+
+
+<p>Now copy the API from the Mailerlite platform and paste that into the Chatrace platform to start an omnichannel marketing approach for your business.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/mailerlite/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

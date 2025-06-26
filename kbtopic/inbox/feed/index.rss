@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inbox &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/inbox/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Mar 2025 14:13:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Inbox &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to send a flow from the inbox?</title>
+		<link>https://docs.chatrace.com/kb/how-to-send-a-flow-from-the-inbox/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-send-a-flow-from-the-inbox/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 21:45:24 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3041</guid>
+
+					<description><![CDATA[This feature lets you send a Flow to your Contact in the Inbox. Send Flow to your Contact In the Inbox. Click on the &#8216;Send]]></description>
+										<content:encoded><![CDATA[
+<p>This feature lets you send a Flow to your Contact in the Inbox.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to send flow from inbox" width="780" height="439" src="https://www.youtube.com/embed/VVObeUwusDk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Send Flow to your Contact In the Inbox.</h4>
+
+
+
+<p>Click on the &#8216;Send Flow&#8217; icon >> select Flow >> Click on the send icon to send the flow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-27-1024x495.png" alt="" class="wp-image-3166" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-27-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-27-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-27-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-27-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-27.png 1870w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_224241829-1024x495.png" alt="" class="wp-image-3167" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_224241829-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_224241829-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_224241829-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_224241829-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_224241829.png 1870w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-send-a-flow-from-the-inbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to send a WhatsApp Template Message from the inbox?</title>
+		<link>https://docs.chatrace.com/kb/how-to-send-a-whatsapp-template-message-from-the-inbox/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-send-a-whatsapp-template-message-from-the-inbox/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 21:16:48 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3044</guid>
+
+					<description><![CDATA[This feature allows you to send WhatsApp Template Messages directly from the Inbox. Send WhatsApp Template Message from Inbox Click on send flow icon >>]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to send WhatsApp Template Messages directly from the Inbox.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send template message from Inbox" width="780" height="439" src="https://www.youtube.com/embed/gNR7c4ETBYE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Send WhatsApp Template Message from Inbox</h4>
+
+
+
+<p><strong>Click on send flow icon >> select Template Message >> select WhatsApp Template Message of your choice >> Click send.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-1024x495.png" alt="" class="wp-image-3153" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-1024x495.png" alt="" class="wp-image-3154" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-1024x495.png" alt="" class="wp-image-3156" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-1024x495.png" alt="" class="wp-image-3158" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-send-a-whatsapp-template-message-from-the-inbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to use saved replies in the inbox?</title>
+		<link>https://docs.chatrace.com/kb/how-to-use-saved-replies-in-the-inbox/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-use-saved-replies-in-the-inbox/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 21:02:36 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3048</guid>
+
+					<description><![CDATA[Saved replies allow you to create &#38; save answers to common questions/frequently asked questions, greetings, etc., to reply to your customer&#8217;s questions faster. Create Saved]]></description>
+										<content:encoded><![CDATA[
+<p>Saved replies allow you to create &amp; save answers to common questions/frequently asked questions, greetings, etc., to reply to your customer&#8217;s questions faster.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to create and use &#039;saved replies&#039; in Inbox" width="780" height="439" src="https://www.youtube.com/embed/tRhQNRzPKmg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Create Saved replies</h4>
+
+
+
+<p><strong>Click on the &#8216;Saved replies&#8217; icon >> Click on &#8216;Add New&#8217;>> Add shortcut &amp; message, then click Save.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214734857-1024x495.png" alt="" class="wp-image-3145" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214734857-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214734857-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214734857-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214734857-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214734857.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214920277-1024x495.png" alt="" class="wp-image-3146" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214920277-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214920277-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214920277-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214920277-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_214920277.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_215107836-1024x495.png" alt="" class="wp-image-3147" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_215107836-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_215107836-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_215107836-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_215107836-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_215107836.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">View all Saved replies.</h4>
+
+
+
+<p><strong>Tpye forward slash in the Inbox dialog box (/), and all saved replies will appear.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_220009508-1024x494.png" alt="" class="wp-image-3150" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_220009508-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_220009508-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_220009508-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_220009508-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_220009508.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-use-saved-replies-in-the-inbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to block a contact?</title>
+		<link>https://docs.chatrace.com/kb/how-to-block-a-contact/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-block-a-contact/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 19:18:53 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3059</guid>
+
+					<description><![CDATA[This feature allows you to Block unwanted Contact on your account. Block a Contact in Inbox Select the Contact/Conversation you want to Block &#62;&#62; Click]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to Block unwanted Contact on your account.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to dynamically block a contact" width="780" height="439" src="https://www.youtube.com/embed/uAK62bJwO7s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Block a Contact in Inbox</h4>
+
+
+
+<p><strong>Select the Contact/Conversation you want to Block &gt;&gt; Click on Menu &gt;&gt; Select Block Contact.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203803279-1024x495.png" alt="" class="wp-image-3131" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203803279-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203803279-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203803279-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203803279-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203803279.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Block a Contact In Flow Builder</h4>
+
+
+
+<p><strong>Select Action &gt;&gt; Inbox &gt;&gt; Block Contact</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_201754661-1024x495.png" alt="" class="wp-image-3110" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_201754661-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_201754661-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_201754661-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_201754661-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_201754661.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-block-a-contact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to archive a conversation?</title>
+		<link>https://docs.chatrace.com/kb/how-to-archive-a-conversation/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-archive-a-conversation/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 11:37:30 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3063</guid>
+
+					<description><![CDATA[This feature allows you to archive a Conversation. The Conversations will automatically be Unarchive if the Contact sends a message to your bot again. Archive]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to archive a Conversation. The Conversations will automatically be Unarchive if the Contact sends a message to your bot again.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to archive a conversation" width="780" height="439" src="https://www.youtube.com/embed/DpCB1Evmke0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Archive Conversation from Inbox</h4>
+
+
+
+<p><strong>Select the conversation you want to Archive &gt;&gt; Click on Menu &gt;&gt; Select Archive.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-15-1024x495.png" alt="" class="wp-image-3100" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-15-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-15-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-15-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-15-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-15.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Archive Conversation in Flow Builder</h4>
+
+
+
+<p><strong>Click on Action &gt;&gt; Inbox &gt;&gt; Archive</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_115206244-1024x495.png" alt="" class="wp-image-3102" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_115206244-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_115206244-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_115206244-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_115206244-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_115206244.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-archive-a-conversation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to delete a contact?</title>
+		<link>https://docs.chatrace.com/kb/how-to-delete-a-contact/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-delete-a-contact/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sun, 11 Jun 2023 00:01:18 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3065</guid>
+
+					<description><![CDATA[The Delete feature allows you to easily delete unwanted contacts on your account. Delete a contact from Inbox. To Delete the contact from the Inbox,]]></description>
+										<content:encoded><![CDATA[
+<p>The Delete feature allows you to easily delete unwanted contacts on your account.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to delete contact" width="780" height="439" src="https://www.youtube.com/embed/crmHMrAngcc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Delete a contact from Inbox.</h4>
+
+
+
+<p><strong>To Delete the contact from the Inbox, select the contact you want to Delete &gt;&gt; click on the </strong>menu &gt;&gt; select Delete.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004437836-1024x495.png" alt="" class="wp-image-3079" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004437836-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004437836-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004437836-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004437836-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004437836.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Delete a contact using the &#8216;Delete&#8217; action in the flow builder</h4>
+
+
+
+<p><strong>Select Action &gt;&gt; Delete Contact</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004707321-1024x495.png" alt="" class="wp-image-3080" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004707321-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004707321-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004707321-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004707321-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_004707321.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Delete a contact/contacts from the Contact section</h4>
+
+
+
+<p><strong>Select the contact/contacts you want to delete &gt;&gt; click on the menu &gt;&gt; select delete</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_005340024-1024x494.png" alt="" class="wp-image-3081" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_005340024-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_005340024-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_005340024-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_005340024-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-11_005340024.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-delete-a-contact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to assign a conversation to an admin or team?</title>
+		<link>https://docs.chatrace.com/kb/how-to-assign-a-conversation-to-an-admin-or-team/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-assign-a-conversation-to-an-admin-or-team/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 09:49:49 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3061</guid>
+
+					<description><![CDATA[This powerful feature allows you to assign a conversation to an admin or a team. Create your Inbox Team To create your team, goto to]]></description>
+										<content:encoded><![CDATA[
+<p>This powerful feature allows you to assign a conversation to an admin or a team.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to dynamically assign conversation to an admin" width="780" height="439" src="https://www.youtube.com/embed/oObeKTa-4fo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Create your Inbox Team</h4>
+
+
+
+<p><strong>To create your team, goto to Settings &gt;&gt; Admin &gt;&gt; Manage (Inbox team)</strong></p>
+
+
+
+<p>Before you can assign a Conversation to an Inbox Team, first, you need to create your Team</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_140919191-1024x495.png" alt="" class="wp-image-3086" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_140919191-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_140919191-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_140919191-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_140919191-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_140919191.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Click on &#8216;Add&#8217; &gt;&gt; Name your Inbox Team &amp; select the Team Members</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141205168-1024x495.png" alt="" class="wp-image-3087" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141205168-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141205168-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141205168-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141205168-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141205168.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Assign a conversation to an Admin or Team in Inbox</h4>
+
+
+
+<p>Click on the Conversation you want to assign to an admin &gt;&gt; Click on the Assign Conversation option and select the admin you want to assign the Conversation.</p>
+
+
+
+<p><strong>Assign Conversation to an Admin</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141517289-1024x495.png" alt="" class="wp-image-3089" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141517289-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141517289-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141517289-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141517289-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141517289.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Assign Conversation to a Team</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141430202-1024x495.png" alt="" class="wp-image-3088" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141430202-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141430202-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141430202-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141430202-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-12_141430202.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Assign Conversation to an Admin or Team from the Flow Builder</h2>
+
+
+
+<p><strong>Click on action &gt;&gt; Inbox &gt;&gt; Assign</strong> Conversation<strong> to an Admin (You Assign the Conversation to an Admin to Team)</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-13-1024x495.png" alt="" class="wp-image-3094" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-13-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-13-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-13-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-13-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-13.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-14-1024x495.png" alt="" class="wp-image-3095" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-14-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-14-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-14-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-14-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-14.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading" id="block-d7d234b5-ef02-4987-b1a1-3496c8f3d1f0">Auto Assign Conversation Feature</h2>
+
+
+
+<p id="block-1a386d89-888e-4449-9529-a73c8c814550">The Auto Assign Conversation feature serves to optimize the management of conversations by automatically designating them to available admins or agents. This feature is intended to enhance workflow efficiency and ensure equitable distribution of conversation assignments among team members.</p>
+
+
+
+<h2 class="wp-block-heading" id="block-5bbaa0fb-6d96-4127-b060-56806c28ceaa">Auto Assign Conversation Options</h2>
+
+
+
+<p>Users may configure the Auto Assign Conversation feature according to several distinct options tailored to meet their organizational requirements</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145336457-1024x468.png" alt="" class="wp-image-3881" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145336457-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145336457-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145336457-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145336457.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul id="block-adc7b45d-c402-4225-a7c9-db354b6a21b1" class="wp-block-list">
+<li><strong>Equal Conversation Distribution (All Time)</strong><br>This option guarantees that conversations are allocated evenly among all available admins and agents at all times. This approach fosters fairness in workload distribution, mitigating the risk of overwhelming any single individual with excessive conversations.</li>
+
+
+
+<li><strong>Equal Conversation Distribution (Last Hour)</strong><br>This configuration concentrates on achieving balance in conversation distribution based on activity from the past hour. It ensures that recent workloads are taken into account, allowing those admins who have engaged with fewer conversations during that time to receive additional assignments</li>
+
+
+
+<li><strong>Equal Conversation Distribution (Last 8 Hours)</strong><br>Analogous to the last hour option, this setting facilitates the distribution of conversations based on activity over the previous eight hours. </li>
+
+
+
+<li><strong>Equal Conversation Distribution (Last 24 Hours)</strong><br>This option entails balancing workloads based on conversation activity over the prior 24 hours.</li>
+</ul>
+
+
+
+<p id="block-7c471ef6-b638-44b4-b99b-35abc217911a"></p>
+
+
+
+<h2 class="wp-block-heading" id="block-86dd861b-9d0e-4a33-a1e0-6ec35adad726">Success and Failure Nodes</h2>
+
+
+
+<p>The Auto Assign Conversation feature incorporates two operational pathways: the success node and the failure node.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Success Node</strong><br>This node is triggered when the system successfully assigns a conversation to an available admin. Upon activation, subsequent actions defined within the workflow may be initiated to further manage the conversation.</li>
+
+
+
+<li><strong>Failure Node</strong><br>This node is activated when the system is unable to assign a conversation due to the unavailability of an admin. In such instances, organizations may utilize this node to outline alternative actions.</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145418681-1024x468.png" alt="" class="wp-image-3882" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145418681-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145418681-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145418681-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_145418681.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-assign-a-conversation-to-an-admin-or-team/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to mark a conversation as a follow-up?</title>
+		<link>https://docs.chatrace.com/kb/how-to-mark-a-conversation-as-a-follow-up/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-mark-a-conversation-as-a-follow-up/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2023 16:05:10 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3055</guid>
+
+					<description><![CDATA[This feature allows you to Mark a conversation as follow-up. Mark a conversation as follow-up in Inbox. Select the Contact/Conversation &#62;&#62; Click on Menu &#62;&#62;]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to Mark a conversation as follow-up.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to dynamically mark conversation as follow up" width="780" height="439" src="https://www.youtube.com/embed/7sev3vXG_3A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading"><strong>Mark a conversation as follow-up in Inbox.</strong></h4>
+
+
+
+<p><strong>Select the Contact/Conversation &gt;&gt; Click on Menu &gt;&gt; Mark as follow-up </strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_202919044-1024x495.png" alt="" class="wp-image-3126" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_202919044-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_202919044-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_202919044-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_202919044-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_202919044.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Mark a conversation as follow-up in Flow Builder.</h4>
+
+
+
+<p><strong>Select Action &gt;&gt; Inbox &gt;&gt; Mark conversation as follow-up</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203412899-1024x495.png" alt="" class="wp-image-3129" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203412899-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203412899-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203412899-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203412899-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_203412899.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-mark-a-conversation-as-a-follow-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to view actions performed in the inbox?</title>
+		<link>https://docs.chatrace.com/kb/how-to-view-actions-performed-in-the-inbox/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-view-actions-performed-in-the-inbox/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2023 16:02:03 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3053</guid>
+
+					<description><![CDATA[This feature allows you to see all the actions executed on a Contact. See all executed actions in Inbox. Check the &#8216;View executed action&#8217; box.]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to see all the actions executed on a Contact.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to view executed actions in the Inbox" width="780" height="439" src="https://www.youtube.com/embed/LwC_h1OT33Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">See all executed actions in Inbox.</h4>
+
+
+
+<p><strong>Check the &#8216;View executed action&#8217; box.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_213133275-1024x494.png" alt="" class="wp-image-3142" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_213133275-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_213133275-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_213133275-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_213133275-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_213133275.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-view-actions-performed-in-the-inbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to add a note to a contact in the inbox?</title>
+		<link>https://docs.chatrace.com/kb/how-to-add-a-note-to-a-contact-in-the-inbox/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-add-a-note-to-a-contact-in-the-inbox/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2023 16:00:42 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3051</guid>
+
+					<description><![CDATA[This feature allows you to add a note or keep a record of important information about a contact. Add Note to a Contact. Click on]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to add a note or keep a record of important information about a contact.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to add note to contact in the Inbox" width="780" height="439" src="https://www.youtube.com/embed/FhuHSvNVX8o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Add Note to a Contact.</h4>
+
+
+
+<p><strong>Click on the &#8216;Add Note&#8217; icon in the inbox >> input your note >> click save.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-26-1024x495.png" alt="" class="wp-image-3161" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-26-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-26-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-26-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-26-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-26.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222448731-1024x495.png" alt="" class="wp-image-3162" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222448731-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222448731-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222448731-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222448731-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222448731.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222623029-1024x495.png" alt="" class="wp-image-3163" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222623029-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222623029-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222623029-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222623029-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_222623029.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-add-a-note-to-a-contact-in-the-inbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

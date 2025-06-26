@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Viber &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/viber/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Jun 2023 23:19:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Viber &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get started with Viber Automation</title>
+		<link>https://docs.chatrace.com/kb/viber-automation/</link>
+					<comments>https://docs.chatrace.com/kb/viber-automation/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 08 Jun 2022 17:22:36 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2250</guid>
+
+					<description><![CDATA[Chatrace allows you to easily create Viber bots for free to automate conversations between your business and your customers. Unlike Messenger, WhatsApp, and Instagram which]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace allows you to easily create Viber bots for free to automate conversations between your business and your customers. </p>
+
+
+
+<p>Unlike Messenger, WhatsApp, and Instagram which have limitations on when you can send contacts a free broadcast messages (24h window), Viber doesn&#8217;t have any limitations on when you can send a contact a message. On the Viber channel, you can send a broadcast to your contact list any time for free.</p>
+
+
+
+<p>All channels are available on our free plan including <strong>Viber</strong>. </p>
+
+
+
+<h3 class="wp-block-heading">What you will need?</h3>
+
+
+
+<p>In order to create a Viber bot, you will need to have a Viber account. To create a Viber account just Install the Viber app from <a href="https://play.google.com/store/apps/details?id=com.viber.voip&amp;hl=en&amp;gl=US" target="_blank" rel="noreferrer noopener">Play Store</a> or <a href="https://apps.apple.com/app/id382617920?mt=8" target="_blank" rel="noreferrer noopener">Apple Store</a>.</p>
+
+
+
+<h3 class="wp-block-heading">How to create a Viber bot?</h3>
+
+
+
+<p>1 &#8211; Create your Viber bot on Viber by clicking this <a rel="noreferrer noopener" href="https://partners.viber.com/account/create-bot-account" target="_blank">link</a>. After you create your bot you will need to copy the bot token.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="975" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-2-1024x975.png" alt="" class="wp-image-2257" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-2-1024x975.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-2-300x286.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-2-768x731.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-2.png 1360w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>2 &#8211; Go to <a rel="noreferrer noopener" href="https://chatrace.com/en/new-bot" target="_blank">Chatrace</a> and choose the Viber channel.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="982" height="941" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image.png" alt="" class="wp-image-2254" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image.png 982w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-300x287.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-768x736.png 768w" sizes="(max-width: 982px) 100vw, 982px" /></figure>
+
+
+
+<p>3 &#8211; Insert the <strong>Bot Token </strong>that you get in step 1 and click <strong>Continue</strong>.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="903" height="731" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-1.png" alt="" class="wp-image-2255" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-1.png 903w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-1-300x243.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-1-768x622.png 768w" sizes="(max-width: 903px) 100vw, 903px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">3 &#8211; How to create flows for Viber Channel?</h4>
+
+
+
+<p>Go to Menu &gt; Flows and create a new flow. When creating flows always use the <strong>Omnichannel</strong> message type. Using <strong>Omnichannel</strong> will allow you to create a flow once and the same flow will work on all current and future channels if the elements that you use on your flows are compatible with other channels. Please what</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="503" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-3-1024x503.png" alt="" class="wp-image-2258" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-3-1024x503.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-3-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-3-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-3-1536x755.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-3.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to create a basic conversation flow" width="780" height="439" src="https://www.youtube.com/embed/IkU6_JnHabE?list=PLtVr4HgJMyadDeZn86_CjeoxyfOW5rza6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">How to send a broadcast message?</h4>
+
+
+
+<p>1 &#8211; Create the flow that you want to send.</p>
+
+
+
+<p>2 &#8211; Go to Menu &gt; Broadcasts and click the <strong>Send</strong> button.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="541" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-4-1024x541.png" alt="" class="wp-image-2259" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-4-1024x541.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-4-300x159.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-4-768x406.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-4.png 1355w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>3 &#8211; Choose <strong>Viber</strong> as a <strong>Message Channel</strong> and select the flow you created in step 1.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="540" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-5-1024x540.png" alt="" class="wp-image-2260" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-5-1024x540.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-5-300x158.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-5-768x405.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-5.png 1358w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">What data does Viber provide about a contact?</h4>
+
+
+
+<p>Viber provides contact name, profile image language, and country. Please be aware that Viber contacts can opt to not share their data with a bot. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/viber-automation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to get user&#8217;s location on WhatsApp, Viber and Telegram</title>
+		<link>https://docs.chatrace.com/kb/how-to-get-users-location/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-get-users-location/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2023 23:10:21 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2715</guid>
+
+					<description><![CDATA[Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to get your customer&#8217;s location at one point or another in the customer journey. Chatrace provides two system fields you can use to perform actions on the contact&#8217;s geological data.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to get users location on whatsapp" width="780" height="439" src="https://www.youtube.com/embed/5_IzaMg73u8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To get the user’s location, follow the steps below</p>
+
+
+
+<ul class="wp-block-list">
+<li>Request the user’s location</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="484" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png" alt="" class="wp-image-2725" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-768x363.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6.png 1326w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh5.googleusercontent.com/t31bw7GIvWlw3rqt3l1vDTU3jVBwJKD-LCtiSy3O3WcJkyio5UXhR79VjH9mNKj-CrxYTyNy68gLWpVUOy58KQm8VIJyO_ti-NFwUCcoTPVv_SdbB5fKKHKcQ3w0FRtU-MyVrlYn6_bke8e7EDLSgHc" alt=""/></figure>
+
+
+
+<p>Once the user shares his/her location, the user’s entire geographical data (location) will be saved in the custom field you used on the Get User Data block.</p>
+
+
+
+<p><strong> </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>You can access the entire geographical data (location) in the custom field you used on the Get User Data block (You can access both latitude and longitude)</li>
+
+
+
+<li>You can access the ‘latitude’ of the last location the user/contact shared on {{last_latitude}}</li>
+
+
+
+<li>You can access the longitude of the last location the user/contact shared on {{last_longitude}}&nbsp;</li>
+</ul>
+
+
+
+<p><strong>Advance</strong></p>
+
+
+
+<p>To&nbsp; get the URL of the user’s location, use the Url below</p>
+
+
+
+<p><a href="https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C'{{last_longitude}} ">https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C{{last_longitude}} </a></p>
+
+
+
+<p><strong><em>Note: The URL will work based on the last location shared by the user/contact.</em></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-get-users-location/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to send a broadcast message to Viber contacts</title>
+		<link>https://docs.chatrace.com/kb/how-to-send-a-broadcast-message-to-viber-contacts/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-send-a-broadcast-message-to-viber-contacts/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Thu, 08 Jun 2023 17:25:09 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2974</guid>
+
+					<description><![CDATA[The broadcast tool allows you to send messages to multiple contacts simultaneously in an automated manner. It helps businesses to send announcements, discounts, updates, and]]></description>
+										<content:encoded><![CDATA[
+<p>The broadcast tool allows you to send messages to multiple contacts simultaneously in an automated manner. It helps businesses to send announcements, discounts, updates, and other notifications to their contacts.</p>
+
+
+
+<p>Follow the steps below to send a broadcast message to your Viber contacts.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send broadcast message on Viber" width="780" height="439" src="https://www.youtube.com/embed/V5D-LJzrOPk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">1 &#8211; Create your flow</h4>
+
+
+
+<p>Go to Menu &gt; Flows and click the <strong>Add</strong> button. You can watch this <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=IkU6_JnHabE" target="_blank">video</a> to learn how to create a flow.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-1024x495.png" alt="" class="wp-image-2935" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h4 class="wp-block-heading">2 &#8211; Send your flow to your contact list</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png" alt="" class="wp-image-2924" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Select the <strong>Viber</strong> channel to proceed.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180648577-1024x488.png" alt="" class="wp-image-2976" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180648577-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180648577-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180648577-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180648577-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180648577.png 1868w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>Select your broadcast flow and click send</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180834304-1024x488.png" alt="" class="wp-image-2979" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180834304-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180834304-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180834304-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180834304-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-08_180834304.png 1868w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-send-a-broadcast-message-to-viber-contacts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

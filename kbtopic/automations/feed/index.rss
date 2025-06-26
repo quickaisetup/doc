@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Automations &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/automations/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Apr 2025 08:40:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Automations &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to train your bot to reply to messages?</title>
+		<link>https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2020 14:25:59 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=418</guid>
+
+					<description><![CDATA[Automated responses allow your business to save money and human resources by automatically replying to your user messages. Chatrace allows you to create bots capable]]></description>
+										<content:encoded><![CDATA[
+<p>Automated responses allow your business to save money and human resources by automatically replying to your user messages.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to train your bot to respond to messages" width="780" height="439" src="https://www.youtube.com/embed/NSe4syEFHdk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Chatrace allows you to create bots capable of understanding any message related to your business even if your customers type it wrong.</p>
+
+
+
+<p>When you train your bot, never worry with lowercase and uppercase since your bot will handle it for you.</p>
+
+
+
+<p>There are two ways to train your bot to auto reply to customers&#8217; messages </p>
+
+
+
+<p><strong>1- Short Keywords. </strong><br>The bot will only reply if the user message contains a short keyword. Short keywords normally haven’t any relation with your business and they are very short. <strong>Greetings</strong> and <strong>thank</strong> you messages like “good morning”, “good evening”, “hello”, “hi”, “How are you”, and “thank you” are good examples.</p>
+
+
+
+<p>Never add long sentences as a Short keyword. We advise you to combine a maximum of 2 words as Short Keywords, otherwise use <strong>Business Frequently Asked Questions</strong>.</p>
+
+
+
+<p> To add a  <em>Short Keyword</em>, go to Automated Response and click the &#8220;<strong>Add</strong>&#8221; button. </p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="599" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-1024x599.png" alt="" class="wp-image-2267" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-1024x599.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-768x449.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-6.png 1377w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" width="1024" height="510" src="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-1024x510.png" alt="" class="wp-image-853" srcset="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-1024x510.png 1024w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-300x149.png 300w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-768x383.png 768w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1.png 1148w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>If you specify “thank you” as a User Expression, your bot will reply to “<strong>thank you</strong>&nbsp;Chatrace”, ” any text&nbsp;<strong>thank you&nbsp;</strong>any text”, “<strong>thank you</strong>u” … </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>2-  Business Frequently Asked Questions  (FAQ)</strong><br>FAQs are questions related to your business. The bot will only answer a FAQ if the user message is at least 98% similar to the question, otherwise, if the customer’s message includes <em><strong>Business Keywords</strong></em>, the customer will be presented with a list of all questions that contain those keywords. After that, the customer chooses the question he wants to ask and he gets the answer.</p>
+
+
+
+<p> To add a <em><strong>FAQ</strong></em>, go to Automated Response &gt; click the &#8220;Add&#8221; button.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="599" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-1024x599.png" alt="" class="wp-image-2269" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-1024x599.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-768x449.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-7.png 1377w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="467" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-1024x467.png" alt="" class="wp-image-2271" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-1024x467.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-768x350.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-9.png 1180w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Whenever you add a FAQ, make sure the FAQ contains at least one <strong><em>Business Keyword</em></strong>. Otherwise, identify 1 or more important words contained in the question (FAQ) and add them to the <strong><em>Business Keyword</em></strong> list.</p>
+
+
+
+<p><strong><em>Business Keywords</em></strong> are important words related to your business. For example, for <em>Paypal</em>, <strong>Business Keywords</strong> could be “money”, “refund”, “payment”, “account”, “transaction”, “card”, “send”, “receive”, “business”, “personal”, “fraud”, …</p>
+
+
+
+<p>To add a <em><strong>Business keyword</strong></em>, go to Automated Response &gt; Business Keyword</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="597" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-1024x597.png" alt="" class="wp-image-2305" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-1024x597.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-768x448.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-17.png 1295w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><br>For example:&nbsp;<br>What are your opening hours? (Business Keyword: <em>hours</em>).<br>How much does this product cost? ( Business Keywords: <em>product</em>, <em>cost</em>)<br>How to send money? ( Business Keywords: <em>send, money</em>)<br>How to use the Google Sheets integration? ( keywords: <em>sheets</em>, <em>integration</em>)</p>
+
+
+
+<p><br></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Practical use case of <strong>Frequently Asked </strong>Question</strong><br>You certainly have already searched on Google and despite writing wrong, Google showed the correct result. When you use FAQ and Business keywords, your bot will be able to understand any question related to your business, regardless of how users ask the question or if they typed it with an error.</p>
+
+
+
+<p>Imagine a bot, and different users ask questions like:</p>
+
+
+
+<ol class="wp-block-list">
+<li>How much did Facebook earn in 2019?</li>
+
+
+
+<li> How much did Facebok earn in 2019? </li>
+
+
+
+<li>How much did FB earn in 2019?</li>
+
+
+
+<li>How much did Zuckerberg&#8217;s company earn in 2019?</li>
+</ol>
+
+
+
+<p>Thanks to the FAQ and Business Keywords you don&#8217;t need to enter several variations of the same question. &nbsp;In the above scenario, you would only have to choose the first version of the question, and teach your bot that&nbsp;<strong>Facebook</strong>,&nbsp; <strong>Facebok,&nbsp;FB, </strong>and  <strong>Zuckerberg</strong> have the same meaning.&nbsp;Below you will learn how to teach your bot that several words have the same meaning. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="559" height="369" src="https://docs.chatrace.com/wp-content/uploads/2020/01/how-to-add-keywords.png" alt="" class="wp-image-425" srcset="https://docs.chatrace.com/wp-content/uploads/2020/01/how-to-add-keywords.png 559w, https://docs.chatrace.com/wp-content/uploads/2020/01/how-to-add-keywords-300x198.png 300w" sizes="auto, (max-width: 559px) 100vw, 559px" /></figure></div>
+
+
+<p></p>
+
+
+
+<p>Keywords make your <strong>Frequently Asked Questions</strong> of your business easily discovered by your users. For example, if you have a question on your bot. </p>
+
+
+
+<p>&#8220;<em>Who is the p</em>resident of Facebook?&#8221;</p>
+
+
+
+<p>If the above question does not contain a keyword, the user will have to type (in your bot) that question exactly as you registered the question. But if you add&nbsp;<strong>Facebook&nbsp;</strong>as a keyword, if the user asks “<em>president of Facebook?</em>”, “<em>Who is the </em>president of <em>Facebook</em>”, or<em> </em>&#8220;<em>CEO of Facebook</em>&#8221; the user will discover this question and get the answer.</p>
+
+
+
+<p> You can even make your bot smarter by adding variations (synonyms) of the word&nbsp;&#8220;<em>Facebook</em>&#8221;&nbsp; like “<em>fb</em>”, “<em>Facebok</em>”, “Facibook”… , if the user asks “<em>Who is the president of&nbsp;<strong>Facebok</strong>?</em>” or&nbsp; “<em>Who is president of FB</em>” he can also&nbsp;discover the question above and get the answer. </p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Business Keywords</strong> also work in eCommerce to help your customers find your products more easily inside your chatbot. Products names are searchable by default but you can register product names and synonyms or wrong spelling to help your customer discover products faster. For example, a restaurant bot can register <strong>pizza </strong>as a Business Keyword and add <strong>piza </strong>as a variation. That way if one client types &#8220;<strong>piza</strong>&#8221; the bot will understand as <strong>pizza </strong>and show him a <strong>pizza</strong>.</p>
+
+
+
+<p>As you can note, the variations are normally a synonym or wrong spelling of a Business Keyword. But sometimes you need to use related words to help your customers find the questions. In our bot (Chatrace) we have a training phrase &#8220;<strong>What messaging platform do you support?</strong>&#8220;.  But normally people ask &#8220;what about WhatsApp &#8230;&#8221;, &#8220;&#8230; Viber &#8230;&#8221;, &#8220;&#8230; Instagram  &#8230;.&#8221;. So we register <strong>messaging</strong> as keyword and we add  WhatsApp,  Viber,  Instagram,  Skype,  Slack, and Telegram as a variations. When the user sends any of these words the bot will understand as <strong>messaging </strong>and show the user this question.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Triggers and Actions</title>
+		<link>https://docs.chatrace.com/kb/triggers-and-actions/</link>
+					<comments>https://docs.chatrace.com/kb/triggers-and-actions/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 09:34:25 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=576</guid>
+
+					<description><![CDATA[Triggers and Actions allow your bot to execute actions when some events happen inside your bot.&#160; If something happens inside the Messenger bot it will]]></description>
+										<content:encoded><![CDATA[
+<p>Triggers and Actions allow your bot to execute actions when some events happen inside your bot.&nbsp;</p>
+
+
+
+<p>If something happens inside the Messenger bot it will trigger the automation and make the bot to perform the corresponding action.</p>
+
+
+
+<p>You can use this rules to automate tasks like:</p>
+
+
+
+<ul class="wp-block-list">
+<li>When a tag applied to a user, add the user to a Facebook custom audience.</li>
+
+
+
+<li>When a user clicks on your email, subscribe them to a Messenger sequence.</li>
+
+
+
+<li>When a new order is placed, inform admins by email or SMS.</li>
+
+
+
+<li>When the value of a custom field changes, notify the admin.</li>
+</ul>
+
+
+
+<p>To create your own custom rule, navigate to Menu &gt; Tools &gt; Triggers and Actions and click “Add Rule” to create a new one.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="896" height="414" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1.png" alt="" class="wp-image-1415" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1.png 896w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1-300x139.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1-768x355.png 768w" sizes="auto, (max-width: 896px) 100vw, 896px" /></figure></div>
+
+
+<p>The table below the “Add Rule” button will show you the details of every rule which you had created and its status whether it is active or not.&nbsp;</p>
+
+
+
+<p>You can also edit &amp; delete the rules by selecting the menu located next to every rule on the table.</p>
+
+
+
+<p>Now give any name for this automation rule as you like on the &#8220;New Rule&#8221; popup that look similar to this:</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="492" height="236" src="https://docs.chatrace.com/wp-content/uploads/2020/06/image-3.png" alt="" class="wp-image-969" srcset="https://docs.chatrace.com/wp-content/uploads/2020/06/image-3.png 492w, https://docs.chatrace.com/wp-content/uploads/2020/06/image-3-300x144.png 300w" sizes="auto, (max-width: 492px) 100vw, 492px" /></figure></div>
+
+
+<h2 class="wp-block-heading">Create a Rule</h2>
+
+
+
+<p>Once you click the “Add Rule” button on the main page on the “Triggers and Actions” section, our platform will take you into a setup page that looks like the image below,</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="81" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-1024x81.png" alt="" class="wp-image-1417" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-1024x81.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-300x24.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-768x61.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1.png 1268w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Here on this page, you will have two columns &#8211; Triggers and Actions.</p>
+
+
+
+<p><strong>Triggers &#8211; </strong>You can choose any trigger from our platform by clicking the blue “+ Trigger” button. In Chatrace platform, you had over 20 trigger option like,</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<ul class="wp-block-list">
+<li>Tag applied</li>
+
+
+
+<li>Tag removed,</li>
+
+
+
+<li>Subscribed to Sequence,</li>
+
+
+
+<li>Unsubscribed from Sequence,</li>
+
+
+
+<li>Custom field value changed,</li>
+
+
+
+<li>Cart Abandoned,</li>
+
+
+
+<li>New Order,</li>
+
+
+
+<li>Order concluded,</li>
+
+
+
+<li>Order canceled,</li>
+
+
+
+<li>Product added to cart,</li>
+
+
+
+<li>Category added to cart,</li>
+
+
+
+<li>Product removed from cart,</li>
+
+
+
+<li>Email Delivered,</li>
+
+
+
+<li>Email Opened,</li>
+
+
+
+<li>Emai Clicked,</li>
+
+
+
+<li>Email Unsubscribed,</li>
+
+
+
+<li>Email Dropped,</li>
+
+
+
+<li>Live chat enabled,</li>
+
+
+
+<li>Live chat disabled,</li>
+
+
+
+<li>User referred a new user,</li>
+
+
+
+<li>User referred existing user,</li>
+
+
+
+<li>New Subscriber,</li>
+
+
+
+<li>User unsubscribed from bot</li>
+</ul>
+
+
+
+<p></p>
+</div></div>
+
+
+
+<p><strong>Actions &#8211; </strong>Actions are the task your Messenger chatbot will perform for that particular trigger (rule). You can choose any actions based on your need by selecting the orange “+ Action” button.</p>
+
+
+
+<p>Choose the required action that will suit the trigger and start automating the rules by saving the process.</p>
+
+
+
+<p>You can also,</p>
+
+
+
+<ul class="wp-block-list">
+<li>Send a follow-up email 2 days later if the user didn&#8217;t click on the email.</li>
+
+
+
+<li>Suggest the user a product B that is complementary, When the user adds a product A to cart (CROSS SELL).</li>
+
+
+
+<li>Send a reminder two days before the date of the meet, When a user book for a service.</li>
+</ul>
+
+
+
+<p>These are some examples of how you can use this rule automation effectively with Messenger bots on Chatrace platform.</p>
+
+
+
+<p>You can choose the number of times a rule can be used by the Messenger chatbot.</p>
+
+
+
+<p>You can find this option above the “Action” column as we highlighted in this image below.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="87" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-1024x87.png" alt="" class="wp-image-1419" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-1024x87.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-300x26.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-768x65.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14.png 1268w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>You can select,</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><em>Once per User &#8211;</em></strong> If you want the rule to be triggered only once per user.</li>
+
+
+
+<li><strong><em>Any Number of Times &#8211;</em></strong> If you want the rule to be triggered as many times as possible. </li>
+</ul>
+
+
+
+<p>Hope this knowledge article helps you to know about the “Trigger and Actions” tool on the Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/triggers-and-actions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Improve customer service with OpenAI ChatGPT</title>
+		<link>https://docs.chatrace.com/kb/improve-customer-service-with-openai/</link>
+					<comments>https://docs.chatrace.com/kb/improve-customer-service-with-openai/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 25 Jan 2023 11:55:37 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2678</guid>
+
+					<description><![CDATA[Chatrace integrated with ChatGPT to allow businesses to improve their customer service while drastically saving costs and human resources. Businesses can train ChatGPT to respond]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace integrated with ChatGPT to allow businesses to improve their customer service while drastically saving costs and human resources.</p>
+
+
+
+<p>Businesses can train ChatGPT to respond to any customer questions related to their business. A chatbot enables businesses to respond instantly to their customers around the clock, resulting in heightened customer satisfaction. Moreover, it is a cost-effective solution, reducing the need for additional human resources in customer support operations.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Create a customer service chatbot using Openai ChatGPT (Simplified)" width="780" height="439" src="https://www.youtube.com/embed/6Ao43x5rbeE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The key to creating an excellent chatbot for your business is to create a good prompt (Business Information). The brain of your chatbot is your prompt. Your prompt must be clear and well-written.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Connect OpenAI to Chatrace</h4>
+
+
+
+<p>1 &#8211; Get your OpenAI API Key <a rel="noreferrer noopener" href="https://beta.openai.com/account/api-keys" target="_blank">HERE</a>.</p>
+
+
+
+<p>2 &#8211; Go to Chatrace &gt; Settings &gt; Integrations &gt; OpenAI</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="606" src="https://docs.chatrace.com/wp-content/uploads/2023/01/image-1024x606.png" alt="" class="wp-image-2679" srcset="https://docs.chatrace.com/wp-content/uploads/2023/01/image-1024x606.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/01/image-300x177.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/01/image-768x454.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/01/image.png 1437w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>3 &#8211; Click the <strong>Connect</strong> button and provide your <strong>API KEY</strong>. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="626" src="https://docs.chatrace.com/wp-content/uploads/2023/04/image-1-1024x626.png" alt="" class="wp-image-2828" srcset="https://docs.chatrace.com/wp-content/uploads/2023/04/image-1-1024x626.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-1-300x183.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-1-768x470.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-1.png 1434w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Triggering a flow </h4>
+
+
+
+<p>To learn how to trigger a flow using AI, please check <a href="https://docs.chatrace.com/kb/chatgpt-triggers/">AI Triggers</a>.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Transfer a conversation to a human</h4>
+
+
+
+<p>We implemented a built-in AI trigger that automatically stops the bot automation and transfers a conversation to a human when the user wants to talk with a human agent. </p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Priority of automation</h4>
+
+
+
+<p>Once you connect the OpenAI to Chatrace, your chatbot will automatically communicate using AI  every time a user sends a message to your chatbot. No actions are required on your side.</p>
+
+
+
+<p>1 &#8211; Automated Responses.<br>2 &#8211; Dialogflow<br>3 &#8211; OpenAI<br>4 &#8211; Google Gemini</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Disable automatically triggering ChatGPT</h4>
+
+
+
+<p>Every time a user sends a message to your chatbot, your chatbot will automatically use ChatGPT to respond to the user&#8217;s message. You may want to work with only OpenAI actions on the flow builder.  You can disable this behavior by going to <strong>Settings</strong> -> <strong>Integrations</strong> -> <strong>OpenAI</strong> and disabling the <strong>Automate Responses</strong> option.  </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="461" src="https://docs.chatrace.com/wp-content/uploads/2024/02/image-4-1024x461.png" alt="" class="wp-image-3719" srcset="https://docs.chatrace.com/wp-content/uploads/2024/02/image-4-1024x461.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-4-300x135.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-4-768x346.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-4-1536x692.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-4.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/improve-customer-service-with-openai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How a Telegram Premium user automate conversations using Chatbot</title>
+		<link>https://docs.chatrace.com/kb/how-a-telegram-premium-user-automate-conversations-using-chatbot/</link>
+					<comments>https://docs.chatrace.com/kb/how-a-telegram-premium-user-automate-conversations-using-chatbot/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 08:29:10 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3841</guid>
+
+					<description><![CDATA[Overview Telegram has introduced a new feature that enables Telegram premium users to connect their accounts seamlessly with their Telegram bots. This means that Telegram]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>Telegram has introduced a new feature that enables Telegram premium users to connect their accounts seamlessly with their Telegram bots. </p>
+
+
+
+<p>This means that Telegram Business users now have the ability to respond to private messages using their bots, with no noticeable difference for subscribers. </p>
+
+
+
+<p>This feature allows businesses to maintain personalized customer communication while also benefiting from automation.</p>
+
+
+
+<h2 class="wp-block-heading">Setup</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Log in to your Telegram account and type &nbsp;<code>@BotFather</code>&nbsp;in the search field. Enter the&nbsp;<code>/mybots</code>&nbsp;command, and select your bot. Click&nbsp;<strong>Bot Settings</strong>&nbsp;&gt;&nbsp;<strong>Business mode</strong>.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Turn Business mode ON</strong>.</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="2560" height="1440" src="https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-scaled.jpeg" alt="" class="wp-image-3858" srcset="https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-scaled.jpeg 2560w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-300x169.jpeg 300w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-1024x576.jpeg 1024w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-768x432.jpeg 768w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-1536x864.jpeg 1536w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-2048x1152.jpeg 2048w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></figure></div>
+
+
+<ul class="wp-block-list">
+<li>In your Telegram account, go to&nbsp;<strong>Settings</strong>&nbsp;&gt;&nbsp;<strong>Telegram Business</strong>&nbsp;&gt;&nbsp;<strong>Chatbots</strong>.</li>
+
+
+
+<li>Enter a username or bot link in the input field. Promptly click Add when it appears in the dropdown list.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>Set how your bot will have access to your chats.<br><br><strong>All 1-to-1 Chats</strong><br>This option gives access to all contacts who send private messages.<br><br><strong>Only Selected Chats</strong><br>This option gives access only to specific contacts. In the&nbsp;<strong>Included Chats</strong>&nbsp;section, add contacts or groups (new chats, saved or unsaved contacts).</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-a-telegram-premium-user-automate-conversations-using-chatbot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to edit an image using Google Gemini</title>
+		<link>https://docs.chatrace.com/kb/how-to-edit-an-image-using-google-gemini/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-edit-an-image-using-google-gemini/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 09:35:17 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3905</guid>
+
+					<description><![CDATA[Overview This documentation provides a step-by-step guide on how to edit an image using Google Gemini integration within our platform. Connect Google Gemini Integration Google]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>This documentation provides a step-by-step guide on how to edit an image using Google Gemini integration within our platform.</p>
+
+
+
+<h2 class="wp-block-heading">Connect Google Gemini Integration</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Login to your Chatrace account</strong></li>
+
+
+
+<li><strong>Goto Settings &gt;&gt;Integration &gt;&gt; Google Gemini</strong><br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png" alt="" class="wp-image-3890" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Google Gemini Action in the Flow Builder</h2>
+
+
+
+<p><strong>Action>> Google Gemini >> Edit image</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png" alt="" class="wp-image-3891" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-1024x468.png" alt="" class="wp-image-3907" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select Edit image >> select the image you want to edit >> set the user&#8217;s message >> select the custom field to save the output.</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>User&#8217;s Message: This refers to the instruction/information about what Google Gemini should do to your image</li>
+
+
+
+<li>Image: This refers to the image you want to edit.</li>
+
+
+
+<li>Output Message: This refers to the custom field where the generated image will be saved.<strong> This custom field will be used on an image block to display the image to the user.</strong></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-1024x468.png" alt="" class="wp-image-3908" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Success &amp; Failed Nodes</h2>
+
+
+
+<p>The Google Gemini action includes both success and failure nodes:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Success Node: This node allows you to define actions that should occur if Google Gemini successfully edited your image (perform action X).</li>
+
+
+
+<li>Failed Node: This node allows you to manage actions if Google Gemini was unable to edit your image (perform action Y)</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="457" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-1024x457.png" alt="" class="wp-image-3906" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-1024x457.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-300x134.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-768x343.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175.png 1126w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-edit-an-image-using-google-gemini/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to use Pipeline</title>
+		<link>https://docs.chatrace.com/kb/how-to-use-pipeline/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-use-pipeline/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 15:09:49 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3931</guid>
+
+					<description><![CDATA[Overview Pipeline is a powerful CRM feature within Chatrace that expertly facilitates the management and nurturing of contacts/opportunities. Its streamlined interface empowers businesses to effectively]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>Pipeline is a powerful CRM feature within Chatrace that expertly facilitates the management and nurturing of contacts/opportunities. Its streamlined interface empowers businesses to effectively handle customer relationships, positioning itself as a robust alternative to other CRM systems.</p>
+
+
+
+<h2 class="wp-block-heading">Key Features</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Drag and Drop Interface</strong>: Effortlessly move contacts/opportunities between various stages of your pipeline.</li>
+
+
+
+<li><strong>Automation</strong>: Set up automated workflows triggered by events such as adding contacts/opportunities or moving them through the pipeline stages.</li>
+
+
+
+<li><strong>Customizable Permissions</strong>: Define user access levels for team members to ensure that data security and role clarity are maintained.</li>
+
+
+
+<li><strong>Versatile Use</strong>: The Pipeline can function as a lead nurturing tool, a lead management system, or a ticketing system, adapting to your business needs.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Getting Started</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Accessing the Pipeline</strong><br>To access Pipeline, log in to your Chatrace account and click on Pipeline on the navigation menu.<br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-1024x468.png" alt="" class="wp-image-3955" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="wp-block-list">
+<li></li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>User Roles/Permissions</strong><br>After creating your Pipeline, you control which admins have access to it. Note that super admins have full access to all pipelines.<br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-1024x468.png" alt="" class="wp-image-3956" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-23.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Creating &amp; managing Pipeline stages</h2>
+
+
+
+<p>With our easy-to-use interface, you can easily create a stage that best suits your automation/workflow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-1024x468.png" alt="" class="wp-image-3965" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-25.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-1024x468.png" alt="" class="wp-image-3967" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Managing contacts/opportunities on the Pipeline</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Adding Contacts/Opportunities to Pipeline</strong><br>&#8211; Click on the &#8220;Add New&#8221; button within the Pipeline.<br>&#8211; Input the necessary information that defines the contact/opportunity<br>&#8211; Click &#8220;Save&#8221; to add the contact to the pipeline.</li>
+
+
+
+<li><strong>Moving Contacts/Opportunities between Stages<br></strong>&#8211; Click on the lead you wish to move.<br>&#8211; Drag the lead to the desired stage in the pipeline.<br>&#8211; Release the mouse button to drop it in the new stage<strong><br><br></strong><em><strong>Our intuitive drag-and-drop</strong></em><strong><em> interface simplifies the process of managing leads. Each stage in the pipeline is visually represented, allowing users to organize leads seamlessly.</em></strong></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Automation Capabilities</h2>
+
+
+
+<p>You can trigger automation when an opportunity or ticket is created, its value changed, or it is moved from one stage to another. Please refer to the screenshot below to understand the available triggers. <strong>You can perform any actions based on these triggers.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-1024x468.png" alt="" class="wp-image-3958" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-24.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-use-pipeline/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to convert speech to text with OpenAI</title>
+		<link>https://docs.chatrace.com/kb/how-to-convert-speech-to-text-with-openai/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-convert-speech-to-text-with-openai/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Sat, 22 Jul 2023 08:28:39 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3390</guid>
+
+					<description><![CDATA[OpenAI allows you to convert speech to text. To convert speech to text with OpenAI, first, you need to connect OpenAI in the &#8216;Integration&#8217; section.]]></description>
+										<content:encoded><![CDATA[
+<p>OpenAI allows you to convert speech to text. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to convert Audio to Text using OpenAI" width="780" height="439" src="https://www.youtube.com/embed/8GFf6fsAkgk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To convert speech to text with OpenAI, first, you need to connect OpenAI in the &#8216;Integration&#8217; section. <a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/improve-customer-service-with-openai/" target="_blank">Click here to learn how to connect OpenAI</a>. After connecting OpenAI, follow the steps below.</p>
+
+
+
+<h4 class="wp-block-heading">Get the prompt</h4>
+
+
+
+<p>Get the audio file you want to convert to text with a &#8216;Get user data&#8217; block and save it in a custom field, as shown below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_091724059-1024x494.png" alt="" class="wp-image-3391" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_091724059-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_091724059-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_091724059-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_091724059-1536x741.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_091724059.png 1828w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Setup OpenAI action</h4>
+
+
+
+<p>Set OpenAI to &#8216;Convert speech to text&#8217; &gt;&gt; Input the audio (select the custom field where the audio file was saved) &gt;&gt; Save the output in another custom field. </p>
+
+
+
+<p>Check the image below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_092447338-1024x494.png" alt="" class="wp-image-3395" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_092447338-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_092447338-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_092447338-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_092447338-1536x741.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-22_092447338.png 1828w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111325142-1024x488.png" alt="" class="wp-image-3785" srcset="https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111325142-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111325142-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111325142-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111325142-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111325142.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Use the output custom field on a text block</h4>
+
+
+
+<p>Select a text block &gt;&gt; input the output custom field.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111712771-1024x488.png" alt="" class="wp-image-3788" srcset="https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111712771-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111712771-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111712771-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111712771-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_111712771.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-convert-speech-to-text-with-openai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to generate Images using OpenAI</title>
+		<link>https://docs.chatrace.com/kb/how-to-generate-images-using-openai/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-generate-images-using-openai/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 16:04:48 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3374</guid>
+
+					<description><![CDATA[OpenAI allows you to generate images from a text description. To generate images with OpenAI, first, you need to connect OpenAI in the &#8216;Integration&#8217; section.]]></description>
+										<content:encoded><![CDATA[
+<p>OpenAI allows you to generate images from a text description. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to generate images with OpenAI" width="780" height="439" src="https://www.youtube.com/embed/H4RdpyUeVAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To generate images with OpenAI, first, you need to connect OpenAI in the &#8216;Integration&#8217; section. <a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/improve-customer-service-with-openai/" target="_blank">Click here to learn how to connect OpenAI</a>. After connecting OpenAI, follow the steps below</p>
+
+
+
+<h4 class="wp-block-heading">Get the prompt</h4>
+
+
+
+<p>Get the name or description of the image you want OpenAI to generate with a &#8216;Get user data&#8217; block, as shown below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="499" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-7-1024x499.png" alt="" class="wp-image-3376" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-7-1024x499.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-7-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-7-768x374.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-7-1536x749.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-7.png 1854w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Setup OpenAI action</h4>
+
+
+
+<p>Set OpenAI to &#8216;Generate Image&#8217; &gt;&gt; Input the prompt &gt;&gt; Save the output in another custom field. </p>
+
+
+
+<p>Check the image below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-8-1024x495.png" alt="" class="wp-image-3377" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-8-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-8-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-8-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-8-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-8.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_105135579-1024x488.png" alt="" class="wp-image-3780" srcset="https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_105135579-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_105135579-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_105135579-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_105135579-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/05/image_2024-05-21_105135579.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Use the output custom field on an image block</h4>
+
+
+
+<p>Select an image block &gt;&gt; input the output custom field.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090700726-1024x486.png" alt="" class="wp-image-3806" srcset="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090700726-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090700726-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090700726-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090700726-1536x729.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090700726.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090838244-1024x486.png" alt="" class="wp-image-3808" srcset="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090838244-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090838244-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090838244-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090838244-1536x729.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_090838244.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-generate-images-using-openai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to analyze an image using OpenAI Vision</title>
+		<link>https://docs.chatrace.com/kb/how-to-analyze-an-image-using-openai-vision/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-analyze-an-image-using-openai-vision/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2024 10:54:48 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3743</guid>
+
+					<description><![CDATA[Overview In this documentation, you will learn how to use OpenAI Vision to analyze images. This feature allows businesses to gain insights from images sent]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading" id="block-d7d234b5-ef02-4987-b1a1-3496c8f3d1f0">Overview</h2>
+
+
+
+<p id="block-1a386d89-888e-4449-9529-a73c8c814550">In this documentation, you will learn how to use OpenAI Vision to analyze images. This feature allows businesses to gain insights from images sent to their chatbot.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to analyze image using OpenAI Vision" width="780" height="439" src="https://www.youtube.com/embed/DMd3fJEEXEM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading" id="block-5bbaa0fb-6d96-4127-b060-56806c28ceaa">Key Details</h2>
+
+
+
+<ul class="wp-block-list" id="block-adc7b45d-c402-4225-a7c9-db354b6a21b1">
+<li><strong>Connect OpenAI in the Integration section (Settings &gt;&gt; Integration &gt;&gt; OpenAI ChatGPT)</strong></li>
+
+
+
+<li><strong>In your flow, collect the image from your user and analyze the image with OpenAI Vision using OpenAI action.</strong></li>
+</ul>
+
+
+
+<p id="block-7c471ef6-b638-44b4-b99b-35abc217911a"></p>
+
+
+
+<h2 class="wp-block-heading" id="block-86dd861b-9d0e-4a33-a1e0-6ec35adad726">How to setup</h2>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Connect OpenAI integration if you have not connected it yet. Please read this <a href="https://docs.chatrace.com/kb/improve-customer-service-with-openai/">documentation</a></strong></li>
+
+
+
+<li><strong>Create a flow where you will collect images from your user (using Get User Data)</strong></li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large" id="block-bef35447-7ba3-42cd-8099-7f912355e5c4"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-1024x488.png" alt="" class="wp-image-3745" srcset="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Analyze the image with OpenAI Vision.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-1024x488.png" alt="" class="wp-image-3746" srcset="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-1024x486.png" alt="" class="wp-image-3802" srcset="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-1536x729.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-1024x486.png" alt="" class="wp-image-3804" srcset="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-1536x729.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Advance use-case</h4>
+
+
+
+<p><strong>This powerful feature allows you to analyze an image randomly sent to your chatbot, regardless of whether you are using your own custom default reply flow or if OpenAI ChatGPT handles your default reply.</strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-analyze-an-image-using-openai-vision/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to generate images using Google Gemini</title>
+		<link>https://docs.chatrace.com/kb/how-to-generate-images-using-google-gemini/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-generate-images-using-google-gemini/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 16:36:27 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3889</guid>
+
+					<description><![CDATA[Overview This documentation provides a step-by-step guide to generating an image using Google Gemini integration within our platform. Connect Google Gemini Integration Google Gemini Action]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>This documentation provides a step-by-step guide to generating an image using Google Gemini integration within our platform.</p>
+
+
+
+<h2 class="wp-block-heading">Connect Google Gemini Integration</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Login to your Chatrace account</strong></li>
+
+
+
+<li><strong>Goto Settings >>Integration >> Google Gemini</strong><br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png" alt="" class="wp-image-3890" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Google Gemini Action in the Flow Builder</h2>
+
+
+
+<p><strong>Action>> Google Gemini >> Generate image</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png" alt="" class="wp-image-3891" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-1024x468.png" alt="" class="wp-image-3892" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-1.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select Generate image >> set the user&#8217;s message >> set aspect ratio and select the custom field to save the output</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>User&#8217;s Message: The refer to the instruction/information about the image Google Gemini will generate</li>
+
+
+
+<li>Output Message: Refers to the custom field where the generated image will be saved.<strong> This custom field will be used on an image block to display the image to the user.</strong></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-1024x468.png" alt="" class="wp-image-3893" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-2.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Success &amp; Failed Nodes</h2>
+
+
+
+<p>The Google Gemini action includes both success and failure nodes:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Success Node: This node allows you to define actions that should occur if the image generation is executed successfully (perform action X).</li>
+
+
+
+<li>Failed Node: This node allows you to manage actions if there was an error in the image generation process (perform action Y)</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-1024x468.png" alt="" class="wp-image-3894" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-3.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-generate-images-using-google-gemini/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

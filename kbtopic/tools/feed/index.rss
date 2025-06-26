@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tools &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/tools/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Apr 2025 15:25:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Tools &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Appointment scheduling manager</title>
+		<link>https://docs.chatrace.com/kb/appointment-scheduling-manager/</link>
+					<comments>https://docs.chatrace.com/kb/appointment-scheduling-manager/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 30 Mar 2023 15:28:55 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2806</guid>
+
+					<description><![CDATA[The appointment scheduling manager simplifies the process of scheduling meetings and appointments. It allows your business to share your availability which others can use to]]></description>
+										<content:encoded><![CDATA[
+<p>The appointment scheduling manager simplifies the process of scheduling meetings and appointments. It allows your business to share your availability which others can use to book a time slot. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to use appointment scheduling tool" width="780" height="439" src="https://www.youtube.com/embed/4BG0_QQXCmU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>If you connect your <strong>Google Calendar</strong> or <strong>Outlook calendar</strong>, the appointment manager syncs your calendars to ensure there are no double bookings, and it sends automated confirmations and reminders to participants.</p>
+
+
+
+<p>Follow the below step-by-step to get started getting appointments from your customers.</p>
+
+
+
+<h4 class="wp-block-heading">1 &#8211; Create your Calendar inside Chatrace</h4>
+
+
+
+<p>Go to <strong>Tools</strong> &gt; <strong>Appointment Scheduling</strong>  and click the <strong>Add</strong> button</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="460" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-1024x460.png" alt="" class="wp-image-2808" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-1024x460.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-300x135.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-768x345.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-1536x690.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/03/image.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-2-1024x537.png" alt="" class="wp-image-2810" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-2-1024x537.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-2-300x157.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-2-768x403.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-2.png 1423w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The most important thing you should provide is your availability.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="572" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-3-1024x572.png" alt="" class="wp-image-2811" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-3-1024x572.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-3-300x168.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-3-768x429.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-3.png 1424w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>Our system will automatically create the confirmation flow and remainders flow.  If you want to edit the confirmation message and reminder messages, go to flows and edit the flows related to your calendar.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="594" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-4-1024x594.png" alt="" class="wp-image-2812" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-4-1024x594.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-4-300x174.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-4-768x445.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-4.png 1423w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">2 &#8211; Connect Google Calendar or Outlook Calendar (optional)</h4>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-10-1024x468.png" alt="" class="wp-image-3984" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-10-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-10-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-10-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-10.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-11-1024x468.png" alt="" class="wp-image-3985" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-11-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-11-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-11-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-11.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Once you connect your calendar, every time a user schedules an appointment, the appointment is automatically added to your Calendar. Also, we check your calendar events to avoid overbooking.</p>
+
+
+
+<p><strong><em>Please make sure you collect the user&#8217;s email address before the user schedules an appointment in order for the user to automatically receive a calendar invitation on the user&#8217;s email address.</em></strong></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">2 &#8211; Share the scheduling link during the bot conversation</h4>
+
+
+
+<p>1 &#8211; Get the scheduling link by going to Tools &gt; Appointment Scheduling and click the menu icon on the Calendar you want to share the scheduling link.<br></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="587" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-6-1024x587.png" alt="" class="wp-image-2815" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-6-1024x587.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-6-300x172.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-6-768x440.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-6.png 1419w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>2 &#8211; Use the scheduling link as a button link for channels that support buttons that opens a website. For channels that don&#8217;t support a button that opens a website link SMS channel, you can send the scheduling link as TEXT message.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-8-1024x502.png" alt="" class="wp-image-2817" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-8-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-8-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-8-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-8-1536x753.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-8.png 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">3 &#8211; Share the scheduling link from the inbox</h4>
+
+
+
+<p>Sometimes, you may want to manually send the user the scheduling link from the Inbox. Click the Calendar icon to send the scheduling link to the user.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="496" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-5-1024x496.png" alt="" class="wp-image-2814" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-5-1024x496.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-5-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-5-768x372.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-5-1536x744.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-5.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">4 &#8211; View scheduled appointments</h4>
+
+
+
+<p>Go to Tools &gt; Appointment Schedule &gt; Appointments.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/03/image-9-1024x494.png" alt="" class="wp-image-2819" srcset="https://docs.chatrace.com/wp-content/uploads/2023/03/image-9-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-9-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-9-768x370.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/03/image-9.png 1423w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/appointment-scheduling-manager/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bot Simulator</title>
+		<link>https://docs.chatrace.com/kb/bot-simulator/</link>
+					<comments>https://docs.chatrace.com/kb/bot-simulator/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2022 14:52:15 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2549</guid>
+
+					<description><![CDATA[Bot Simulator allows you to show a bot working on almost any website without adding the code to the destination website. This feature is very]]></description>
+										<content:encoded><![CDATA[
+<p>Bot Simulator allows you to show a bot working on almost any website without adding the code to the destination website. This feature is very important for agencies that want to show a demo of the bot to their clients. Imagine you ask a client for their website and show them the bot working on their website.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-39-1024x502.png" alt="" class="wp-image-2551" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-39-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-39-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-39-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-39-1536x754.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-39.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You can test the bot simulator on the marca.com website <a rel="noreferrer noopener" href="https://chatrace.com/bots/103753548422877/sm/?url=marca.com" target="_blank">HERE</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Using the Bot simulator tool</h2>
+
+
+
+<p>Navigate to Menu > Tools > Bot Simulator and just provide the website address you want to see how the bot will look like.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="547" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-40-1024x547.png" alt="" class="wp-image-2552" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-40-1024x547.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-40-300x160.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-40-768x411.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-40.png 1332w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p> </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Manually generate the link</h2>
+
+
+
+<p>There are many situations where you may need to manually generate the bot simulator link. For example, you may have a bot where you ask your potential clients for their website, and you cloud to generate the link inside the bot to let them know how the chatbot will work on their website.</p>
+
+
+
+<p><strong>Chatrace</strong></p>
+
+
+
+<p>Messenger</p>
+
+
+
+<pre class="wp-block-code"><code>https:&#47;&#47;chatrace.com/bots/ACCOUNT_ID/sm/?url=LINK</code></pre>
+
+
+
+<p></p>
+
+
+
+<p>Webchat</p>
+
+
+
+<pre class="wp-block-code"><code>https:&#47;&#47;chatrace.com/bots/ACCOUNT_ID/sw/?url=LINK</code></pre>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Whitelabel</strong></p>
+
+
+
+<p>Messenger</p>
+
+
+
+<pre class="wp-block-code"><code>https:&#47;&#47;SUBDOMAIN/bots/ACCOUNT_ID/sm/?url=LINK</code></pre>
+
+
+
+<p></p>
+
+
+
+<p>Webchat</p>
+
+
+
+<pre class="wp-block-code"><code>https:&#47;&#47;SUBDOMAIN/bots/ACCOUNT_ID/sw/?url=LINK</code></pre>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Advanced </h2>
+
+
+
+<p>You can change the color and specify the flow that is triggered when a person interacts with the bot. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="620" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-41-1024x620.png" alt="" class="wp-image-2553" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-41-1024x620.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-41-300x182.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-41-768x465.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-41.png 1330w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Also, it is possible to use options available to customize the <a href="https://docs.chatrace.com/kb/how-to-add-webchat-to-your-website/" target="_blank" rel="noreferrer noopener">webchat</a> by appending the option to the end of the generated link. For example, if you want to hide the header on the webchat, use the below configuration.</p>
+
+
+
+<pre class="wp-block-code"><code>https:&#47;&#47;chatrace.com/bots/ACCOUNT_ID/sw/?url=LINK&amp;hideHeader=true</code></pre>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Limitations</h2>
+
+
+
+<p>This tool will not work with all websites. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/bot-simulator/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Allow your customer to find places near to them</title>
+		<link>https://docs.chatrace.com/kb/allow-your-customer-to-find-places-near-to-them/</link>
+					<comments>https://docs.chatrace.com/kb/allow-your-customer-to-find-places-near-to-them/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2022 09:42:43 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2409</guid>
+
+					<description><![CDATA[Businesses that have multiple locations can allow their bot to help their customer easily find the location near them. User shares their location inside the]]></description>
+										<content:encoded><![CDATA[
+<p>Businesses that have multiple locations can allow their bot to help their customer easily find the location near them. User shares their location inside the bot, and the bot finds the location closest to the user.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to allow users find location near them" width="780" height="439" src="https://www.youtube.com/embed/xnh6IEGu2ew?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Supported Channels</h4>
+
+
+
+<p>Not all channels allow users to send their location to the bot. Currently, this feature is supported by <strong>WhatsApp</strong>, <strong>Telegram</strong>, <strong>Viber,</strong> and <strong>Messenger</strong> (Android),</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Register your business locations inside the bot</h4>
+
+
+
+<p>You need to register all your locations inside the bot to allow your bot to help your customer to find locations near to them.</p>
+
+
+
+<p>Navigate to <strong>Menu</strong> &gt; <strong>Tools</strong> &gt; <strong>Places Near Me</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="481" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-1024x481.png" alt="" class="wp-image-2410" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-1024x481.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-300x141.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-768x361.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-1536x722.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/08/image.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="426" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-1-1024x426.png" alt="" class="wp-image-2411" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-1-1024x426.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-1-300x125.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-1-768x319.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-1.png 1275w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>As you can see in the above image, must know the <strong>Latitude</strong> and <strong>Longitude</strong> of your location. You can get it from Google Maps. Find your location on Google Maps, click on your location, and you will see the <strong>Latitude</strong> and <strong>Longitude</strong> of your location.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="479" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-2-1024x479.png" alt="" class="wp-image-2412" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-2-1024x479.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-2-300x140.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-2-768x359.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-2-1536x718.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-2.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Setup the flow</h4>
+
+
+
+<p>You need to use the <strong>Get User Data</strong> to ask for the user Location. You can save the user location in any custom field.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-3-1024x559.png" alt="" class="wp-image-2413" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-3-1024x559.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-3-300x164.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-3-768x419.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-3-1536x838.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-3.png 1644w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After the user share the location, use <strong>Actions</strong> &gt; <strong>More Options</strong> &gt; <strong>Find locations near me</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="479" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-5-1024x479.png" alt="" class="wp-image-2416" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-5-1024x479.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-5-300x140.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-5-768x359.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-5-1536x719.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-5.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Find categories of locations (Advanced use case)</h4>
+
+
+
+<p>It is possible to add many types of locations to a single bot and allow your contacts to find a specific category of location near them. For example, you can add restaurants, Football Stadiums, and ATMs to a single bot and allow your contacts to select what type of location they want to find. In this case, you will need to create a category and associate each location with a category. Use the link below to create a category.</p>
+
+
+
+<p><a href="https://chatrace.com/en/categories.php?level=0&amp;type=4&amp;acc=103753548422877">https://chatrace.com/en/categories.php?level=0&amp;type=4</a></p>
+
+
+
+<p>After you create a category, you will see more options when you are creating a location.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="479" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-6-1024x479.png" alt="" class="wp-image-2420" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-6-1024x479.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-6-300x140.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-6-768x359.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-6.png 1283w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>On the flow builder, if you click the action &#8220;<strong>Find places near me</strong>,&#8221; you will see the option to select a category.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="548" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-7-1024x548.png" alt="" class="wp-image-2421" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-7-1024x548.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-7-300x160.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-7-768x411.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-7.png 1341w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/allow-your-customer-to-find-places-near-to-them/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>QR Code Generator</title>
+		<link>https://docs.chatrace.com/kb/qr-code-generator/</link>
+					<comments>https://docs.chatrace.com/kb/qr-code-generator/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2020 18:07:17 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=584</guid>
+
+					<description><![CDATA[QR code generator in our Chatrace platform is to help our clients to acquire Messenger subscribers in a physical way &#38; digital way. You can]]></description>
+										<content:encoded><![CDATA[
+<p>QR code generator in our Chatrace platform is to help our clients to acquire Messenger subscribers in a physical way &amp; digital way.</p>
+
+
+
+<p>You can use the QR code generated here in your brick &amp; mortar store, cards, invites, websites and more places to get subscribers for your Messenger chatbot.</p>
+
+
+
+<p>To use this awesome tool, navigate to Menu &gt; Tools &gt; QR Code Generator.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="874" height="283" src="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow.png" alt="" class="wp-image-1429" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow.png 874w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-300x97.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-768x249.png 768w" sizes="auto, (max-width: 874px) 100vw, 874px" /></figure></div>
+
+
+
+<p>This is what the generator tool in Chatrace looks like.</p>
+
+
+
+<p>To create a QR code for your requirement, enter the size of the image (in pixels) on the “Image Size field.&nbsp;</p>
+
+
+
+<p>Then, paste the ref URL of any flow that you need to take your subscribers in while scanning this QR code.&nbsp;</p>
+
+
+
+<p><em>Note: For people who don’t know where to find Ref URL, you can get that on the “Flow” section (on the sub-menu of every flow).</em></p>
+
+
+
+<p>After pasting, ref URL click “Generate” so that you will get the QR code like this image below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="823" height="283" src="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2.png" alt="" class="wp-image-1435" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2.png 823w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2-300x103.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2-768x264.png 768w" sizes="auto, (max-width: 823px) 100vw, 823px" /></figure>
+
+
+
+<p>You can download the QR code and make a print to paste that on your physical store.</p>
+
+
+
+<p>Hope this article helps you to know about the “QR Code Generator” tool on the Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/qr-code-generator/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to setup a poll within your bot</title>
+		<link>https://docs.chatrace.com/kb/setup-a-poll/</link>
+					<comments>https://docs.chatrace.com/kb/setup-a-poll/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 02:49:27 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=231</guid>
+
+					<description><![CDATA[Using a Facebook comment tool you can start a poll on Messenger with your Messenger chatbot. Also, you can ask your users to vote and]]></description>
+										<content:encoded><![CDATA[
+<p>Using a Facebook comment tool you can start a poll on Messenger with your Messenger chatbot. </p>
+
+
+
+<p>Also, you can ask your users to vote and rank the poll variables. It can be useful to conduct surveys on your business audience. </p>
+
+
+
+<p>To use these features follow the steps,</p>
+
+
+
+<p>Select <em>Menu</em> on the top-left corner of the page</p>
+
+
+
+<p>Go the <em>Tools</em> section and search for the <em>Poll</em> tab among many other tabs.</p>
+
+
+
+<p>Click the Poll option located above the table content with an &#8220;Add Poll&#8221; button:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="923" height="289" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1.png" alt="" class="wp-image-1404" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1.png 923w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1-300x94.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1-768x240.png 768w" sizes="auto, (max-width: 923px) 100vw, 923px" /></figure></div>
+
+
+
+<p>You will get a poll setup wizard like the image below,</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="565" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-1024x565.png" alt="" class="wp-image-1405" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-1024x565.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-300x166.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-768x424.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1.png 1502w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>In the above image,</p>
+
+
+
+<p>Name &#8211; Give the name to your poll campaign in this field.</p>
+
+
+
+<p>Date (Start/End) &#8211; Enter when this poll campaign will begin and also mention the end date in the respective fields.</p>
+
+
+
+<p>Image URL (i) &#8211; Paste the URL of the image that you are using for this poll campaign. If you have an image on your device, upload on our platform and get the link from here. Read this knowledge base article to know more: <a href="https://chatrace.comm/docs/kb/upload-images/" class="rank-math-link">Upload Images</a> </p>
+
+
+
+<p>Candidate Name &#8211;  Fill the name of a poll variables, it may be a person or product or idea or choice based on your requirement. </p>
+
+
+
+<p>Image URL (ii) &#8211; Paste the URL of the poll variable image in this field.</p>
+
+
+
+<p>Description &#8211; Fill this field with the description of the poll variable (in individual) respectively.</p>
+
+
+
+<p>If you add more poll variables for your campaign, select &#8220;<em>Add More Candidates</em>&#8221; option on the setup wizard.</p>
+
+
+
+<p>You can configure more options on a poll setup using th<em>e </em>&#8220;<em>More Options</em>&#8221; option. There you will find,</p>
+
+
+
+<p>Rank &#8211; Decides the order of the flow based on your input. Let&#8217;s say if you had multiple polls and you are configuring 2nd rank for this poll while setting up, this poll will show up 3rd in the list of polls you had. Note that, it is optional.</p>
+
+
+
+<p>Flow After the Vote &#8211; It is an optional feature and you can choose the flow that need to send after a subscriber voted.</p>
+
+
+
+<p>After filling all these fields with required details, click the &#8220;Save&#8221; button. </p>
+
+
+
+<p>That is it. This is how you have to create a poll campaign inside Chatrace platform.</p>
+
+
+
+<p>Hope this article helps you to know about “setting up a poll” in Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/setup-a-poll/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

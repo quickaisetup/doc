@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Analytics &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/analytics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 01 Feb 2024 12:43:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Analytics &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to see all receive messages without a response?</title>
+		<link>https://docs.chatrace.com/kb/chatbot-ai-performance/</link>
+					<comments>https://docs.chatrace.com/kb/chatbot-ai-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 06 Sep 2019 12:59:23 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=120</guid>
+
+					<description><![CDATA[Setting AI on your Messenger chatbot development will help you to provide a seamless experience to your customers from your business. But how can you]]></description>
+										<content:encoded><![CDATA[
+<p>Setting AI on your Messenger chatbot development will help you to provide a seamless experience to your customers from your business.</p>
+
+
+
+<p>But how can you know whether your chatbot is performing? Is your chatbot recognising the messages from your subscribers or not? How efficient is my AI? </p>
+
+
+
+<p>&#8220;User Messages&#8221; section on the dashboard will help you to give an answer to all these above questions.</p>
+
+
+
+<p>Click &#8220;View Full Report&#8221; on the user messages section to get more details on this section.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="443" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1024x443.png" alt="" class="wp-image-1354" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1024x443.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-300x130.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-768x332.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12.png 1365w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>On the full report, you can see details on,</p>
+
+
+
+<ul class="wp-block-list"><li>User messages that are recognized by AI &amp; not recognized by AI,</li><li>User messages with a response,</li><li>User messages with no-response,</li><li>Most trained phrases on the frequent answers (By NLP).</li></ul>
+
+
+
+<p>Hope this article helps you to know about the “Chatbot AI Performance” feature on the chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/chatbot-ai-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Analytics &#8211; Sales</title>
+		<link>https://docs.chatrace.com/kb/sales-analytics/</link>
+					<comments>https://docs.chatrace.com/kb/sales-analytics/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 06 Sep 2019 12:47:27 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=116</guid>
+
+					<description><![CDATA[Chatrace has its native eCommerce integration feature where you can send sell your product inside the Messenger chatbot. The sales analytics on the dashboard section]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace has its native eCommerce integration feature where you can send sell your product inside the Messenger chatbot.</p>
+
+
+
+<p>The sales analytics on the dashboard section will give you all the details on the sales which you made with the Messenger chatbot </p>
+
+
+
+<p></p>
+
+
+
+<p>The complete sales details which your bot performs can be viewed on the dashboard, under the earnings section. The visual representation of <em>&#8220;Earnings by Date&#8221;</em> will give entire sales details that you make by our platform. </p>
+
+
+
+<p>This is how the sales dashboard looks like,</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_1-1-1024x468.png" alt="" class="wp-image-1360" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_1-1-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_1-1-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_1-1-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_1-1.png 1347w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p></p>
+
+
+
+<p>Select <em>View full report</em> option to get the in-depth details of your orders and sales. There you can see,</p>
+
+
+
+<ul class="wp-block-list"><li>Your All-time Percentage,</li><li>Orders Percentage,</li><li>Sales Percentage,</li><li>Earning by date,</li><li>Top Product and top vendors detail,</li><li>Products and Order details by date</li></ul>
+
+
+
+<p>Hope this article helps you to understand the sales analytics dashboard in the chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/sales-analytics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Users Analytics</title>
+		<link>https://docs.chatrace.com/kb/new-users-analytics/</link>
+					<comments>https://docs.chatrace.com/kb/new-users-analytics/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 06 Sep 2019 12:32:40 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=114</guid>
+
+					<description><![CDATA[Acquiring Messenger subscribers is the first &#38; foremost thing that you need to do for promoting your business. Few parts of analytics in the dashboard]]></description>
+										<content:encoded><![CDATA[
+<p>Acquiring Messenger subscribers is the first &amp; foremost thing that you need to do for promoting your business.</p>
+
+
+
+<p>Few parts of analytics in the dashboard section are dedicated to provide the new user analytic details. So that you can improve the subscriber acquisition more efficiently.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="487" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-1-1024x487.png" alt="" class="wp-image-1362" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-1-1024x487.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-1-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-1-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-1.png 1307w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>In your dashboard section, you will get loads of information for the new user data that are highlighted in the above image.</p>
+
+
+
+<p>New Users (a) &#8211; In this column, you will find the number of new users in the numerical format and numbers  below will show the increase/decrease of new users in percentage respective to the selected timeline.</p>
+
+
+
+<p>New Users (b) &#8211; This column will show you the number of new users in graphical format with respect to the date (in X-axis) and user count (in Y-axis).</p>
+
+
+
+<p>New User by Source &#8211; Pie chart in this column will show the source where Messenger subscribers had come from. It will help you to know where your potential audience is so that you can optimize to obtain more Messenger subscribers.</p>
+
+
+
+<p>New User by Gender &#8211; It is also a pie chart which gives the detail of subscribers&#8217; gender that are obtained from Facebook. USe this detail for targeting your products and services.</p>
+
+
+
+<p>New User by language &#8211; Know what your subscribers&#8217; are speaking and get in-depth details about the new users&#8217; language (fetched from Facebook) in the form of pie chart</p>
+
+
+
+<p>Hope this article helps you to know more about “New user Data” in our dashboard section on chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/new-users-analytics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Send conversion events to Facebook</title>
+		<link>https://docs.chatrace.com/kb/send-conversion-events-to-facebook/</link>
+					<comments>https://docs.chatrace.com/kb/send-conversion-events-to-facebook/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2022 12:25:57 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2423</guid>
+
+					<description><![CDATA[Facebook Conversion Tracking is a powerful tool for businesses using Facebook Ads. It allows businesses to send specific event data back to Facebook, enabling them]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Facebook Conversion Tracking</strong> is a powerful tool for businesses using Facebook Ads. It allows businesses to send specific event data back to Facebook, enabling them to track how effective their ads are in leading to customer actions, such as purchases, sign-ups, and other key conversions.</p>
+
+
+
+<p>This feature works on all channels. The contact must have at least an email address or phone number or come from Facebook Lead Ads.</p>
+
+
+
+<p>We strongly recommend you use Standard Events whenever possible. Only standard events are reported in Ads Manager and available for ad targeting and optimization (where available).</p>
+
+
+
+<h4 class="wp-block-heading">Requirements </h4>
+
+
+
+<p>You need to have a Facebook pixel. You can learn how to create a Pixel <a href="https://www.facebook.com/business/help/314143995668266?id=1205376682832142" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<h4 class="wp-block-heading">Get Access Token to send conversion events</h4>
+
+
+
+<p>Go to <a href="https://www.facebook.com/events_manager2/overview" target="_blank" rel="noreferrer noopener">Events Manager</a> &gt; <strong>Data sources</strong> &gt; select your Pixel &gt; <strong>Settings</strong> and scroll until the <strong>Generate access token </strong>button. You will use the generated access token in the next step.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-1024x486.png" alt="" class="wp-image-3676" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-1536x730.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Get the Facebook Pixel ID</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-1024x486.png" alt="" class="wp-image-3681" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-1536x730.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Setup Facebook Conversion Tracking Integration</h4>
+
+
+
+<p>Go to <strong>Settings</strong> &gt; <strong>Integrations</strong> &gt; <strong>Facebook Conversion Tracking</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="504" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-1024x504.png" alt="" class="wp-image-3677" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-1024x504.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-300x148.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-768x378.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-1536x756.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32.png 1605w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="491" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-1024x491.png" alt="" class="wp-image-3678" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-1024x491.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-300x144.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-768x368.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-1536x736.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33.png 1602w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Send conversion events</h4>
+
+
+
+<p>You must use <strong>Actions</strong> &gt; <strong>Send Conversion Event</strong> on Flow Builder to send conversion events to Facebook.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="581" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-1024x581.png" alt="" class="wp-image-3682" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-1024x581.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-300x170.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-768x436.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-1536x872.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35.png 1607w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="581" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-1024x581.png" alt="" class="wp-image-3683" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-1024x581.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-300x170.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-768x436.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-1536x872.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36.png 1607w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Viewing sent events in Event Manager</h4>
+
+
+
+<p>When you send a conversion event, it may take up to 40 minutes for the event to show up on the Event Manager.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/02/image-1024x486.png" alt="" class="wp-image-3695" srcset="https://docs.chatrace.com/wp-content/uploads/2024/02/image-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-1536x730.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/02/image.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading"></h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/send-conversion-events-to-facebook/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

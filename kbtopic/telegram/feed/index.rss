@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Telegram &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/telegram/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Oct 2024 12:47:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Telegram &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get started with Telegram Automation</title>
+		<link>https://docs.chatrace.com/kb/create-a-telegram-bot/</link>
+					<comments>https://docs.chatrace.com/kb/create-a-telegram-bot/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sun, 28 Mar 2021 09:14:45 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=1767</guid>
+
+					<description><![CDATA[Chatrace allows your business to automate conversations on Telegram by creating a Telegram bot. Follow the below steps by step to create and connect your]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace allows your business to automate conversations on Telegram by creating a Telegram bot. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to setup a telegram bot" width="780" height="439" src="https://www.youtube.com/embed/N56yTSRYgjg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Follow the below steps by step to create and connect your bot to Chatrace</p>
+
+
+
+<p><strong>1</strong> &#8211; You will need to chat with the official Telegram <a href="https://t.me/botfather">BotFather</a> (<a href="https://t.me/botfather" target="_blank" rel="noreferrer noopener">https://t.me/botfather</a>) to create your bot.  Use the&nbsp;<strong>/newbot</strong>&nbsp;command to create your bot.  You can learn more <a rel="noreferrer noopener" href="https://core.telegram.org/bots#6-botfather" target="_blank">here</a>. After you created your bot you will receive your bot API token. </p>
+
+
+
+<p><strong>2</strong> &#8211; Setup Telegram on Chatrace.<br>Navigate to Settings &gt; Integrations and find Telegram. You only need to specify your Telegram bot token and Chatrace will automatically integrate with Telegram and your bot is ready to respond to users.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="461" src="https://docs.chatrace.com/wp-content/uploads/2021/03/image-8-1024x461.png" alt="" class="wp-image-1769" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/image-8-1024x461.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/image-8-300x135.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/image-8-768x345.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/image-8.png 1345w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>3 &#8211; </strong>On the flow builder, you will use <strong>Telegram</strong> or <strong>Omnichannel</strong> as a message type. We recommend that you use <strong>Omnichannel</strong> whenever possible.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="558" src="https://docs.chatrace.com/wp-content/uploads/2021/03/image-9-1024x558.png" alt="" class="wp-image-1771" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/image-9-1024x558.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/image-9-300x164.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/image-9-768x419.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/image-9-1536x838.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/image-9.png 1718w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><br>To test your flow, create a training phrase like &#8220;test&#8221; on <strong>Automated Responses</strong> that triggers your Telegram flow. Currently, you can&#8217;t preview a Telegram flow from the flow builder because Messenger contacts can&#8217;t be merged with Telegram contacts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/create-a-telegram-bot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to send a broadcast message to Telegram contacts</title>
+		<link>https://docs.chatrace.com/kb/how-to-send-broadcast-message-on-telegram/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-send-broadcast-message-on-telegram/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 02 Jun 2023 12:33:03 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2934</guid>
+
+					<description><![CDATA[The broadcast tool allows you to send messages to multiple contacts simultaneously in an automated manner. It helps businesses to send announcements, discounts, updates, and]]></description>
+										<content:encoded><![CDATA[
+<p>The broadcast tool allows you to send messages to multiple contacts simultaneously in an automated manner. It helps businesses to send announcements, discounts, updates, and other notifications to their contacts.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send a broadcast message to Telegram contacts" width="780" height="439" src="https://www.youtube.com/embed/ER18Zl9HSYw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Follow the steps below to send a broadcast message to your contact list.</p>
+
+
+
+<h4 class="wp-block-heading">Create your flow</h4>
+
+
+
+<p>Go to Menu &gt; Flows and click the <strong>Add</strong> button. You can watch this <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=IkU6_JnHabE" target="_blank">video</a> to learn how to create a flow.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-1024x495.png" alt="" class="wp-image-2935" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_132959517.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h4 class="wp-block-heading">Send your flow to your contact list</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png" alt="" class="wp-image-2924" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Select the <strong>Telegram</strong> channel to proceed.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133109594-1024x495.png" alt="" class="wp-image-2936" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133109594-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133109594-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133109594-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133109594-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133109594.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>Select your broadcast flow and click send</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133158172-1024x495.png" alt="" class="wp-image-2937" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133158172-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133158172-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133158172-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133158172-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_133158172.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-send-broadcast-message-on-telegram/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to get user&#8217;s location on WhatsApp, Viber and Telegram</title>
+		<link>https://docs.chatrace.com/kb/how-to-get-users-location/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-get-users-location/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2023 23:10:21 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2715</guid>
+
+					<description><![CDATA[Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to get your customer&#8217;s location at one point or another in the customer journey. Chatrace provides two system fields you can use to perform actions on the contact&#8217;s geological data.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to get users location on whatsapp" width="780" height="439" src="https://www.youtube.com/embed/5_IzaMg73u8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To get the user’s location, follow the steps below</p>
+
+
+
+<ul class="wp-block-list">
+<li>Request the user’s location</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="484" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png" alt="" class="wp-image-2725" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-768x363.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6.png 1326w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh5.googleusercontent.com/t31bw7GIvWlw3rqt3l1vDTU3jVBwJKD-LCtiSy3O3WcJkyio5UXhR79VjH9mNKj-CrxYTyNy68gLWpVUOy58KQm8VIJyO_ti-NFwUCcoTPVv_SdbB5fKKHKcQ3w0FRtU-MyVrlYn6_bke8e7EDLSgHc" alt=""/></figure>
+
+
+
+<p>Once the user shares his/her location, the user’s entire geographical data (location) will be saved in the custom field you used on the Get User Data block.</p>
+
+
+
+<p><strong> </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>You can access the entire geographical data (location) in the custom field you used on the Get User Data block (You can access both latitude and longitude)</li>
+
+
+
+<li>You can access the ‘latitude’ of the last location the user/contact shared on {{last_latitude}}</li>
+
+
+
+<li>You can access the longitude of the last location the user/contact shared on {{last_longitude}}&nbsp;</li>
+</ul>
+
+
+
+<p><strong>Advance</strong></p>
+
+
+
+<p>To&nbsp; get the URL of the user’s location, use the Url below</p>
+
+
+
+<p><a href="https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C'{{last_longitude}} ">https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C{{last_longitude}} </a></p>
+
+
+
+<p><strong><em>Note: The URL will work based on the last location shared by the user/contact.</em></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-get-users-location/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How a Telegram Premium user automate conversations using Chatbot</title>
+		<link>https://docs.chatrace.com/kb/how-a-telegram-premium-user-automate-conversations-using-chatbot/</link>
+					<comments>https://docs.chatrace.com/kb/how-a-telegram-premium-user-automate-conversations-using-chatbot/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 08:29:10 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3841</guid>
+
+					<description><![CDATA[Overview Telegram has introduced a new feature that enables Telegram premium users to connect their accounts seamlessly with their Telegram bots. This means that Telegram]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>Telegram has introduced a new feature that enables Telegram premium users to connect their accounts seamlessly with their Telegram bots. </p>
+
+
+
+<p>This means that Telegram Business users now have the ability to respond to private messages using their bots, with no noticeable difference for subscribers. </p>
+
+
+
+<p>This feature allows businesses to maintain personalized customer communication while also benefiting from automation.</p>
+
+
+
+<h2 class="wp-block-heading">Setup</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Log in to your Telegram account and type &nbsp;<code>@BotFather</code>&nbsp;in the search field. Enter the&nbsp;<code>/mybots</code>&nbsp;command, and select your bot. Click&nbsp;<strong>Bot Settings</strong>&nbsp;&gt;&nbsp;<strong>Business mode</strong>.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Turn Business mode ON</strong>.</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="2560" height="1440" src="https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-scaled.jpeg" alt="" class="wp-image-3858" srcset="https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-scaled.jpeg 2560w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-300x169.jpeg 300w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-1024x576.jpeg 1024w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-768x432.jpeg 768w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-1536x864.jpeg 1536w, https://docs.chatrace.com/wp-content/uploads/2024/10/Telegram-doc-2048x1152.jpeg 2048w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></figure></div>
+
+
+<ul class="wp-block-list">
+<li>In your Telegram account, go to&nbsp;<strong>Settings</strong>&nbsp;&gt;&nbsp;<strong>Telegram Business</strong>&nbsp;&gt;&nbsp;<strong>Chatbots</strong>.</li>
+
+
+
+<li>Enter a username or bot link in the input field. Promptly click Add when it appears in the dropdown list.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>Set how your bot will have access to your chats.<br><br><strong>All 1-to-1 Chats</strong><br>This option gives access to all contacts who send private messages.<br><br><strong>Only Selected Chats</strong><br>This option gives access only to specific contacts. In the&nbsp;<strong>Included Chats</strong>&nbsp;section, add contacts or groups (new chats, saved or unsaved contacts).</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-a-telegram-premium-user-automate-conversations-using-chatbot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

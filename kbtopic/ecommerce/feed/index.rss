@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ecommerce &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/ecommerce/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Jan 2024 01:24:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Ecommerce &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Checkout Settings</title>
+		<link>https://docs.chatrace.com/kb/checkout-settings/</link>
+					<comments>https://docs.chatrace.com/kb/checkout-settings/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 12:56:55 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=531</guid>
+
+					<description><![CDATA[In the Chatrace platform, eCommerce sections have separate settings where you can customize most of the things related to the eCommerce. Generally, we divided this]]></description>
+										<content:encoded><![CDATA[
+<p>In the Chatrace platform, eCommerce sections have separate settings where you can customize most of the things related to the eCommerce.</p>
+
+
+
+<p>Generally, we divided this eCommerce settings into two four divisions as of now. They are</p>
+
+
+
+<ol class="wp-block-list"><li>General,</li><li>Payments,</li><li>Shipping,</li><li>Checkout</li></ol>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh3.googleusercontent.com/yVmkG6YfOUDxHLxrx414b257BbGdxivjRd_vGugXqCkOQTyEdl34dKNwbwIC0tBeNvMBtzji27a9JqWOROAmDfuCrMRlb3FRbcHppZwbr9SXUjp7EyRvFlxQbax9GnfewRdvc-78" alt="General eCommerce Settings - chatrace"/></figure></div>
+
+
+
+<p>In this article, we will take a look into the checkout setting in the Chatrace eCommerce section.</p>
+
+
+
+<p>And this is what the checkout settings in the eCommerce section look like.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="436" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-3-1024x436.png" alt="" class="wp-image-1532" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-3-1024x436.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-3-300x128.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-3-768x327.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-3.png 1355w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>In this checkout settings,</p>
+
+
+
+<p><strong>Checkout &#8211;</strong> This setting controls where your customers will finish their orders. For the Shopify store, you can&#8217;t change this setting since the Chatbot will use the default checkout page of Shopify. If you want the user to complete the other outside of Messenger like on your website, Amazon.. don&#8217;t use Chatrace default checkout page.</p>
+
+
+
+<p><strong>Minimum order value &#8211;</strong> Feed your minimum order value here. The minimum value of the order that a customer can place. This condition is checked when all discounts are applied.</p>
+
+
+
+<p><strong>Maximum vendors in a cart &#8211;</strong> The maximum number of different vendors that are allowed in a single shopping cart. Give “-1” if the number of vendors in the cart is unlimited or no-limit.</p>
+
+
+
+<p><strong>Require buyer name &#8211;</strong> By enabling this field, you can collect the customer’s name on the checkout page. It will become mandatory to enter the name of the customer while checking out.</p>
+
+
+
+<p><strong>Require email address &#8211;</strong> By enabling this field, you can collect the customer’s email address on the checkout page. It will become mandatory to enter the email of the customer while checking out.</p>
+
+
+
+<p><strong>Require phone number &#8211;</strong> By enabling this field, you can collect the customer’s contact details on the checkout page. It will become mandatory to enter the phone number of the customer while checking out.</p>
+
+
+
+<p><strong>Require zip code &#8211;</strong> By enabling this field, you can collect the customer’s zip code on the checkout page. It will become mandatory to enter the zip code of the customer while checking out.</p>
+
+
+
+<p>Hope this article helps you to know more about “Checkout Settings” in our eCommerce module on Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/checkout-settings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Shipping Settings</title>
+		<link>https://docs.chatrace.com/kb/shipping-settings/</link>
+					<comments>https://docs.chatrace.com/kb/shipping-settings/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 12:55:30 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=528</guid>
+
+					<description><![CDATA[In the Chatrace platform, eCommerce sections have separate settings where you can customize most of the things related to the eCommerce. Generally, we divided this]]></description>
+										<content:encoded><![CDATA[
+<p>In the Chatrace platform, eCommerce sections have separate settings where you can customize most of the things related to the eCommerce.</p>
+
+
+
+<p>Generally, we divided this eCommerce settings into two four divisions as of now. They are</p>
+
+
+
+<ol class="wp-block-list"><li>General,</li><li>Payments,</li><li>Shipping,</li><li>Checkout</li></ol>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh3.googleusercontent.com/yVmkG6YfOUDxHLxrx414b257BbGdxivjRd_vGugXqCkOQTyEdl34dKNwbwIC0tBeNvMBtzji27a9JqWOROAmDfuCrMRlb3FRbcHppZwbr9SXUjp7EyRvFlxQbax9GnfewRdvc-78" alt="General eCommerce Settings - chatrace"/></figure></div>
+
+
+
+<p>In this article, we will take a look into the shipping setting in the Chatrace eCommerce section.</p>
+
+
+
+<p>And this is what the shipping settings in the eCommerce section look like.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/qtMdh5JOmzohrpkKHzmdYgPyfc5F-qdWYlFeu30QCxf2yGFLBec3ICk3xpElvcRWK2JeQhwaBMDr6HCGyfZzBrecdYJWWmZPXdAbEXIKEPTqIhmUiTda2BpT4o2jrotioCyER0lo" alt="shipping settings - chatrace"/></figure></div>
+
+
+
+<p>In this shipping settings tab,</p>
+
+
+
+<p><strong>Shipping Type &#8211;</strong> This field will let you choose options among,</p>
+
+
+
+<ol class="wp-block-list"><li><em>Ship to the Customer &#8211;</em> You can collect customer location details and ship your product to your customer’s address.</li><li><em>Pickup in the Store </em>&nbsp;&#8211; You can send store location to your customers so that they can collect the order from your store’s physical location.</li><li><em>Both </em>&#8211; You can select both options to make it up to your customers on selecting the product delivery options.</li></ol>
+
+
+
+<p><strong>Store address &#8211;</strong> This address is shown to the customer in the checkout page if you allow pick up in the store.</p>
+
+
+
+<p><strong>Shipping countries &#8211;</strong> Select the list of countries that you can ship your products for delivery.</p>
+
+
+
+<p><strong>Default Shipping country &#8211; </strong>“<em>United States</em>” will be chosen as a shipping country by default. You can change that to any other countries based on your business.&nbsp;</p>
+
+
+
+<p><strong>Delivery cost &#8211;</strong> Fill the value that you will charge as the delivery cost for the products.</p>
+
+
+
+<ul class="wp-block-list"><li>If you don’t charge any money as delivery cost, leave it as blank or put “Zero (0)” as a value.</li><li>If you had different delivery costs for different locations, you can upload that by selecting the “<strong><em>Set Cost per Location</em></strong>” text below the delivery cost field.  To know more, read this article: “How to set delivery cost based on Location?”</li></ul>
+
+
+
+<p>Hope this article helps you to know more about “Shipping Settings” in our eCommerce module on Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/shipping-settings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Payment Settings</title>
+		<link>https://docs.chatrace.com/kb/payment-settings/</link>
+					<comments>https://docs.chatrace.com/kb/payment-settings/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 12:53:45 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=526</guid>
+
+					<description><![CDATA[In the Chatrace platform, eCommerce sections have separate settings where you can customize most of the things related to the eCommerce. Basically, we divided this]]></description>
+										<content:encoded><![CDATA[
+<p>In the Chatrace platform, eCommerce sections have separate settings where you can customize most of the things related to the eCommerce.</p>
+
+
+
+<p>Basically, we divided this eCommerce settings into two four divisions as of now. They are</p>
+
+
+
+<ol class="wp-block-list"><li>General,</li><li>Payments,</li><li>Shipping,</li><li>Checkout</li></ol>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh3.googleusercontent.com/yVmkG6YfOUDxHLxrx414b257BbGdxivjRd_vGugXqCkOQTyEdl34dKNwbwIC0tBeNvMBtzji27a9JqWOROAmDfuCrMRlb3FRbcHppZwbr9SXUjp7EyRvFlxQbax9GnfewRdvc-78" alt="General eCommerce Settings - chatrace"/></figure></div>
+
+
+
+<p>In this article, we will take a look into the payments setting in the Chatrace eCommerce section.</p>
+
+
+
+<p>And this is what the payment settings in the eCommerce section look like.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/kPt7oBSggSaQAgbVzQb56t8gR3daS1eHuBGLrAnwGYNwu9lHNgs3If1Hzt9bUa0hWodgEwrCDS5u7oPYoiNUCnrEAVmqLZsVCbqtwaiyv8sl8RXgS_eTYtU2kFoQ5vqnVzh1oOJ4" alt="Payment Settings - chatrace"/></figure></div>
+
+
+
+<p>In this payment settings tab,</p>
+
+
+
+<p><strong>Stripe Account &#8211;</strong> Connect your stripe account to get the money which your subscribers sent for products &amp; services.&nbsp;</p>
+
+
+
+<p><strong><em>Don’t have a stripe? No Problem, connect your PayPal payment gateway with Chatrace to receive the money to your account.</em></strong></p>
+
+
+
+<p><strong>Payment Methods &#8211;</strong> Choose the method of the payment by your customers in the Messenger chatbot. The payment methods are enabled in the checkout page. The first payment method in the list will be the selected payment method in the checkout page. You can anything among,</p>
+
+
+
+<ol class="wp-block-list"><li>Card,</li><li>Apple Pay,</li><li>PayPal,</li><li>Google Pay,</li><li>Alipay,</li><li>WeChat Pay,</li><li>Cash on Delivery payment options.</li></ol>
+
+
+
+<p><strong>Currency &#8211;</strong> Choose the currency that your business and Messenger chatbot can support inside the Messenger platform. This is the currency that you set the prices for products. The customers will be charged in this currency.</p>
+
+
+
+<p><strong>Symbol of Money &#8211;</strong> Put the currency symbol of your business (in default it will be displayed in dollars). If you want a space between the symbol and prices, add a space at the end of the symbol.</p>
+
+
+
+<p>Hope this article helps you to know more about “Payments Settings” in our eCommerce module on Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/payment-settings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Category</title>
+		<link>https://docs.chatrace.com/kb/category/</link>
+					<comments>https://docs.chatrace.com/kb/category/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2020 09:41:02 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=514</guid>
+
+					<description><![CDATA[Category is kind of segmenting your product under some sets and names. On the eCommerce section, it will help help you to keep your products]]></description>
+										<content:encoded><![CDATA[
+<p>Category is kind of segmenting your product under some sets and names. On the eCommerce section, it will help help you to keep your products organised.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="433" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_4-3-1024x433.png" alt="" class="wp-image-1548" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_4-3-1024x433.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_4-3-300x127.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_4-3-768x325.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_4-3.png 1355w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>This is how the category page looks like initially. The table will give you the list of categories you have along with the subcategories count.</p>
+
+
+
+<h2 class="wp-block-heading">Create a New Category</h2>
+
+
+
+<p>If you are about to build your own inventory in this platform, always starts with categories. It will help you to segment the product that you will add in the future.</p>
+
+
+
+<p>Now to create a new category, click the “Add Category” button above the table.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="390" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_5-2-1024x390.png" alt="" class="wp-image-1549" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_5-2-1024x390.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_5-2-300x114.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_5-2-768x292.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_5-2.png 1343w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>After this, enter the category name, upload image for the category and select a rank for category to display when there are multiple categories to show.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="674" height="520" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_6-3.png" alt="" class="wp-image-1551" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_6-3.png 674w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_6-3-300x231.png 300w" sizes="auto, (max-width: 674px) 100vw, 674px" /></figure></div>
+
+
+
+<p>Then, click Continue button.</p>
+
+
+
+<p>You can add subcategories, remove the categories in bulk, preview, and edit particular category using the submenu straight to every category.</p>
+
+
+
+<p>Hope this article helps you to learn more about categories in our eCommerce module on Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/category/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Overview</title>
+		<link>https://docs.chatrace.com/kb/overview-3/</link>
+					<comments>https://docs.chatrace.com/kb/overview-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2020 08:21:44 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=509</guid>
+
+					<description><![CDATA[Chatbots are conversational tools that perform routine tasks efficiently. They are widely used by businesses across different verticals to ease their workload. Some chatbots are]]></description>
+										<content:encoded><![CDATA[
+<p>Chatbots are conversational tools that perform routine tasks efficiently. They are widely used by businesses across different verticals to ease their workload. Some chatbots are made to answer simple questions, while others can handle even the most complicated requests. Companies use chatbot technology to save time, money &amp; human resources.</p>
+
+
+
+<p>Customer support &amp; after-sales are vital areas where most organizations implement chatbots, but there are many more use cases where chatbot plays an important role.</p>
+
+
+
+<p>In this article, We will give you an overview of the in-built E-commerce module of the Chatrace platform and how to create a simple E-commerce flow.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to create basic e commerce flow" width="780" height="439" src="https://www.youtube.com/embed/QyOlRxiR6vM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Navigate to Tools >> Click on E-commerce.</h4>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_140814960-1024x495.png" alt="" class="wp-image-3305" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_140814960-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_140814960-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_140814960-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_140814960-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_140814960.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p><strong>Here is what the E-commerce section looks like.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_142701958-1024x495.png" alt="" class="wp-image-3306" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_142701958-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_142701958-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_142701958-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_142701958-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_142701958.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Here you perform all E-commerce operations, such as </p>
+
+
+
+<ul class="wp-block-list">
+<li>Create products &amp; import products from Meta Catalog &amp; Woocommerce.</li>
+
+
+
+<li>Create Coupons</li>
+
+
+
+<li>Manage Orders</li>
+
+
+
+<li>Manage Vendors</li>
+
+
+
+<li>View Ecommerce Analytics</li>
+
+
+
+<li>Manage your E-commerce settings (Payment settings, Checkout settings, Shipping settings, Abandoned Cart settings, Open hours, and many more.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/overview-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to add or Import products</title>
+		<link>https://docs.chatrace.com/kb/add-import-products/</link>
+					<comments>https://docs.chatrace.com/kb/add-import-products/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 06 Sep 2019 13:13:30 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=124</guid>
+
+					<description><![CDATA[On Chatrace, you can easily add/edit products, import products from Google Sheets, import products from your Woo-commerce store, and Import products from your Meta Catalog]]></description>
+										<content:encoded><![CDATA[
+<p>On Chatrace, you can easily add/edit products, import products from Google Sheets, import products from your Woo-commerce store, and Import products from your Meta Catalog in a few steps.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to import products" width="780" height="439" src="https://www.youtube.com/embed/X0-VJBzLDYE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Add Product</h2>
+
+
+
+<p><strong>Goto Tools &gt;&gt; Eccommerce &gt;&gt; Add Product</strong></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-05_025540495-1024x495.png" alt="" class="wp-image-3350" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-05_025540495-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-05_025540495-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-05_025540495-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-05_025540495-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image_2023-07-05_025540495.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-1024x495.png" alt="" class="wp-image-3351" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Add your product information </strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_18-1024x512.png" alt="" class="wp-image-1581" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_18-1024x512.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_18-300x150.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_18-768x384.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_18.png 1244w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="532" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_19-1024x532.png" alt="" class="wp-image-1582" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_19-1024x532.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_19-300x156.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_19-768x399.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_19.png 1229w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-1-1024x538.png" alt="" class="wp-image-1583" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-1-1024x538.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-1-300x158.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-1-768x404.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-1.png 1170w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Import Product From Google Sheet/CSV File</h4>
+
+
+
+<p>Click on Import Products &gt;&gt; Download Template &gt;&gt; Add your products to Google Sheet/CSV file &gt;&gt; Import your Products.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-1-1024x495.png" alt="" class="wp-image-3352" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-1-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-1-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-1-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-1-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-1.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-2-1024x495.png" alt="" class="wp-image-3353" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-2-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-2-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-2-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-2-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-2.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="549" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-3-1024x549.png" alt="" class="wp-image-3354" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-3-1024x549.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-3-300x161.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-3-768x412.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-3-1536x824.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-3.png 1602w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-4-1024x495.png" alt="" class="wp-image-3355" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-4-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-4-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-4-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-4-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-4.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Import Products from Meta Catalog (Whatsapp Commerce)</h4>
+
+
+
+<p>To import products from Whatsapp Catalog, <a href="https://docs.chatrace.com/kb/whatsapp-commerce/" target="_blank" rel="noreferrer noopener">you need to first follow all the steps on this documentation</a>, then come back to your E-commerce section and click Sync Meta Catalog</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-5-1024x495.png" alt="" class="wp-image-3356" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-5-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-5-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-5-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-5-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-5.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Import Products from your WooCommerce store.</h4>
+
+
+
+<p><strong>To connect import products from your Woocommerce store, first, you need to go to settings &gt;&gt; Integration &gt;&gt; Woocommerce &amp; connect your store to Chatrace.</strong></p>
+
+
+
+<p>After connecting your Woocommerce store in the Integration section, go to Tools &gt;&gt; E-commerce. Under the Product tab, click &#8216;Connect to WooCommerce&#8217; and follow the prompt.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="693" height="180" src="https://docs.chatrace.com/wp-content/uploads/2023/07/image-6.png" alt="" class="wp-image-3357" srcset="https://docs.chatrace.com/wp-content/uploads/2023/07/image-6.png 693w, https://docs.chatrace.com/wp-content/uploads/2023/07/image-6-300x78.png 300w" sizes="auto, (max-width: 693px) 100vw, 693px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/add-import-products/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Delivery Cost based on Location</title>
+		<link>https://docs.chatrace.com/kb/delivery-cost-based-on-location/</link>
+					<comments>https://docs.chatrace.com/kb/delivery-cost-based-on-location/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sun, 26 Jan 2020 22:27:58 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=428</guid>
+
+					<description><![CDATA[Setting delivery costs based on the location is possible inside the Chatrace platform, and it will take only minutes to configure different delivery costs based]]></description>
+										<content:encoded><![CDATA[
+<p>Setting delivery costs based on the location is possible inside the Chatrace platform, and it will take only minutes to configure different delivery costs based on locations.</p>
+
+
+
+<p>In this article, you will learn how to set up different delivery costs per state, city, or address for multiple products.</p>
+
+
+
+<p>First, create a Google Sheet or Microsoft Excel document and start feeding the details.</p>
+
+
+
+<p>Download the Google Sheets template <a rel="noreferrer noopener" href="https://docs.google.com/spreadsheets/d/1GrD_8WRNx8b7zZhEHmfW_ghNqrO2VX2nShfSFlMBuBE/edit?usp=sharing" target="_blank">HERE</a></p>
+
+
+
+<p>The country column must be in ISO Alpha-2. For example, instead of filling in &#8220;United States&#8221; you fill in &#8220;US&#8221;, instead of filling in &#8220;France&#8221; you fill in &#8220;FR&#8221;.</p>
+
+
+
+<p>For state, city, and address columns there is no restriction on how to fill it.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131221969-1024x486.png" alt="" class="wp-image-3428" srcset="https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131221969-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131221969-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131221969-768x364.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131221969-1536x728.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131221969.png 1845w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>If your delivery charge varies by &#8220;State&#8221;, leave all cells in &#8220;City&#8221; and &#8220;Address&#8221; empty. If your delivery charge varies by &#8220;City&#8221;, leave all cells in &#8220;Address&#8221; as empty. The below image is an example of different delivery charges for a different state.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131550008-1024x486.png" alt="" class="wp-image-3430" srcset="https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131550008-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131550008-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131550008-768x364.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131550008-1536x728.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131550008.png 1845w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>For the &#8220;Price&#8221; Column, there is no need to add the currency symbol. Also, don&#8217;t add any space in the numbers. For example, if the cost is 1 000.5 USD just fill the column price with 1000.5.</p>
+
+
+
+<p>Since you already choose the currency symbol on the eCommerce settings, so no need to add the currency symbol here again.</p>
+
+
+
+<p>After you have entered all data in your file, then export the document in CSV format.</p>
+
+
+
+<p>Now, go to eCommerce > Settings > Shipping >> Delivery cost and click &#8220;Set cost per location.&#8221;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131958391-1024x486.png" alt="" class="wp-image-3431" srcset="https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131958391-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131958391-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131958391-768x364.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131958391-1536x728.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/08/image_2023-08-29_131958391.png 1845w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p><strong>Kindly note that every time you upload a new file, the old pricing will get deleted before your file is imported. If you want to set a flat rate cost again, just upload a new file with no data included</strong>.</p>
+
+
+
+<p>Hope this article helps you to know about “Changing the delivery price based on location” on the Chatrace platform.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/delivery-cost-based-on-location/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to sell with the webshop?</title>
+		<link>https://docs.chatrace.com/kb/how-to-use-the-webshop/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-use-the-webshop/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 07 May 2021 00:39:44 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=1856</guid>
+
+					<description><![CDATA[Webshop allows your customers to easily place orders online. The webshop works on all channels. No matter if your customers use Messenger, SMS, WhatsApp, Telegram]]></description>
+										<content:encoded><![CDATA[
+<p>Webshop allows your customers to easily place orders online. The webshop works on all channels. No matter if your customers use Messenger, SMS, WhatsApp, Telegram &#8230; they can buy from your business.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="943" height="798" src="https://docs.chatrace.com/wp-content/uploads/2021/05/image.png" alt="" class="wp-image-1857" srcset="https://docs.chatrace.com/wp-content/uploads/2021/05/image.png 943w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-300x254.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-768x650.png 768w" sizes="auto, (max-width: 943px) 100vw, 943px" /></figure>
+
+
+
+<p>Setting up a web shop is very easy. First, go to Ecommerce and add your products. After that, follow the instructions below.</p>
+
+
+
+<p></p>
+
+
+
+<p>To let your customers access your web shop, use the system field <strong>{{shop_link}}</strong> as a button URL for channels that support buttons like Messenger or Telegram.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="821" src="https://docs.chatrace.com/wp-content/uploads/2021/05/image-1-1024x821.png" alt="" class="wp-image-1859" srcset="https://docs.chatrace.com/wp-content/uploads/2021/05/image-1-1024x821.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-1-300x240.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-1-768x615.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-1.png 1163w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>For channels that don&#8217;t support buttons like SMS or WhatsApp, you can use the <strong>{{shop_link}}</strong> inside a text block like the image below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="564" src="https://docs.chatrace.com/wp-content/uploads/2021/05/image-2.png" alt="" class="wp-image-1860" srcset="https://docs.chatrace.com/wp-content/uploads/2021/05/image-2.png 640w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-2-300x264.png 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Change the product view</h4>
+
+
+
+<p>We provide many ways to display your products on the webshop. You can navigate to Ecommerce &gt; Settings</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="470" src="https://docs.chatrace.com/wp-content/uploads/2021/05/image-7-1024x470.png" alt="" class="wp-image-1868" srcset="https://docs.chatrace.com/wp-content/uploads/2021/05/image-7-1024x470.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-7-300x138.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-7-768x353.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-7.png 1393w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="985" height="808" src="https://docs.chatrace.com/wp-content/uploads/2021/05/image-3.png" alt="" class="wp-image-1861" srcset="https://docs.chatrace.com/wp-content/uploads/2021/05/image-3.png 985w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-3-300x246.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-3-768x630.png 768w" sizes="auto, (max-width: 985px) 100vw, 985px" /><figcaption class="wp-element-caption">Card</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"> </h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="994" height="805" src="https://docs.chatrace.com/wp-content/uploads/2021/05/image-4.png" alt="" class="wp-image-1862" srcset="https://docs.chatrace.com/wp-content/uploads/2021/05/image-4.png 994w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-4-300x243.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-4-768x622.png 768w" sizes="auto, (max-width: 994px) 100vw, 994px" /><figcaption class="wp-element-caption">Image Cover</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="994" height="571" src="https://docs.chatrace.com/wp-content/uploads/2021/05/image-6.png" alt="" class="wp-image-1865" srcset="https://docs.chatrace.com/wp-content/uploads/2021/05/image-6.png 994w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-6-300x172.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/05/image-6-768x441.png 768w" sizes="auto, (max-width: 994px) 100vw, 994px" /><figcaption class="wp-element-caption">List</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Load webshop on a specific category</h4>
+
+
+
+<p>{{shop_link}}<strong>&amp;t=CATEGORY_ID</strong></p>
+
+
+
+<p>To get a category ID, go to the list of categories, click the 3 dots, and click &#8220;Get ID&#8221;.  </p>
+
+
+
+<p>Example: If your CATEGORY ID is 2000, your webchat link will be {{shop_link}}&amp;t=2000</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-use-the-webshop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to use your own custom checkout page?</title>
+		<link>https://docs.chatrace.com/kb/how-to-use-your-own-custom-checkout-page/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-use-your-own-custom-checkout-page/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 08 May 2020 15:40:31 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=885</guid>
+
+					<description><![CDATA[Chatrace has its own default checkout page where you can connect your Stripe, PayPal or Razorpay to accept payments. You can now use your own]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace has its own default checkout page where you can connect your Stripe, PayPal or Razorpay to accept payments.</p>
+
+
+
+<p>You can now use your own custom checkout page in your chatbot. Once your customers click on the &#8220;Checkout&#8221; button, they will be seamlessly redirected to your personalized checkout page.</p>
+
+
+
+<p><strong>Goto Tools >> E-commerce >> Settings >> Checkout</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-1024x488.png" alt="" class="wp-image-3655" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-1024x488.png" alt="" class="wp-image-3656" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-1024x488.png" alt="" class="wp-image-3657" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-1024x488.png" alt="" class="wp-image-3658" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Data Chatrace sent to your checkout page</h3>
+
+
+
+<p>Imagine your checkout URL is <strong>https://example.com</strong></p>
+
+
+
+<p>When users click the checkout button inside your bot, we will automatically add these parameters.</p>
+
+
+
+<p>https://example.com?order=&lt;order_id&gt;&#038;page=&lt;account_id&gt;&#038;user=&lt;contact_id&gt;&#038;total=&lt;total&gt;&#038;subtotal=&lt;subtotal&gt;</p>
+
+
+
+<p><strong>order</strong>: the order ID and you use it to mark the order as paid using API.<br><strong>page</strong>: the Chatrace account ID.<br><strong>user</strong>: the contact ID for your bot.<br><strong>total</strong>: the total value of the user&#8217;s shopping cart.<br><strong>subtotal</strong>: the subtotal of the user&#8217;s shopping cart.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Mark an order as paid.</h3>
+
+
+
+<p>After the user paid the order, you must use the Chatrace API to mark an order as paid. Click <a href="https://api.chatrace.com/swagger/#/User/payOrder" target="_blank" rel="noreferrer noopener">HERE</a> to learn how to mark an order as paid.</p>
+
+
+
+<p>If you need information about the user&#8217;s shopping cart, You can use our API. <a href="https://api.chatrace.com/swagger/#/User/getUserCart" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-use-your-own-custom-checkout-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

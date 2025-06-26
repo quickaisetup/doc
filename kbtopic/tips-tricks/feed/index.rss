@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tips &amp; Tricks &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/tips-tricks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 21 Jun 2023 22:13:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Tips &amp; Tricks &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What is the maximum file/video size?</title>
+		<link>https://docs.chatrace.com/kb/video-size-for-gallery/</link>
+					<comments>https://docs.chatrace.com/kb/video-size-for-gallery/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 09:47:31 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=894</guid>
+
+					<description><![CDATA[Use video or audio on which the size will not exceed more than 25MB. If the video is more than 25MB, upload them on Facebook]]></description>
+										<content:encoded><![CDATA[
+<p>Use video or audio on which the size will not exceed more than 25MB. If the video is more than 25MB, upload them on Facebook and use the URL in our platform using the video block on the flow builder (refer the image below).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="822" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_15-1024x822.png" alt="" class="wp-image-1421" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_15-1024x822.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_15-300x241.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_15-768x617.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_15.png 1153w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p><strong>File:</strong></p>
+
+
+
+<p>The same rule applies for files as well, upload any file format that should not exceed 25MB memory size.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/video-size-for-gallery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to copy a Flow to another page</title>
+		<link>https://docs.chatrace.com/kb/copy-flow-to-another-page/</link>
+					<comments>https://docs.chatrace.com/kb/copy-flow-to-another-page/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2020 16:13:38 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=803</guid>
+
+					<description><![CDATA[Copying one flow to another page will be useful when you are using Messenger chatbots for multiple Facebook business pages.&#160; It will help you by]]></description>
+										<content:encoded><![CDATA[
+<p>Copying one flow to another page will be useful when you are using Messenger chatbots for multiple Facebook business pages.&nbsp;</p>
+
+
+
+<p>It will help you by saving time on building the same flow for different pages.</p>
+
+
+
+<p>Let’s see how we can copy a flow from one page to another in simple steps.</p>
+
+
+
+<p>As a first step, you need to go to the flow which you need to get copied and select the sub-menu on the top-right corner of the builder.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="496" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-2-1024x496.png" alt="" class="wp-image-1386" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-2-1024x496.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-2-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-2-768x372.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-2-1536x744.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_2-2.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Then a popup will appear with the list of pages you had on your Chatrace account. Choose the page that you want to copy this flow.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="495" height="189" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-2.png" alt="" class="wp-image-1387" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-2.png 495w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_3-2-300x115.png 300w" sizes="(max-width: 495px) 100vw, 495px" /></figure></div>
+
+
+
+<p>That is it. Your flow is now copied to the target page which you had selected on the previous popup.</p>
+
+
+
+<p>This is how you can copy the flow from one page to another.</p>
+
+
+
+<p>Hope this article helps you to know how to copy a flow from one page to another in Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/copy-flow-to-another-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to connect your Google, Facebook, and Microsoft account for login</title>
+		<link>https://docs.chatrace.com/kb/how-to-add-google-account-email-account-to-your-chatrace-account/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-add-google-account-email-account-to-your-chatrace-account/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 02:33:04 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2756</guid>
+
+					<description><![CDATA[You can quickly log in with your Facebook, Google, Microsoft, or email account. To connect an email, Google, Facebook, or Microsoft account to your existing]]></description>
+										<content:encoded><![CDATA[
+<p>You can quickly log in with your Facebook, Google, Microsoft, or email account. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to connect Google account, Email, and Microsoft account" width="780" height="439" src="https://www.youtube.com/embed/rwY1PkzxtQo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To connect an email, Google, Facebook, or Microsoft account to your existing account, click on the top right corner &gt;&gt; My Profile &gt;&gt; Login Accounts.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_101216845-1024x498.png" alt="" class="wp-image-2760" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_101216845-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_101216845-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_101216845-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_101216845-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_101216845.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The green dot indicates the account you are currently logged in with. As shown in the screenshot above, If you are logged in with your Facebook account, you can only connect/disconnect/edit both the Google account and email account(Facebook account will be greyed out since you are currently logged in with it.. You cannot disconnect the account you are currently logged in with).</p>
+
+
+
+<p></p>
+
+
+
+<p><strong><em>If you want to add a Google account or email account to your Chatrace account &gt;&gt; Click on Connect button</em></strong></p>
+
+
+
+<p><strong><em>If you want to disconnect your Google account from your Chatrace account &gt;&gt; Click on disconnect</em></strong></p>
+
+
+
+<p><strong><em>If you want to remove or change the email account connected to your Chatrace account &gt;&gt; Click on edit.</em></strong></p>
+
+
+
+<p><strong><em>If you want to disconnect or change the Facebook account connected to your Chatrace account &gt;&gt; login to your Chatrace account with either a Google account or email account &gt;&gt; Goto profile &gt;&gt; login accounts &gt;&gt; disconnect your Facebook account.</em></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-add-google-account-email-account-to-your-chatrace-account/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to enable the bot for admins only</title>
+		<link>https://docs.chatrace.com/kb/development-mode/</link>
+					<comments>https://docs.chatrace.com/kb/development-mode/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 13:45:23 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=1230</guid>
+
+					<description><![CDATA[Chatrace allows you to build your Bot in isolation such that Non-admins of your account cannot access it. We call this Development Mode. This is]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace allows you to build your Bot in isolation such that Non-admins of your account cannot access it. We call this Development Mode. This is also useful whenever you want to deactivate your Bot. Once the Development Mode is activated, your Bot will not respond to Non-admins of your account (It will not respond to your customers/clients).</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How Development Mode works" width="780" height="439" src="https://www.youtube.com/embed/V4sIrfa6kMw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Enable Development Mode.</h4>
+
+
+
+<p><strong>Goto Settings >> General >> Development (Toggle it ON and click save).</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-22_005331617-1024x498.png" alt="" class="wp-image-2765" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-22_005331617-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-22_005331617-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-22_005331617-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-22_005331617-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-22_005331617.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Is the Bot not responding to an admin when Development Mode is enabled?</h4>
+
+
+
+<p>This happens when the admin has not opted-in/previewed any Messenger flow on the Bot. </p>
+
+
+
+<p>To solve this problem,  turn off/disable Development Mode and let the affected admin preview a Messenger flow. Once done, the admin will get a confirmation message on Messenger.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-15_152034617-1024x495.png" alt="" class="wp-image-3246" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-15_152034617-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-15_152034617-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-15_152034617-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-15_152034617-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-15_152034617.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After this, you can Turn ON Development Mode and preview any flow without a problem. You can start working on your Bot in isolation&#8230; Non-admin will not be able to access your Bot.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/development-mode/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

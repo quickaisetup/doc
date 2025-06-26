@@ -1,0 +1,2093 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Advanced &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/advanced/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 May 2025 08:59:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Advanced &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to setup a poll within your bot</title>
+		<link>https://docs.chatrace.com/kb/setup-a-poll/</link>
+					<comments>https://docs.chatrace.com/kb/setup-a-poll/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 02:49:27 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=231</guid>
+
+					<description><![CDATA[Using a Facebook comment tool you can start a poll on Messenger with your Messenger chatbot. Also, you can ask your users to vote and]]></description>
+										<content:encoded><![CDATA[
+<p>Using a Facebook comment tool you can start a poll on Messenger with your Messenger chatbot. </p>
+
+
+
+<p>Also, you can ask your users to vote and rank the poll variables. It can be useful to conduct surveys on your business audience. </p>
+
+
+
+<p>To use these features follow the steps,</p>
+
+
+
+<p>Select <em>Menu</em> on the top-left corner of the page</p>
+
+
+
+<p>Go the <em>Tools</em> section and search for the <em>Poll</em> tab among many other tabs.</p>
+
+
+
+<p>Click the Poll option located above the table content with an &#8220;Add Poll&#8221; button:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="923" height="289" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1.png" alt="" class="wp-image-1404" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1.png 923w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1-300x94.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_8-1-768x240.png 768w" sizes="(max-width: 923px) 100vw, 923px" /></figure></div>
+
+
+
+<p>You will get a poll setup wizard like the image below,</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="565" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-1024x565.png" alt="" class="wp-image-1405" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-1024x565.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-300x166.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1-768x424.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_9-1.png 1502w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>In the above image,</p>
+
+
+
+<p>Name &#8211; Give the name to your poll campaign in this field.</p>
+
+
+
+<p>Date (Start/End) &#8211; Enter when this poll campaign will begin and also mention the end date in the respective fields.</p>
+
+
+
+<p>Image URL (i) &#8211; Paste the URL of the image that you are using for this poll campaign. If you have an image on your device, upload on our platform and get the link from here. Read this knowledge base article to know more: <a href="https://chatrace.comm/docs/kb/upload-images/" class="rank-math-link">Upload Images</a> </p>
+
+
+
+<p>Candidate Name &#8211;  Fill the name of a poll variables, it may be a person or product or idea or choice based on your requirement. </p>
+
+
+
+<p>Image URL (ii) &#8211; Paste the URL of the poll variable image in this field.</p>
+
+
+
+<p>Description &#8211; Fill this field with the description of the poll variable (in individual) respectively.</p>
+
+
+
+<p>If you add more poll variables for your campaign, select &#8220;<em>Add More Candidates</em>&#8221; option on the setup wizard.</p>
+
+
+
+<p>You can configure more options on a poll setup using th<em>e </em>&#8220;<em>More Options</em>&#8221; option. There you will find,</p>
+
+
+
+<p>Rank &#8211; Decides the order of the flow based on your input. Let&#8217;s say if you had multiple polls and you are configuring 2nd rank for this poll while setting up, this poll will show up 3rd in the list of polls you had. Note that, it is optional.</p>
+
+
+
+<p>Flow After the Vote &#8211; It is an optional feature and you can choose the flow that need to send after a subscriber voted.</p>
+
+
+
+<p>After filling all these fields with required details, click the &#8220;Save&#8221; button. </p>
+
+
+
+<p>That is it. This is how you have to create a poll campaign inside Chatrace platform.</p>
+
+
+
+<p>Hope this article helps you to know about “setting up a poll” in Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/setup-a-poll/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to get the JSON code for Facebook Ads?</title>
+		<link>https://docs.chatrace.com/kb/json-code-for-facebook-ads/</link>
+					<comments>https://docs.chatrace.com/kb/json-code-for-facebook-ads/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 03:03:29 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=234</guid>
+
+					<description><![CDATA[Promoting your products through Facebook Ads can be taken to the next level by our chatbot, you can use the JSON Code to make the]]></description>
+										<content:encoded><![CDATA[
+<p>Promoting your products through Facebook Ads can be taken to the next level by our chatbot, you can use the JSON Code to make the chatbot take care of the rest. To enable this feature, follow the steps below</p>
+
+
+
+<ul class="wp-block-list"><li><strong>Step 1:</strong> Select <em>Flows</em> on the left sidebar of the platform.</li><li><strong>Step 2:</strong> Open the flow you want to generate a JSON code from.</li><li><strong>Step 3:</strong> Click on the three-dot button in the upper right corner of the flow builder.</li><li><strong>Step 4:</strong> Click <strong><em>Get JSON for Messenger Ads</em></strong> and let the bot handle rest (if you had created a flow to handle the sales)</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="334" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_10-1024x334.png" alt="" class="wp-image-1409" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_10-1024x334.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_10-300x98.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_10-768x251.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_10-1536x502.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_10.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/json-code-for-facebook-ads/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Triggers and Actions</title>
+		<link>https://docs.chatrace.com/kb/triggers-and-actions/</link>
+					<comments>https://docs.chatrace.com/kb/triggers-and-actions/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 09:34:25 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=576</guid>
+
+					<description><![CDATA[Triggers and Actions allow your bot to execute actions when some events happen inside your bot.&#160; If something happens inside the Messenger bot it will]]></description>
+										<content:encoded><![CDATA[
+<p>Triggers and Actions allow your bot to execute actions when some events happen inside your bot.&nbsp;</p>
+
+
+
+<p>If something happens inside the Messenger bot it will trigger the automation and make the bot to perform the corresponding action.</p>
+
+
+
+<p>You can use this rules to automate tasks like:</p>
+
+
+
+<ul class="wp-block-list">
+<li>When a tag applied to a user, add the user to a Facebook custom audience.</li>
+
+
+
+<li>When a user clicks on your email, subscribe them to a Messenger sequence.</li>
+
+
+
+<li>When a new order is placed, inform admins by email or SMS.</li>
+
+
+
+<li>When the value of a custom field changes, notify the admin.</li>
+</ul>
+
+
+
+<p>To create your own custom rule, navigate to Menu &gt; Tools &gt; Triggers and Actions and click “Add Rule” to create a new one.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="896" height="414" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1.png" alt="" class="wp-image-1415" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1.png 896w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1-300x139.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_12-1-768x355.png 768w" sizes="auto, (max-width: 896px) 100vw, 896px" /></figure></div>
+
+
+<p>The table below the “Add Rule” button will show you the details of every rule which you had created and its status whether it is active or not.&nbsp;</p>
+
+
+
+<p>You can also edit &amp; delete the rules by selecting the menu located next to every rule on the table.</p>
+
+
+
+<p>Now give any name for this automation rule as you like on the &#8220;New Rule&#8221; popup that look similar to this:</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="492" height="236" src="https://docs.chatrace.com/wp-content/uploads/2020/06/image-3.png" alt="" class="wp-image-969" srcset="https://docs.chatrace.com/wp-content/uploads/2020/06/image-3.png 492w, https://docs.chatrace.com/wp-content/uploads/2020/06/image-3-300x144.png 300w" sizes="auto, (max-width: 492px) 100vw, 492px" /></figure></div>
+
+
+<h2 class="wp-block-heading">Create a Rule</h2>
+
+
+
+<p>Once you click the “Add Rule” button on the main page on the “Triggers and Actions” section, our platform will take you into a setup page that looks like the image below,</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="81" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-1024x81.png" alt="" class="wp-image-1417" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-1024x81.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-300x24.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1-768x61.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_13-1.png 1268w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Here on this page, you will have two columns &#8211; Triggers and Actions.</p>
+
+
+
+<p><strong>Triggers &#8211; </strong>You can choose any trigger from our platform by clicking the blue “+ Trigger” button. In Chatrace platform, you had over 20 trigger option like,</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<ul class="wp-block-list">
+<li>Tag applied</li>
+
+
+
+<li>Tag removed,</li>
+
+
+
+<li>Subscribed to Sequence,</li>
+
+
+
+<li>Unsubscribed from Sequence,</li>
+
+
+
+<li>Custom field value changed,</li>
+
+
+
+<li>Cart Abandoned,</li>
+
+
+
+<li>New Order,</li>
+
+
+
+<li>Order concluded,</li>
+
+
+
+<li>Order canceled,</li>
+
+
+
+<li>Product added to cart,</li>
+
+
+
+<li>Category added to cart,</li>
+
+
+
+<li>Product removed from cart,</li>
+
+
+
+<li>Email Delivered,</li>
+
+
+
+<li>Email Opened,</li>
+
+
+
+<li>Emai Clicked,</li>
+
+
+
+<li>Email Unsubscribed,</li>
+
+
+
+<li>Email Dropped,</li>
+
+
+
+<li>Live chat enabled,</li>
+
+
+
+<li>Live chat disabled,</li>
+
+
+
+<li>User referred a new user,</li>
+
+
+
+<li>User referred existing user,</li>
+
+
+
+<li>New Subscriber,</li>
+
+
+
+<li>User unsubscribed from bot</li>
+</ul>
+
+
+
+<p></p>
+</div></div>
+
+
+
+<p><strong>Actions &#8211; </strong>Actions are the task your Messenger chatbot will perform for that particular trigger (rule). You can choose any actions based on your need by selecting the orange “+ Action” button.</p>
+
+
+
+<p>Choose the required action that will suit the trigger and start automating the rules by saving the process.</p>
+
+
+
+<p>You can also,</p>
+
+
+
+<ul class="wp-block-list">
+<li>Send a follow-up email 2 days later if the user didn&#8217;t click on the email.</li>
+
+
+
+<li>Suggest the user a product B that is complementary, When the user adds a product A to cart (CROSS SELL).</li>
+
+
+
+<li>Send a reminder two days before the date of the meet, When a user book for a service.</li>
+</ul>
+
+
+
+<p>These are some examples of how you can use this rule automation effectively with Messenger bots on Chatrace platform.</p>
+
+
+
+<p>You can choose the number of times a rule can be used by the Messenger chatbot.</p>
+
+
+
+<p>You can find this option above the “Action” column as we highlighted in this image below.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="87" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-1024x87.png" alt="" class="wp-image-1419" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-1024x87.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-300x26.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14-768x65.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_14.png 1268w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>You can select,</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><em>Once per User &#8211;</em></strong> If you want the rule to be triggered only once per user.</li>
+
+
+
+<li><strong><em>Any Number of Times &#8211;</em></strong> If you want the rule to be triggered as many times as possible. </li>
+</ul>
+
+
+
+<p>Hope this knowledge article helps you to know about the “Trigger and Actions” tool on the Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/triggers-and-actions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Copy flows to other accounts using Templates</title>
+		<link>https://docs.chatrace.com/kb/create-templates/</link>
+					<comments>https://docs.chatrace.com/kb/create-templates/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2020 18:15:15 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=588</guid>
+
+					<description><![CDATA[Develop a Messenger chatbot template and launch it on Chatrace’s marketplace for free or paid. You can also build a template to give that to]]></description>
+										<content:encoded><![CDATA[
+<p>Develop a Messenger chatbot template and launch it on Chatrace’s marketplace for free or paid. You can also build a template to give that to your clients with 100% protection.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Copy content from one account to another using template" width="780" height="439" src="https://www.youtube.com/embed/VrrfkRMCWIY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Creating and launching the templates is easy now on Chatrace and the rest is based on your creativity level.</p>
+
+
+
+<p>This is what the template creation section looks like,</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="907" height="266" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_16.png" alt="" class="wp-image-1428" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_16.png 907w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_16-300x88.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_16-768x225.png 768w" sizes="auto, (max-width: 907px) 100vw, 907px" /></figure></div>
+
+
+<p>The table in this section will give you the template details like the name and number of installs. Also, you can sort the templates based on installation numbers.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Create a Chatbot Template</h3>
+
+
+
+<p>Requirements:&nbsp;</p>
+
+
+
+<ol class="wp-block-list">
+<li>Settings (optional),</li>
+
+
+
+<li>Flows,</li>
+
+
+
+<li>Training phrases &amp; Ref URLs <em>(optional)</em>,&nbsp;</li>
+
+
+
+<li>Trigger and Actions,</li>
+
+
+
+<li>Products.</li>
+</ol>
+
+
+
+<p>Now, follow these steps to create a Messenger chatbot template on your own.</p>
+
+
+
+<p>Select the “Add Template” button on the create template section. Then, you will get the setup wizard like the image below.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="972" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-1024x972.png" alt="" class="wp-image-1432" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-1024x972.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-300x285.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20-768x729.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_20.png 1212w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>In this template creation, fill the required details like</p>
+
+
+
+<p><strong>Template Name &#8211;</strong> Give a name to your template.</p>
+
+
+
+<p><strong>Publisher Name &#8211;</strong> Provide the publisher name (mostly your name or your business name)</p>
+
+
+
+<p><strong>Image &#8211;</strong> Paste the URL of the image that can be used on the template’s description. We recommend you to keep the size of the image as 200&#215;200 in pixels.</p>
+
+
+
+<p><strong>Template Contents &#8211;</strong> Choose the contents that build for your template. That maybe flows, settings, fields or even training phrases, etc.</p>
+
+
+
+<p><strong>Description &#8211;</strong> Fill the details of your Messenger chatbot flow like the purpose, use case and many more.</p>
+
+
+
+<p><strong>Youtube URL &#8211;</strong> If you have a youtube video about this template, paste the URL here.</p>
+
+
+
+<p><strong>Test URL &#8211;</strong> You can link the demo chatbot of your template so that people will try and decide to use your template for their purpose.</p>
+
+
+
+<p>After filling all this field with sufficient details, click the save button.</p>
+
+
+
+<p>Your template has been created and you can share this to your client by getting the link on the sub-menu of the particular template as shown in the image below.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="910" height="296" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_17.png" alt="" class="wp-image-1431" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_17.png 910w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_17-300x98.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_17-768x250.png 768w" sizes="auto, (max-width: 910px) 100vw, 910px" /></figure></div>
+
+
+<p>If you want to add your template to our marketplace, contact our team.</p>
+
+
+
+<p>Hope this article helps you to know about the “Create Template” tool on the Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/create-templates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Math calculations inside your bot?</title>
+		<link>https://docs.chatrace.com/kb/calculations/</link>
+					<comments>https://docs.chatrace.com/kb/calculations/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 05:46:49 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=590</guid>
+
+					<description><![CDATA[Yes, You can. Not only the basic calculations like addition, subtraction, multiplication, or division. You can build complex mathematical and scientific calculations (the functions are]]></description>
+										<content:encoded><![CDATA[
+<p>Yes, You can.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to round numbers  up" width="780" height="439" src="https://www.youtube.com/embed/isNUNzy3rAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to perform Math operations" width="780" height="439" src="https://www.youtube.com/embed/A3NT-7tbeSU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Not only the basic calculations like addition, subtraction, multiplication, or division. You can build complex mathematical and scientific calculations (the functions are mentioned below) in the Chatrace platform.&nbsp;</p>
+
+
+
+<p>We’ll show you how it can be done with some examples.&nbsp;</p>
+
+
+
+<p>Follow the steps to know how to make calculations inside your chatbot.</p>
+
+
+
+<p>Step 1: Choose the <em>Flow</em> you want to include calculation operations.</p>
+
+
+
+<p>Step 2: Select <em>Action</em> on the block builder and choose <em>Set Custom Field.</em></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="499" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_21-1024x499.png" alt="" class="wp-image-1439" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_21-1024x499.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_21-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_21-768x375.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_21-1536x749.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_21.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="820" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_22-1024x820.png" alt="" class="wp-image-1440" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_22-1024x820.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_22-300x240.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_22-768x615.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_22.png 1163w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Step 3:&nbsp; Select the “custom field” on the flow and set up the wizard by choosing the existing custom field (Which you stored the values as number) and choose to<em> use a custom formula</em> on the operation, then set the custom formula that you want on the <em>Value</em> field.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="512" height="393" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_24.png" alt="" class="wp-image-1441" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_24.png 512w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_24-300x230.png 300w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+<p>Step 4: Then save, that’s it.</p>
+
+
+
+<p>We know that it might confuse you a bit, let me explain this procedure with one simple example.</p>
+
+
+
+<h4 class="wp-block-heading">Example1: Performing (A+B)*(A-B) calculation</h4>
+
+
+
+<p>Get the values of A &amp; B from user input as numbers,</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="350" height="488" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_25.png" alt="" class="wp-image-1442" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_25.png 350w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screenshot_25-215x300.png 215w" sizes="auto, (max-width: 350px) 100vw, 350px" /></figure></div>
+
+
+<p>Now set the calculation formula on the flow. For that, choose action on the basic builder and select the <em>set custom field</em>. Then, setup the wizard by choosing the custom field (number) in which you want to store the calculated values (here, we created that as “calculation value”).&nbsp;</p>
+
+
+
+<p>Now, the interesting part. Set the formula on the <em>Value </em>field (here we used the formula ( {{{value a}}-{{{value b}} )*({{value a}}+{{value b}} ) to do the above said calculation.</p>
+
+
+
+<p>That’s it, if you take A as 4 and B as 2, the result will be shown by a chatbot as 12 (as per the calculation).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img decoding="async" src="https://lh3.googleusercontent.com/Vi85MkrH5uBGghYB1fkqXlzwihM4iTytSpU7QSzdxE_xDJ7Qn1ZEVD_MunXGP4CbDxX59arwZMmBnQU-G3L2i9rRUYo3KwSkb3Q8NJtA1Um7zwpM3-LY1ICs0nUZLb2u3rHpYvTh" alt="Calculation on Messenger chatbot example"/></figure></div>
+
+
+<p>Here are some basic math examples that you can do inside the Chatrace platform:</p>
+
+
+
+<ul class="wp-block-list">
+<li>1+2*3-4</li>
+
+
+
+<li>1 + 2 * 3 &#8211; 4</li>
+
+
+
+<li>pi * 2</li>
+
+
+
+<li>PI * 2</li>
+
+
+
+<li>abs(1) + min(1,2) * max(1,2,3)</li>
+
+
+
+<li>min(1+2, abs(-1))</li>
+
+
+
+<li>1 + ((2 &#8211; 3) * (5 &#8211; 7))</li>
+
+
+
+<li>2 * (-3)</li>
+</ul>
+
+
+
+<p>Here is the example of formats with syntax:</p>
+
+
+
+<ul class="wp-block-list">
+<li>1 &nbsp; &nbsp; &nbsp; &nbsp; // A term can consist of just a number</li>
+
+
+
+<li>(1+((2))) // Usage of obsolete brackets is allowed</li>
+
+
+
+<li>00001 &nbsp; &nbsp; // Prefixing a number with obsolete zero digits is possible</li>
+
+
+
+<li>.1&nbsp; &nbsp; &nbsp; &nbsp; // Omitting a zero digit before a period character is okay</li>
+</ul>
+
+
+
+<p>Here are some awesome list to provide more value for this article:</p>
+
+
+
+<h4 class="wp-block-heading">Operators:</h4>
+
+
+
+<ul class="wp-block-list">
+<li>Addition (+)</li>
+
+
+
+<li>Subtraction (-)</li>
+
+
+
+<li>Multiplication (*)&nbsp;</li>
+
+
+
+<li>Division (/)</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Functions:</h4>
+
+
+
+<ul class="wp-block-list">
+<li>abs</li>
+
+
+
+<li>aCos</li>
+
+
+
+<li>aCosH</li>
+
+
+
+<li>aSin</li>
+
+
+
+<li>aSinH</li>
+
+
+
+<li>aTan</li>
+
+
+
+<li>aTanH</li>
+
+
+
+<li>aTanTwo</li>
+
+
+
+<li>ceil</li>
+
+
+
+<li>cos</li>
+
+
+
+<li>cosH</li>
+
+
+
+<li>degToRad</li>
+
+
+
+<li>en</li>
+
+
+
+<li>exp</li>
+
+
+
+<li>expMOne</li>
+
+
+
+<li>floor</li>
+
+
+
+<li>fMod</li>
+
+
+
+<li>hypot</li>
+
+
+
+<li>log</li>
+
+
+
+<li>logOneP</li>
+
+
+
+<li>logTen</li>
+
+
+
+<li>max</li>
+
+
+
+<li>min</li>
+
+
+
+<li>pow</li>
+
+
+
+<li>radToDeg</li>
+
+
+
+<li>round</li>
+
+
+
+<li>sin</li>
+
+
+
+<li>sinH</li>
+
+
+
+<li>sqrt</li>
+
+
+
+<li>tan</li>
+
+
+
+<li>tanH</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Constants:</h4>
+
+
+
+<ul class="wp-block-list">
+<li>e</li>
+
+
+
+<li>euler</li>
+
+
+
+<li>lnPi</li>
+
+
+
+<li>lnTen</li>
+
+
+
+<li>lnTwo</li>
+
+
+
+<li>logTenE</li>
+
+
+
+<li>logTwoE</li>
+
+
+
+<li>onePi</li>
+
+
+
+<li>pi</li>
+
+
+
+<li>piFour</li>
+
+
+
+<li>piTwo</li>
+
+
+
+<li>sqrtOneTwo</li>
+
+
+
+<li>sqrtPi</li>
+
+
+
+<li>sqrtThree</li>
+
+
+
+<li>sqrtTwo</li>
+
+
+
+<li>twoPi</li>
+
+
+
+<li>twoSqrtPi</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Others:</h4>
+
+
+
+<p>( (right-faced brackets)</p>
+
+
+
+<p>) (left-faced brackets)</p>
+
+
+
+<p>, (comma)</p>
+
+
+
+<p>. (dot)<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/calculations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Creating Dynamic Gallery from any Google Sheet</title>
+		<link>https://docs.chatrace.com/kb/creating-dynamic-gallery-from-any-google-sheet/</link>
+					<comments>https://docs.chatrace.com/kb/creating-dynamic-gallery-from-any-google-sheet/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 17:21:42 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=1210</guid>
+
+					<description><![CDATA[It is now possible to create a dynamic gallery from any Google Sheet you have created. It opens up a ton of options where you]]></description>
+										<content:encoded><![CDATA[
+<p>It is now possible to create a dynamic gallery from any Google Sheet you have created. It opens up a ton of options where you are able to have the full power of Google Sheets available</p>
+
+
+
+<p>So how do we start using it?</p>
+
+
+
+<h2 class="wp-block-heading">Connect your Google Sheets account</h2>
+
+
+
+<p>Before anything else be sure to connect Google Sheets with chatrace if you did not do so already. If you need help with setting that up you can do so <a href="https://docs.chatrace.com/kb/google-sheet-integration/" target="_blank" rel="noreferrer noopener">here</a></p>
+
+
+
+<h2 class="wp-block-heading">Creating the Dynamic Gallery</h2>
+
+
+
+<p>In order to do so go to your flow builder and use the action <strong>Google sheets</strong> -&gt; <strong>Generate Dynamic Gallery from any Google Sheet</strong>.</p>
+
+
+
+<p>From here you connect your spreadsheet and the worksheet you want to use. You will then see a gallery card appear and it is from here that you will build your own gallery card.</p>
+
+
+
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" decoding="async" width="1024" height="639" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.10.59-PM-1024x639.png" alt="" class="wp-image-1777" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.10.59-PM-1024x639.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.10.59-PM-300x187.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.10.59-PM-768x479.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.10.59-PM-1536x959.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.10.59-PM-2048x1278.png 2048w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.10.59-PM-800x500.png 800w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>As you can see it is a really visual way of creating your gallery card.</p>
+
+
+
+<p>To populate the image url, Title and subtitle you use the columns that are available in your Google Sheet. If you press the { or the variable icon you will get to see your available columns by name, which makes it really easy to select the correct one.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="642" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.20.27-PM-1024x642.png" alt="" class="wp-image-1778" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.20.27-PM-1024x642.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.20.27-PM-300x188.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.20.27-PM-768x481.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.20.27-PM-1536x962.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.20.27-PM-2048x1283.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You can select the correct columns very easily. Do make sure that when selecting the column for the image that you have inserted a correct URL inside that column. Otherwise, you might get an error when trying to view the gallery card. You will also have access to all the other variables if you want more customization or personalization.</p>
+
+
+
+<p>Once you’ve selected your desired columns you can also add a button if you wish. When pressing the button you will have a few options to choose from just like when you create a normal button.&nbsp;</p>
+
+
+
+<p>Those options are:</p>
+
+
+
+<ul class="wp-block-list"><li>Open website</li><li>Call number</li><li>Start step</li><li>Start external step</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="753" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.21.24-PM-1024x753.png" alt="" class="wp-image-1779" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.21.24-PM-1024x753.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.21.24-PM-300x221.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.21.24-PM-768x565.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.21.24-PM-1536x1130.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.21.24-PM-2048x1507.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>When you choose an option then you will also be able to perform additional actions. There are no restrictions to the amount of actions you can set up. But there is one limitation and that is set by Facebook unfortunately. But we will get in to that more later.</p>
+
+
+
+<h2 class="wp-block-heading">How to provide dynamic information based on chosen option</h2>
+
+
+
+<p>So far we have learned how to set up a dynamic gallery card. Now it is time to work on how to provide the following information and use additional actions to truly understand how easy but incredibly powerful this new integration is.</p>
+
+
+
+<p>Let’s take a look at a sample sheet</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="262" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.42.01-PM-1024x262.png" alt="" class="wp-image-1781" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.42.01-PM-1024x262.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.42.01-PM-300x77.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.42.01-PM-768x197.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.42.01-PM-1536x394.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.42.01-PM.png 1772w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>We have two items here that display a Plain Frappuccino and Caramel Frappuccino. Depending on the choice the subscriber takes we want to show the detailed description matching that choice.</p>
+
+
+
+<p>To set this up we need to press the more info button we set up on the gallery card in the Google sheet action. When pressed we can choose an additional action that is called the <strong>Set Custom field</strong>.</p>
+
+
+
+<p>From here a pop-up window will appear and we will be able to set the custom field of our choice with a value. </p>
+
+
+
+<p>We will choose Column D (inserted as {{C}} as that provides the details we would like to display. </p>
+
+
+
+<p>The result of the set up until now will look like this;</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1420" height="754" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Dynamic-Gallery.gif" alt="" data-id="1787" data-link="https://docs.chatrace.com/?attachment_id=1787" class="wp-image-1787"/></figure></li></ul></figure>
+
+
+
+<p>Once done press the button <strong>save</strong> to complete the action. Then press <strong>save </strong>once again to exit the Gallery card set up.</p>
+
+
+
+<p>So let&#8217;s see how this looks like in the backend so far</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="607" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.56.20-PM-1-1024x607.png" alt="" class="wp-image-1786" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.56.20-PM-1-1024x607.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.56.20-PM-1-300x178.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.56.20-PM-1-768x456.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.56.20-PM-1-1536x911.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-5.56.20-PM-1-2048x1215.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It looks really basic right?</p>
+
+
+
+<p>See how easy it is to show information that is stored in any column inside your Google Sheet?</p>
+
+
+
+<p>Just use the action <strong>&nbsp;set custom field</strong> and set the value to the column that will contain the information.&nbsp;</p>
+
+
+
+<p>If you wanted to show multiple columns you can do so by just adding them after the first one.&nbsp;</p>
+
+
+
+<p>So this would look like: {{A}} {{B}}</p>
+
+
+
+<h2 class="wp-block-heading">Additional actions examples</h2>
+
+
+
+<p>To show you how easy it is to use this new integration we are going to provide an example of the additional actions you could use to make it a really powerful combination.</p>
+
+
+
+<h3 class="wp-block-heading">Segmenting your audience</h3>
+
+
+
+<p>It is very easy to segment your audience based on their last view product or item in the dynamic gallery.&nbsp;</p>
+
+
+
+<p>To enable this we will insert another additional action <strong>set custom field</strong>. Now we will set a custom field called <strong>Last_viewed_product</strong> to the value of the <strong>Product Name</strong> in the Google Sheet. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="665" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-6.40.37-PM-1024x665.png" alt="" class="wp-image-1789" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-6.40.37-PM-1024x665.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-6.40.37-PM-300x195.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-6.40.37-PM-768x499.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-6.40.37-PM-1536x997.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-6.40.37-PM-2048x1330.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Since the column is the first one the only thing we need to do is use the value {{A}}.&nbsp;</p>
+
+
+
+<p>That’s it!&nbsp;</p>
+
+
+
+<p>Nothing more to do.&nbsp;</p>
+
+
+
+<p>Now when segmenting subscribers it is not advised to use tags at this step, as the tags cannot be set up Dynamically like the action <strong>Set custom field</strong> can.&nbsp;</p>
+
+
+
+<p>But you can still tag that user in the next step if you like. After the button press you could add a condition that checks a users choice by using the last custom field action we set up.&nbsp;</p>
+
+
+
+<p>That can look something like this;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="574" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-8.41.47-PM-1024x574.png" alt="" class="wp-image-1791" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-8.41.47-PM-1024x574.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-8.41.47-PM-300x168.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-8.41.47-PM-768x431.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-8.41.47-PM-1536x862.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-28-at-8.41.47-PM-2048x1149.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>But as you know you can segment by custom fields as well as tags so the above set up may not apply to you.&nbsp;</p>
+
+
+
+<p>Segmenting your audience is important though since you can send personalized follow-ups that increase conversions and engagement.</p>
+
+
+
+<h2 class="wp-block-heading">Facebook limitation with additional actions</h2>
+
+
+
+<p>As mentioned we would also come back on the topic of the limitations.</p>
+
+
+
+<p>The current limitation set by Facebook is that whenever you want to set a Custom field the amount of characters can not be larger than 1000 characters. In most cases this will not be an issue, but if you are storing a detailed description from your Google Sheets or combining multiple column values to a custom field you might exceed the amount of characters.&nbsp;</p>
+
+
+
+<p>So keep this in mind when setting a custom field with values inside your Google Sheet. But in general you will never exceed this limit. We wanted to point this out to you if you might get an error that this is probably the reason.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/creating-dynamic-gallery-from-any-google-sheet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to use your own custom checkout page?</title>
+		<link>https://docs.chatrace.com/kb/how-to-use-your-own-custom-checkout-page/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-use-your-own-custom-checkout-page/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 08 May 2020 15:40:31 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=885</guid>
+
+					<description><![CDATA[Chatrace has its own default checkout page where you can connect your Stripe, PayPal or Razorpay to accept payments. You can now use your own]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace has its own default checkout page where you can connect your Stripe, PayPal or Razorpay to accept payments.</p>
+
+
+
+<p>You can now use your own custom checkout page in your chatbot. Once your customers click on the &#8220;Checkout&#8221; button, they will be seamlessly redirected to your personalized checkout page.</p>
+
+
+
+<p><strong>Goto Tools >> E-commerce >> Settings >> Checkout</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-1024x488.png" alt="" class="wp-image-3655" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-29.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-1024x488.png" alt="" class="wp-image-3656" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022222152.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-1024x488.png" alt="" class="wp-image-3657" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022259975.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-1024x488.png" alt="" class="wp-image-3658" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image_2024-01-20_022327547.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Data Chatrace sent to your checkout page</h3>
+
+
+
+<p>Imagine your checkout URL is <strong>https://example.com</strong></p>
+
+
+
+<p>When users click the checkout button inside your bot, we will automatically add these parameters.</p>
+
+
+
+<p>https://example.com?order=&lt;order_id&gt;&#038;page=&lt;account_id&gt;&#038;user=&lt;contact_id&gt;&#038;total=&lt;total&gt;&#038;subtotal=&lt;subtotal&gt;</p>
+
+
+
+<p><strong>order</strong>: the order ID and you use it to mark the order as paid using API.<br><strong>page</strong>: the Chatrace account ID.<br><strong>user</strong>: the contact ID for your bot.<br><strong>total</strong>: the total value of the user&#8217;s shopping cart.<br><strong>subtotal</strong>: the subtotal of the user&#8217;s shopping cart.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Mark an order as paid.</h3>
+
+
+
+<p>After the user paid the order, you must use the Chatrace API to mark an order as paid. Click <a href="https://api.chatrace.com/swagger/#/User/payOrder" target="_blank" rel="noreferrer noopener">HERE</a> to learn how to mark an order as paid.</p>
+
+
+
+<p>If you need information about the user&#8217;s shopping cart, You can use our API. <a href="https://api.chatrace.com/swagger/#/User/getUserCart" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-use-your-own-custom-checkout-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to format date and time</title>
+		<link>https://docs.chatrace.com/kb/how-can-i-format-date-time/</link>
+					<comments>https://docs.chatrace.com/kb/how-can-i-format-date-time/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2019 09:04:53 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=293</guid>
+
+					<description><![CDATA[Formatting date and time will be useful for anyone who is having customers in multiple nations and regions. Because the date &#38; time format is]]></description>
+										<content:encoded><![CDATA[
+<p>Formatting date and time will be useful for anyone who is having customers in multiple nations and regions. Because the date &amp; time format is not the same in every place. On Chatrace platform, you can change the format of the date &amp; time by your need. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to format date &amp; time" width="780" height="439" src="https://www.youtube.com/embed/MTDYsjXHyW4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<p>Follow the steps below to know how to format date and time for your convenient:<br><strong>Step 1: </strong>Go to the flow that you want edit.</p>
+
+
+
+<p><strong>Step 2: </strong>Among many options on the builder choose “Action” option and select “Format Date/Date &amp; Time” on the list.<br><br><strong>Step 3:</strong> Now select the option on the builder to,</p>
+
+
+
+<ul class="wp-block-list">
+<li>Select the date custom field that contains the date you want to format.</li>
+
+
+
+<li>On the next field enter the format of the date and time you need to change from the default (<em>For example</em>, if you want to display the date and time as <em>“23-01-2022; 02-00 a.m”</em> then you need to enter the format field (without quotation) as <em>“d-m-Y; h-i a”</em>. Refer the table below to know more about the parameters).</li>
+
+
+
+<li>Then, create a new custom field or select the existing one to store the changed date &amp; time format on “Save the formatted date to” field.</li>
+
+
+
+<li>In addition, you can choose the time zone of this formatted date &amp; time for page (or) user’s time zone.</li>
+</ul>
+
+
+
+<p>Here is the demo link flow:&nbsp;<a href="https://m.me/108109867337952?ref=:t-1576229633715">Click Here</a></p>
+
+
+
+<p>Table explaining the parameters of the date &amp; time formats:<br></p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Character</strong></td><td><strong>Description</strong></td><td><strong>Values</strong></td></tr><tr><td><em>Day</em></td><td>&#8212;</td><td>&#8212;</td></tr><tr><td><em>d</em></td><td>Day of the month, 2 digits with leading zeros</td><td><em>01</em> to <em>31</em></td></tr><tr><td><em>D</em></td><td>A textual representation of a day, three letters</td><td><em>Mon</em> through <em>Sun</em></td></tr><tr><td><em>j</em></td><td>Day of the month without leading zeros</td><td><em>1</em> to <em>31</em></td></tr><tr><td><em>l</em> (lowercase &#8216;L&#8217;)</td><td>A full textual representation of the day of the week</td><td><em>Sunday</em> through <em>Saturday</em></td></tr><tr><td><em>N</em></td><td>ISO-8601 numeric representation of the day of the week (added in PHP 5.1.0)</td><td><em>1</em> (for Monday) through <em>7</em> (for Sunday)</td></tr><tr><td><em>S</em></td><td>English ordinal suffix for the day of the month, 2 characters</td><td><em>st</em>, <em>nd</em>, <em>rd</em> or <em>th</em>. Works well with <em>j</em></td></tr><tr><td><em>w</em></td><td>Numeric representation of the day of the week</td><td><em>0</em> (for Sunday) through <em>6</em> (for Saturday)</td></tr><tr><td><em>z</em></td><td>The day of the year (starting from 0)</td><td><em>0</em> through <em>365</em></td></tr><tr><td><em>Week</em></td><td>&#8212;</td><td>&#8212;</td></tr><tr><td><em>W</em></td><td>ISO-8601 week number of year, weeks starting on Monday</td><td>Example: <em>42</em> (the 42nd week in the year)</td></tr><tr><td><em>Month</em></td><td>&#8212;</td><td>&#8212;</td></tr><tr><td><em>F</em></td><td>A full textual representation of a month, such as January or March</td><td><em>January</em> through <em>December</em></td></tr><tr><td><em>m</em></td><td>Numeric representation of a month, with leading zeros</td><td><em>01</em> through <em>12</em></td></tr><tr><td><em>M</em></td><td>A short textual representation of a month, three letters</td><td><em>Jan</em> through <em>Dec</em></td></tr><tr><td><em>n</em></td><td>Numeric representation of a month, without leading zeros</td><td><em>1</em> through <em>12</em></td></tr><tr><td><em>t</em></td><td>Number of days in the given month</td><td><em>28</em> through <em>31</em></td></tr><tr><td><em>Year</em></td><td>&#8212;</td><td>&#8212;</td></tr><tr><td><em>L</em></td><td>Whether it&#8217;s a leap year</td><td><em>1</em> if it is a leap year, <em>0</em> otherwise.</td></tr><tr><td><em>o</em></td><td>ISO-8601 week-numbering year. This has the same value as <em>Y</em>, except that if the ISO week number (<em>W</em>) belongs to the previous or next year, that year is used instead. (added in PHP 5.1.0)</td><td>Examples: <em>1999</em> or <em>2003</em></td></tr><tr><td><em>Y</em></td><td>A full numeric representation of a year, 4 digits</td><td>Examples: <em>1999</em> or <em>2003</em></td></tr><tr><td><em>y</em></td><td>A two-digit representation of a year</td><td>Examples: <em>99</em> or <em>03</em></td></tr><tr><td><em>Time</em></td><td>&#8212;</td><td>&#8212;</td></tr><tr><td><em>a</em></td><td>Lowercase Ante meridiem and Post meridiem</td><td><em>am</em> or <em>pm</em></td></tr><tr><td><em>A</em></td><td>Uppercase Ante meridiem and Post meridiem</td><td><em>AM</em> or <em>PM</em></td></tr><tr><td><em>g</em></td><td>12-hour format of an hour without leading zeros</td><td><em>1</em> through <em>12</em></td></tr><tr><td><em>G</em></td><td>24-hour format of an hour without leading zeros</td><td><em>0</em> through <em>23</em></td></tr><tr><td><em>h</em></td><td>12-hour format of an hour with leading zeros</td><td><em>01</em> through <em>12</em></td></tr><tr><td><em>H</em></td><td>24-hour format of an hour with leading zeros</td><td><em>00</em> through <em>23</em></td></tr><tr><td><em>i</em></td><td>Minutes with leading zeros</td><td><em>00</em> to <em>59</em></td></tr><tr><td><em>s</em></td><td>Seconds with leading zeros</td><td><em>00</em> through <em>59</em></td></tr><tr><td><em>U</em></td><td>Seconds since the Unix Epoch (January 1 1970 00:00:00 GMT). This format is very important because it allows you to get the date as total of seconds. With seconds you can do a lot of maths. For example a quiz bot would save the start date a user starts the quiz and also save the date the user finishes the quiz. The bot would calculate the total minutes the user takes to finish the quiz with ({{stop}} &#8211; {{start}})/60.</td><td></td></tr></tbody></table></figure>
+
+
+
+<p>You can download a flow that uses the Format date feature <a href="https://chatrace.comm/store/template?id=100212">here</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-can-i-format-date-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to use External Request / Dynamic Content?</title>
+		<link>https://docs.chatrace.com/kb/how-to-use-dynamic-contents/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-use-dynamic-contents/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2019 16:26:45 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=276</guid>
+
+					<description><![CDATA[External Request allows you to integrate your bot with any system that has an API. You can use External Requests to get data from any]]></description>
+										<content:encoded><![CDATA[
+<p>External Request allows you to integrate your bot with any system that has an API. You can use External Requests to get data from any other system and display the data to the user inside your Chatbot. </p>
+
+
+
+<h4 class="wp-block-heading">How to Use External Request?</h4>
+
+
+
+<p>On the flow builder, add <strong>Actions</strong> &gt; <strong>External API Request.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-11-1024x575.png" alt="" class="wp-image-2275" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-11-1024x575.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-11-300x169.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-11-768x432.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-11.png 1180w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">How to save data to a custom field?</h4>
+
+
+
+<p>You can use <strong>Response Mapping</strong> to save data from API to a <strong>Custom Field</strong> If the API returns data in JSON format. Many times you may want to get data from an API and show the data to the user. </p>
+
+
+
+<p>For example, we will use a currency exchange API to show how you could save the data returned from an API to a custom field. Below is the response from the API.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "success": true,
+    "timestamp": 1519296206,
+    "base": "EUR",
+    "date": "2021-03-17",
+    "rates": {
+        "AUD": 1.566015,
+        "CAD": 1.560132,
+        "CHF": 1.154727,
+        "CNY": 7.827874,
+        "GBP": 0.882047,
+        "JPY": 132.360679,
+        "USD": 1.23396
+    }
+}</code></pre>
+
+
+
+<p>If we want to show the USD value, you will need to use <strong>rates.USD</strong>, we advise you to test your Request, copy the response and use this <a rel="noreferrer noopener" href="https://jsonpathfinder.com/" target="_blank">service</a> to get the correct JSONPath. Also, you can use this service to check if your JSONPath is correct. No need to start your JSONPath by <strong>x.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="597" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-12-1024x597.png" alt="" class="wp-image-2276" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-12-1024x597.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-12-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-12-768x448.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-12-1536x895.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-12.png 1596w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>There is two way to display the data returned from an API to the user inside your bot. You can save the data to a custom field using Response Mapping and use the Custom Field in your flow to show the data to the user. Also, your API could return messages ready to be displayed to the end user inside your bot (<strong>Dynamic Contents</strong>). Dynamic contents are explained below in this article.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">How to get the HTTP status code or whole response body? </h4>
+
+
+
+<p>On the response mapping, use  <strong>http_status_code</strong> to get the response code and use <strong>http_response_body</strong> to get the whole response body. Once you save the HTTP status code into a custom field, you can use conditions to do any logic you want. To download a file, use <strong>http_download_EXTENSION. </strong>For example, to download audio, you could use <strong>http_download_mp3</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-10-1024x502.png" alt="" class="wp-image-2274" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-10-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-10-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-10-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-10-1536x753.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-10.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Dynamic Content</h2>
+
+
+
+<p>Dynamic contents allow you to generate content from your server and display it to the user inside your Chatbot. Dynamic content is supported on all channels. You use a single format that works on all channels. Our platform automatically converts your message in real time and delivers it to the user. </p>
+
+
+
+<p>You can&#8217;t use the Dynamic Content feature If you don&#8217;t own the API that you are getting data. In this case, you can save data from the API to a Custom Field using <strong>Response Mapping </strong>and display the data by using the Custom Field on the flow builder.</p>
+
+
+
+<p><strong>The response format is below.</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;]
+}</code></pre>
+
+
+
+<p><strong>Messages</strong>: contains messages that are sent to contacts. You can send any message supported by Messenger Bots. This article shows some format examples, but you can read <a class="rank-math-link" href="https://developers.facebook.com/docs/Messenger-platform/reference/send-api/">Facebook documentation</a> if you need more capabilities. </p>
+
+
+
+<p>Chatrace sends a header &#8216; <strong>X-USER-ID</strong>&#8216; on every Request.</p>
+
+
+
+<p><strong>quick_replies </strong>is always optional.</p>
+
+
+
+<p><strong>Send a text message.</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {           
+            "message": {
+                "text": "Hello world",
+                "quick_replies":&#91;]
+            }
+            
+        }
+    ]
+}
+</code></pre>
+
+
+
+<p></p>
+
+
+
+<p><strong>Sending more than a single message</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {
+            "message": {
+                "text": "Hello world"
+            }
+        },
+        {
+            "message": {
+                "text": "This is the second Message",
+                "quick_replies":&#91;]
+            }
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Sending a text message with buttons.</strong> <br>The text message can contain up to 3 buttons. The title of each button can contain up to 20 characters. To send a flow when a user clicks on a button, use a flow ID as a payload of the button.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {
+            "message": {
+                "attachment": {
+                    "payload": {
+                        "buttons": &#91;
+                            {
+                                "title": "Open Website",
+                                "type": "web_url",
+                                "url": "your_URL"
+                            },
+                            {
+                                "title": "Send FLow",
+                                "payload": "FLOW_OR_STEP_ID",
+                                "type": "postback"
+                            },
+                            {
+                                "title": "Call Number",
+                                "type": "phone_number",
+                                "payload": "&lt;your_phone_number_with_county_code&gt;"
+                            }
+                        ],
+                        "template_type": "button",
+                        "text": "Hello world"
+                    },
+                    "type": "template"
+                },
+                "quick_replies":&#91;]
+            }            
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Payload</strong>: you can use any <strong>flow/step ID</strong> as a payload. For example, if you want to redirect to a flow once the user clicks the button, you can use the flow ID as a payload. In this article, we show how to use <strong>actions</strong> as payloads also.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Sending a message with quick replies</strong></p>
+
+
+
+<p>Quick replies can be added to any type of message (text, file, gallery, file, &#8230;). Facebook allows you to attach a maximum of 11 quick replies to a message. The payload for quick replies is the same as the payload for buttons.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+   "messages": &#91;
+       {           
+           "message": {
+               "text": "Hello world",
+               "quick_replies":&#91;
+                  {
+                     "content_type": "text",
+                     "title": "Quick Reply 1",
+                     "payload": "FLOW_OR_STEP_ID"
+                  },
+                  {
+                     "content_type": "text",
+                     "title": "Any Text Here",
+                     "payload": "FLOW_OR_STEP_ID"
+                  }
+               ]
+           }
+           
+       }
+   ]
+}</code></pre>
+
+
+
+<p>Payloads on quick replies and buttons have the same structure.</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Send an image, video, audio, file.</strong><br>You can use the same structure below to send an image, video, audio, and file. Just change the media_type to video, audio, or file. &#8220;URL&#8221; will be the link to your image, audio, video, or file.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {
+            "message": {
+                "attachment": {
+                    "type": "image",
+                    "payload": {
+                        "url": "&lt;ASSET_URL&gt;"
+                    }
+                },
+                "quick_replies":&#91;]
+            }
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Send a single Card</strong><br>The title and subtitle of the card can be up to 80 characters.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {
+            "message": {
+                "attachment": {
+                    "payload": {
+                        "elements": &#91;
+                            {
+                                "title": "Card Title",
+                                "subtitle": "Card Subtitle",
+                                "image_url": "image_url"
+                            }
+                        ],
+                        "template_type": "generic",
+                        "image_aspect_ratio":"horizontal"
+                    },
+                    "type": "template"
+                },
+                "quick_replies":&#91;]
+            }
+        }
+    ]
+}</code></pre>
+
+
+
+<p>Possible values for image_aspect_ratio: horizontal or square</p>
+
+
+
+<p><strong>Send a single Card with buttons</strong><br>A card can contain up to 3 buttons.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {
+            "message": {
+                "attachment": {
+                    "payload": {
+                        "elements": &#91;
+                            {
+                                "title": "Card Title",
+                                "subtitle": "Card Subtitle",
+                                "image_url": "image_url",
+                                "buttons": &#91;
+                                    {
+                                        "title": "Button Label",
+                                        "type": "web_url",
+                                        "url": "your_URL"
+                                    },
+                                    {
+                                        "title": "Button Label",
+                                        "payload": "FLOW_OR_STEP_ID",
+                                        "type": "postback"
+                                    },
+                                    {
+                                        "title": "Button Label",
+                                        "type": "phone_number",
+                                        "payload": "+your_phone_number"
+                                    }
+                                ]
+                            }
+                        ],
+                        "template_type": "generic",
+                        "image_aspect_ratio":"horizontal"
+                    },
+                    "type": "template"
+                },
+                "quick_replies":&#91;]
+            }
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Send a Gallery</strong><br>Basically, a gallery is a set of cards. A gallery can contain up to 10 cards. The code below shows a gallery with 2 cards. You can also add a button to each card.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {
+            "message": {
+                "attachment": {
+                    "payload": {
+                        "elements": &#91;
+                            {
+                                "title": "Card Title 1",
+                                "subtitle": "Card Subtitle 1",
+                                "image_url": "image_url 1",
+                                "buttons": &#91;]
+                            },
+                            {
+                                "title": "Card Title 2",
+                                "subtitle": "Card Subtitle 2",
+                                "image_url": "image_url 2",
+                                "buttons": &#91;]
+                            }
+                        ],
+                        "template_type": "generic",
+                        "image_aspect_ratio":"horizontal"
+                    },
+                    "type": "template"
+                },
+                "quick_replies":&#91;]
+            }
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Send messages supported only by WhatsApp</h4>
+
+
+
+<p>WhatsApp support many message types that aren&#8217;t supported by Messenger bots like List, Contacts, Locations, or Catalogs Messages. Chatrace allows you to send any message supported by WhatsApp. You only need to provide the same message structure described in the <a rel="noreferrer noopener" href="https://developers.facebook.com/docs/whatsapp/cloud-api/reference/messages/" target="_blank">WhatsApp documentation</a>.  Chatrace will automatically set the &#8220;<strong>To</strong>&#8221; parameter.</p>
+
+
+
+<pre class="wp-block-code"><code>{   
+    "messages":&#91;
+        {
+            "messaging_product":"whatsapp",
+            "recipient_type": "individual",
+            "to": null,
+            "type": "interactive",
+            "interactive": {
+                "type": "button",
+                "body": {
+                    "text": "ANY TEXT"
+                },
+                "action": {
+                "buttons": &#91;
+                    {
+                        "type": "reply",
+                        "reply": {
+                            "id": "FLOW_OR_STEP_ID",
+                            "title": "BUTTON_TITLE_1"
+                        }
+                    },
+                    {
+                        "type": "reply",
+                        "reply": {
+                            "id": "FLOW_OR_STEP_ID",
+                            "title": "BUTTON_TITLE_2"
+                        }
+                    }
+                ]
+                }
+            }
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Actions</strong>: it is optional to include this field. You can use actions to add/remove tags, set/unset custom fields, and send a flow&#8230;</p>
+
+
+
+<p><strong>Add Tag</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "add_tag",
+            "tag_name": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Remove Tag</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "remove_tag",
+            "tag_name": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Set Custom Field</strong></p>
+
+
+
+<p>In addition to accepting any name custom field name, this action also allows you to change system fields like <strong>phone</strong>, <strong>email, full_name, first_name, last_name</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "set_field_value",
+            "field_name": "...",
+            "value": ""
+        }
+    ]
+}</code></pre>
+
+
+
+<p> <strong>Unset Custom Field</strong> </p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "unset_field_value",
+            "field_name": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Send Flow</strong><br>To get the flow ID, you need to go to the list of flows, click the 3 dots, and click <em><strong>Get Link</strong></em>. The flow-id is the number included on your link. Flow ID is always numeric. You can combine an unlimited number of actions.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "send_flow",
+            "flow_id": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p><strong>Transfer conversation to human/bot</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "transfer_conversation_to",
+            "value": "human"
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<p><strong>Assign a conversation to admin</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "assign_conversation",
+            "admin_id": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<p><strong>Unassign a conversation from admin</strong></p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "unassign_conversation"
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<p><strong>Combine multiple actions</strong></p>
+
+
+
+<p>You can combine multiple actions in a single request to allow you to run multiple simultaneously. For example, you may want to set a custom field and send a flow in a single request.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;],
+    "actions": &#91;
+        {
+            "action": "set_field_value",
+            "field_name": "...",
+            "value": ""
+        },
+        {
+            "action": "send_flow",
+            "flow_id": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<p><strong>Use actions as a payload of buttons and quick_replies</strong></p>
+
+
+
+<p>Below is the format to use an action as a payload on buttons. But since a payload is a string, you need to convert your actions object to a JSON string. If you are using PHP, use  json_encode to get a string representation of your object.</p>
+
+
+
+<pre class="wp-block-code"><code>{   
+    "actions": &#91;
+        {
+            "action": "send_flow",
+            "flow_id": "..."
+        }
+    ]
+}</code></pre>
+
+
+
+<p>Below, the action above is used as a payload of the button.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    "messages": &#91;
+        {
+            "message": {
+                "attachment": {
+                    "payload": {
+                        "buttons": &#91;
+                            {
+                                "title": "Click Here",
+                                "payload": "{\"actions\":&#91;{\"action\":\"send_flow\",\"flow_id\":\"FLOW_OR_STEP_ID\" } ]}",
+                                "type": "postback"
+                            }
+                        ],
+                        "template_type": "button",
+                        "text": "Hello world"
+                    },
+                    "type": "template"
+                },
+                "quick_replies":&#91;]
+            }            
+        }
+    ]
+}</code></pre>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-use-dynamic-contents/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to provide your Own translations for built-in flows?</title>
+		<link>https://docs.chatrace.com/kb/provide-own-translations/</link>
+					<comments>https://docs.chatrace.com/kb/provide-own-translations/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2020 11:12:40 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=1001</guid>
+
+					<description><![CDATA[Customization feature on the settings section will allow you to personalize the bot content and its default &#38; eCommerce flows based on your need &#38;]]></description>
+										<content:encoded><![CDATA[
+<p>Customization feature on the settings section will allow you to personalize the bot content and its default &amp; eCommerce flows based on your need &amp; language.</p>
+
+
+
+<p>It will help you to build the Messenger bot and its content on any language (that Facebook supports). Go through this knowledge base article to know how you can do this for your bot.</p>
+
+
+
+<p>First, you need to navigate through the Menu &gt; Settings &gt; Customizations and there you will find the &#8220;Translations field&#8221; on the top of the list.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="490" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.34.52-AM-1024x490.png" alt="" class="wp-image-1293" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.34.52-AM-1024x490.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.34.52-AM-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.34.52-AM-768x367.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.34.52-AM-1536x735.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.34.52-AM.png 1936w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Now, you need to upload a .csv spreadsheet which contains all your translation for the bot content. Chatrace is providing the default template spreadsheet where you can change the content with your required language and you can upload them again on our platform.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="372" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.36.17-AM-1024x372.png" alt="" class="wp-image-1294" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.36.17-AM-1024x372.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.36.17-AM-300x109.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.36.17-AM-768x279.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.36.17-AM-1536x559.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.36.17-AM.png 1914w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>You can get the default spreadsheet on the &#8220;Translation&#8221; field description as shown in the image above. Now you have to make a copy on your own and edit that spreadsheet on online itself or you can download the sheet, edit the content and upload them back again on the platform.</p>
+
+
+
+<p>Note that you need to download the spreadsheet as .csv format like shown in the image below.</p>
+
+
+
+<p>Then, change the &#8220;Text&#8221; column content based on your language and upload them back again on the platform using the &#8220;upload file&#8221; button.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/provide-own-translations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

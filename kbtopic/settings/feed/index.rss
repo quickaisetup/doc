@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Settings &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/settings/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Jun 2023 12:32:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Settings &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to rename your account &#038; change your account profile image</title>
+		<link>https://docs.chatrace.com/kb/how-to-rename-your-account-change-your-account-profile-image/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-rename-your-account-change-your-account-profile-image/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Sat, 22 Apr 2023 13:05:21 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2832</guid>
+
+					<description><![CDATA[We are aware of the need to rename your account and change your account profile image to something that best describes your business. To rename]]></description>
+										<content:encoded><![CDATA[
+<p>We are aware of the need to rename your account and change your account profile image to something that best describes your business.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to rename your account" width="780" height="439" src="https://www.youtube.com/embed/KQn_VEaftlU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to change your account profile image" width="780" height="439" src="https://www.youtube.com/embed/g2nN6PJN32g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><br><br>To rename your account or change your account profile image, go to <strong>Settings &gt;&gt; General</strong> and <strong><em>Scroll down</em></strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/04/image-3-1024x494.png" alt="" class="wp-image-2833" srcset="https://docs.chatrace.com/wp-content/uploads/2023/04/image-3-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-3-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-3-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-3-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-3.png 1870w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/04/image-4-1024x494.png" alt="" class="wp-image-2834" srcset="https://docs.chatrace.com/wp-content/uploads/2023/04/image-4-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-4-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-4-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-4-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/04/image-4.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-rename-your-account-change-your-account-profile-image/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

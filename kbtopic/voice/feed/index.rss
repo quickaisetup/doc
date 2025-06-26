@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Voice &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/voice/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Mar 2024 10:24:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Voice &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Voice Automation with Twilio</title>
+		<link>https://docs.chatrace.com/kb/voice-automation-with-twilio/</link>
+					<comments>https://docs.chatrace.com/kb/voice-automation-with-twilio/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 17:29:13 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2640</guid>
+
+					<description><![CDATA[Voice Automations allow businesses to automate customer services through Conversational Voice bots. With Voice Bots, Businesses provide instant customer support and save a lot of]]></description>
+										<content:encoded><![CDATA[
+<p>Voice Automations allow businesses to automate customer services through Conversational Voice bots. With Voice Bots, Businesses provide instant customer support and save a lot of money and human resources with customer service.</p>
+
+
+
+<p>We integrate with Twilio to allow you to build voice bots. AudioCodes creates a communication hub between Chatrace and any telephony system. It supports any voice bot use case,&nbsp;<strong>such as virtual agent</strong>,&nbsp;<strong>conversational IVR</strong>,&nbsp;<strong>agent assist</strong>, and&nbsp;<strong>outbound calling</strong>.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Sign up for AudioCodes</strong></h4>
+
+
+
+<p>Follow this&nbsp;<a href="https://www.twilio.com/try-twilio" target="_blank" rel="noreferrer noopener">link</a>&nbsp;to create your account.</p>
+
+
+
+<h4 class="wp-block-heading">Buy a phone number</h4>
+
+
+
+<p>Follow the screenshot below to buy a phone number from Twilio. If you want to use your existing phone number, you will need to port your phone number to Twilio. In this case, you will need to contact Twilio support.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-15-1024x502.png" alt="" class="wp-image-2641" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-15-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-15-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-15-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-15-1536x754.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-15.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Connect your phone number to Chatrace</strong></h4>
+
+
+
+<p>Go to Settings &gt; Channels &gt; Voice and click the connect button.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-17-1024x497.png" alt="" class="wp-image-2643" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-17-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-17-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-17-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-17.png 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-18-1024x502.png" alt="" class="wp-image-2645" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-18-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-18-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-18-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-18-1536x754.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-18.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Go to your <a href="https://www.twilio.com/console" target="_blank" rel="noreferrer noopener">Twilio console</a> to get the <strong>Account SID</strong> and <strong>Auth Token</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-19-1024x502.png" alt="" class="wp-image-2646" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-19-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-19-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-19-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-19-1536x754.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-19.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Setup the Welcome Message</strong></h4>
+
+
+
+<p>The welcome message is the first message the user will hear when a user calls your number. The Welcome message must clearly let the user know how they can use your bot. If you don’t set the Welcome Message, your bot will not send anything until the user speaks with your bot.</p>
+
+
+
+<p>To set a welcome Message, go to Settings &gt; Channels &gt; Voice.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-20-1024x497.png" alt="" class="wp-image-2647" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-20-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-20-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-20-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-20.png 1536w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading"><strong>Building Voice flows</strong></h4>
+
+
+
+<p>On the voice channel, the user can only receive text messages (that are converted to Speech and sent to the user). Users can also Speak (that is converted to text and sent to the bot). Your bot can also collect user input when the user clicks on any number during the calls.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="508" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-21-1024x508.png" alt="" class="wp-image-2648" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-21-1024x508.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-21-300x149.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-21-768x381.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-21-1536x762.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-21.png 1898w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If you want to build advanced bots able to collect any user data, we strongly recommend you use&nbsp;<a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/build-smarter-bots-with-chatrace-dialogflow/" target="_blank">Dialogflow</a>. Chatrace has built-in integration with Dialogflow.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Hangup a call</strong></h4>
+
+
+
+<p>Your bot can hang up a call anytime during a conversation by using the Actions &gt; Voice &gt; Hung up.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-22-1024x502.png" alt="" class="wp-image-2649" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-22-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-22-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-22-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-22.png 1536w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Transfer a call to another phone number</strong></h4>
+
+
+
+<p>Your bot can transfer a call to another phone number anytime during a conversation by using the&nbsp;<strong>Actions</strong>&nbsp;&gt;&nbsp;<strong>Voice</strong>&nbsp;&gt;&nbsp;<strong>Transfer Call</strong>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/voice-automation-with-twilio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Voice Automation with AudioCodes</title>
+		<link>https://docs.chatrace.com/kb/voice-automation-with-audiocodes/</link>
+					<comments>https://docs.chatrace.com/kb/voice-automation-with-audiocodes/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 18:00:27 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2609</guid>
+
+					<description><![CDATA[Voice Automations allow businesses to automate customer services through Conversational Voice bots. With Voice Bots, Businesses provide instant customer support and save a lot of]]></description>
+										<content:encoded><![CDATA[
+<p>Voice Automations allow businesses to automate customer services through Conversational Voice bots. With Voice Bots, Businesses provide instant customer support and save a lot of money and human resources with customer service.</p>
+
+
+
+<p>We integrate with AudioCodes to allow you to build voice bots. AudioCodes creates a communication hub between Chatrace, any telephony system, and any cognitive speech service. It supports any voice bot use case, <strong>such as virtual agent</strong>, <strong>conversational IVR</strong>, <strong>agent assist</strong>, and <strong>outbound calling</strong>. Based on a best-of-breed approach, VoiceAI Connect allows you to pick the best provider for speech services.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Sign up for AudioCodes</h4>
+
+
+
+<p>Follow this <a href="https://voiceaiconnect.audiocodes.com/" target="_blank" rel="noreferrer noopener">link</a> to create your account.</p>
+
+
+
+<h4 class="wp-block-heading">Create your bot on AudioCodes</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-1024x497.png" alt="" class="wp-image-2611" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-1-1024x497.png" alt="" class="wp-image-2612" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-1-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-1-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-1-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-1-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-1.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-2-1024x497.png" alt="" class="wp-image-2613" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-2-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-2-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-2-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-2-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-2.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Token</strong>: provide anything you want.</p>
+
+
+
+<p><strong>Bot URL</strong>: https://chatrace.com/webhooks/audiocodes.php?acc={{ACCOUNT_ID}}-{{ACCOUNT_KEY}}</p>
+
+
+
+<p>You can get the <strong>ACCOUNT_ID</strong> and <strong>ACCOUNT_KEY</strong> by going to Settings &gt; General. You will find it at the bottom of the page.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-14-1024x497.png" alt="" class="wp-image-2638" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-14-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-14-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-14-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-14-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-14.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>If your account ID is <strong>1234</strong> and the account ky <strong>ABCD</strong>, the Bot URL will be https://chatrace.com/webhooks/audiocodes.php?acc=1234-ABCD</p>
+
+
+
+<p>For <strong>Whitelabel</strong>, you will need to replace chatrace.com with your subdomain.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-3-1024x497.png" alt="" class="wp-image-2614" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-3-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-3-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-3-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-3-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-3.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Add phone number to AudioCodes</h4>
+
+
+
+<p>To add an existing phone number, you will need to contact AudioCodes support. Also, AudioCodes allows you to easily buy a phone number from their dashboard.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-7-1024x497.png" alt="" class="wp-image-2619" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-7-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-7-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-7-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-7-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-7.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Connect your phone number to your AudioCodes bot</h4>
+
+
+
+<p>After you add your phone number to AudioCodes, you need to connect the phone number to your AudioCodes bot. Go to <strong>Routing</strong> and click the <strong>Add</strong> button. </p>
+
+
+
+<p><strong>Connected Service</strong>: Select your bot<br><strong>Connection Type</strong>: Inbound<br>Connected With: Select your phone number added in the previous step.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-6-1024x497.png" alt="" class="wp-image-2617" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-6-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-6-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-6-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-6-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-6.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Connect AudioCodes bot to Chatrace</h4>
+
+
+
+<p>Go to Settings  &gt; Channels &gt; Voice and click the connect button. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-4-1024x497.png" alt="" class="wp-image-2615" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-4-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-4-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-4-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-4-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-4.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Provide the phone number that you added to AudioCodes. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="635" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-5-1024x635.png" alt="" class="wp-image-2616" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-5-1024x635.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-5-300x186.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-5-768x477.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-5.png 1120w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Allow your bot to make outbound calls (Optional)</h4>
+
+
+
+<p>You can skip this step if you want your bot to handle only inbound calls or if you don&#8217;t have permission to make outbound calls.</p>
+
+
+
+<p>If your bot can make outbound calls, you need to provide more information when connecting your AudioCodes bot to Chatrace.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-10-1024x497.png" alt="" class="wp-image-2624" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-10-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-10-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-10-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-10-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-10.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-9-1024x497.png" alt="" class="wp-image-2623" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-9-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-9-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-9-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-9-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-9.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-8-1024x497.png" alt="" class="wp-image-2622" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-8-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-8-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-8-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-8-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-8.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Setup the Welcome Message</h4>
+
+
+
+<p>The welcome message is the first message the user will hear when a user calls your number. The Welcome message must clearly let the user know how they can use your bot. If you don&#8217;t set the Welcome Message, your bot will not send anything until the user speaks with your bot.</p>
+
+
+
+<p>To set a welcome Message, go to Settings  &gt; Channels &gt; Voice</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-11-1024x497.png" alt="" class="wp-image-2627" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-11-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-11-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-11-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-11-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-11.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Building Voice flows</h4>
+
+
+
+<p>On the voice channel, the user can only receive text messages (that are converted to Speech and sent to the user). Users can also Speak (that is converted to text and sent to the bot). Your bot can also collect user input when the user clicks on any number during the calls. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-12-1024x502.png" alt="" class="wp-image-2630" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-12-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-12-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-12-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-12-1536x753.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-12.png 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If you want to build advanced bots able to collect any user data, we strongly recommend you use <a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/build-smarter-bots-with-chatrace-dialogflow/" target="_blank">Dialogflow</a>. Chatrace has built-in integration with Dialogflow.</p>
+
+
+
+<h4 class="wp-block-heading">Hangup a call</h4>
+
+
+
+<p>Your bot can hang up a call anytime during a conversation by using the Actions &gt; Voice &gt; Hung up.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="502" src="https://docs.chatrace.com/wp-content/uploads/2022/12/image-13-1024x502.png" alt="" class="wp-image-2635" srcset="https://docs.chatrace.com/wp-content/uploads/2022/12/image-13-1024x502.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-13-300x147.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-13-768x377.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-13-1536x753.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/12/image-13.png 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Transfer a call to another phone number</h4>
+
+
+
+<p>Your bot can transfer a call to another phone number anytime during a conversation by using the <strong>Actions</strong> &gt; <strong>Voice</strong> &gt;  <strong>Transfer Call</strong>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/voice-automation-with-audiocodes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

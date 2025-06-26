@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Essential &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/basic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 May 2025 13:41:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Essential &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get started with Chatrace</title>
+		<link>https://docs.chatrace.com/kb/overview/</link>
+					<comments>https://docs.chatrace.com/kb/overview/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2020 06:17:06 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=459</guid>
+
+					<description><![CDATA[In this article, we will walk you through the flow dashboard &#38; flow builder overview and show you how to create a simple flow on]]></description>
+										<content:encoded><![CDATA[
+<p>In this article, we will walk you through the flow dashboard &amp; flow builder overview and show you how to create a simple flow on Chatrace.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to create a simple flow" width="780" height="439" src="https://www.youtube.com/embed/2DK2TTOWNtQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Navigate to Flows</h4>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-1024x495.png" alt="" class="wp-image-3309" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856.png 1870w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h4 class="wp-block-heading">Flow dashboard overview</h4>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-1024x495.png" alt="" class="wp-image-3321" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846.png 1870w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Flow Builder</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-1024x495.png" alt="" class="wp-image-3313" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-1024x495.png" alt="" class="wp-image-3314" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-1024x495.png" alt="" class="wp-image-3331" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h4 class="wp-block-heading">Learn more</h4>
+
+
+
+<p>Take your Bot building skills to the next level. Learn how to use major components like Conditions, Tags, Custom fields, &amp; many more.</p>
+
+
+
+<p><a href="https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/" target="_blank" rel="noreferrer noopener">How to connect automated responses (keyword) to flow (How to train to Bot)</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">H</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">o</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">w</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank"> </a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">t</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">o</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank"> </a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">Segment your audience with Tags </a></p>
+
+
+
+<p><a href="https://youtu.be/FdMDfCyYHGA" target="_blank" rel="noreferrer noopener">How to use condition</a></p>
+
+
+
+<p><a href="https://docs.chatrace.com/kb/how-to-notify-admins/">How to notify admins</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/custom-field/" target="_blank">How to use custom fields and get user data</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/overview/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to train your bot to reply to messages?</title>
+		<link>https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2020 14:25:59 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=418</guid>
+
+					<description><![CDATA[Automated responses allow your business to save money and human resources by automatically replying to your user messages. Chatrace allows you to create bots capable]]></description>
+										<content:encoded><![CDATA[
+<p>Automated responses allow your business to save money and human resources by automatically replying to your user messages.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to train your bot to respond to messages" width="780" height="439" src="https://www.youtube.com/embed/NSe4syEFHdk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Chatrace allows you to create bots capable of understanding any message related to your business even if your customers type it wrong.</p>
+
+
+
+<p>When you train your bot, never worry with lowercase and uppercase since your bot will handle it for you.</p>
+
+
+
+<p>There are two ways to train your bot to auto reply to customers&#8217; messages </p>
+
+
+
+<p><strong>1- Short Keywords. </strong><br>The bot will only reply if the user message contains a short keyword. Short keywords normally haven’t any relation with your business and they are very short. <strong>Greetings</strong> and <strong>thank</strong> you messages like “good morning”, “good evening”, “hello”, “hi”, “How are you”, and “thank you” are good examples.</p>
+
+
+
+<p>Never add long sentences as a Short keyword. We advise you to combine a maximum of 2 words as Short Keywords, otherwise use <strong>Business Frequently Asked Questions</strong>.</p>
+
+
+
+<p> To add a  <em>Short Keyword</em>, go to Automated Response and click the &#8220;<strong>Add</strong>&#8221; button. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="599" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-1024x599.png" alt="" class="wp-image-2267" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-1024x599.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-6-768x449.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-6.png 1377w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="510" src="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-1024x510.png" alt="" class="wp-image-853" srcset="https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-1024x510.png 1024w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-300x149.png 300w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1-768x383.png 768w, https://docs.chatrace.com/wp-content/uploads/2020/04/how-to-train-your-bot1.png 1148w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>If you specify “thank you” as a User Expression, your bot will reply to “<strong>thank you</strong>&nbsp;Chatrace”, ” any text&nbsp;<strong>thank you&nbsp;</strong>any text”, “<strong>thank you</strong>u” … </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>2-  Business Frequently Asked Questions  (FAQ)</strong><br>FAQs are questions related to your business. The bot will only answer a FAQ if the user message is at least 98% similar to the question, otherwise, if the customer’s message includes <em><strong>Business Keywords</strong></em>, the customer will be presented with a list of all questions that contain those keywords. After that, the customer chooses the question he wants to ask and he gets the answer.</p>
+
+
+
+<p> To add a <em><strong>FAQ</strong></em>, go to Automated Response &gt; click the &#8220;Add&#8221; button.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="599" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-1024x599.png" alt="" class="wp-image-2269" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-1024x599.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-7-768x449.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-7.png 1377w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="467" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-1024x467.png" alt="" class="wp-image-2271" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-1024x467.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-9-768x350.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-9.png 1180w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Whenever you add a FAQ, make sure the FAQ contains at least one <strong><em>Business Keyword</em></strong>. Otherwise, identify 1 or more important words contained in the question (FAQ) and add them to the <strong><em>Business Keyword</em></strong> list.</p>
+
+
+
+<p><strong><em>Business Keywords</em></strong> are important words related to your business. For example, for <em>Paypal</em>, <strong>Business Keywords</strong> could be “money”, “refund”, “payment”, “account”, “transaction”, “card”, “send”, “receive”, “business”, “personal”, “fraud”, …</p>
+
+
+
+<p>To add a <em><strong>Business keyword</strong></em>, go to Automated Response &gt; Business Keyword</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="597" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-1024x597.png" alt="" class="wp-image-2305" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-1024x597.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-17-768x448.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-17.png 1295w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><br>For example:&nbsp;<br>What are your opening hours? (Business Keyword: <em>hours</em>).<br>How much does this product cost? ( Business Keywords: <em>product</em>, <em>cost</em>)<br>How to send money? ( Business Keywords: <em>send, money</em>)<br>How to use the Google Sheets integration? ( keywords: <em>sheets</em>, <em>integration</em>)</p>
+
+
+
+<p><br></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Practical use case of <strong>Frequently Asked </strong>Question</strong><br>You certainly have already searched on Google and despite writing wrong, Google showed the correct result. When you use FAQ and Business keywords, your bot will be able to understand any question related to your business, regardless of how users ask the question or if they typed it with an error.</p>
+
+
+
+<p>Imagine a bot, and different users ask questions like:</p>
+
+
+
+<ol class="wp-block-list">
+<li>How much did Facebook earn in 2019?</li>
+
+
+
+<li> How much did Facebok earn in 2019? </li>
+
+
+
+<li>How much did FB earn in 2019?</li>
+
+
+
+<li>How much did Zuckerberg&#8217;s company earn in 2019?</li>
+</ol>
+
+
+
+<p>Thanks to the FAQ and Business Keywords you don&#8217;t need to enter several variations of the same question. &nbsp;In the above scenario, you would only have to choose the first version of the question, and teach your bot that&nbsp;<strong>Facebook</strong>,&nbsp; <strong>Facebok,&nbsp;FB, </strong>and  <strong>Zuckerberg</strong> have the same meaning.&nbsp;Below you will learn how to teach your bot that several words have the same meaning. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="559" height="369" src="https://docs.chatrace.com/wp-content/uploads/2020/01/how-to-add-keywords.png" alt="" class="wp-image-425" srcset="https://docs.chatrace.com/wp-content/uploads/2020/01/how-to-add-keywords.png 559w, https://docs.chatrace.com/wp-content/uploads/2020/01/how-to-add-keywords-300x198.png 300w" sizes="auto, (max-width: 559px) 100vw, 559px" /></figure></div>
+
+
+<p></p>
+
+
+
+<p>Keywords make your <strong>Frequently Asked Questions</strong> of your business easily discovered by your users. For example, if you have a question on your bot. </p>
+
+
+
+<p>&#8220;<em>Who is the p</em>resident of Facebook?&#8221;</p>
+
+
+
+<p>If the above question does not contain a keyword, the user will have to type (in your bot) that question exactly as you registered the question. But if you add&nbsp;<strong>Facebook&nbsp;</strong>as a keyword, if the user asks “<em>president of Facebook?</em>”, “<em>Who is the </em>president of <em>Facebook</em>”, or<em> </em>&#8220;<em>CEO of Facebook</em>&#8221; the user will discover this question and get the answer.</p>
+
+
+
+<p> You can even make your bot smarter by adding variations (synonyms) of the word&nbsp;&#8220;<em>Facebook</em>&#8221;&nbsp; like “<em>fb</em>”, “<em>Facebok</em>”, “Facibook”… , if the user asks “<em>Who is the president of&nbsp;<strong>Facebok</strong>?</em>” or&nbsp; “<em>Who is president of FB</em>” he can also&nbsp;discover the question above and get the answer. </p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Business Keywords</strong> also work in eCommerce to help your customers find your products more easily inside your chatbot. Products names are searchable by default but you can register product names and synonyms or wrong spelling to help your customer discover products faster. For example, a restaurant bot can register <strong>pizza </strong>as a Business Keyword and add <strong>piza </strong>as a variation. That way if one client types &#8220;<strong>piza</strong>&#8221; the bot will understand as <strong>pizza </strong>and show him a <strong>pizza</strong>.</p>
+
+
+
+<p>As you can note, the variations are normally a synonym or wrong spelling of a Business Keyword. But sometimes you need to use related words to help your customers find the questions. In our bot (Chatrace) we have a training phrase &#8220;<strong>What messaging platform do you support?</strong>&#8220;.  But normally people ask &#8220;what about WhatsApp &#8230;&#8221;, &#8220;&#8230; Viber &#8230;&#8221;, &#8220;&#8230; Instagram  &#8230;.&#8221;. So we register <strong>messaging</strong> as keyword and we add  WhatsApp,  Viber,  Instagram,  Skype,  Slack, and Telegram as a variations. When the user sends any of these words the bot will understand as <strong>messaging </strong>and show the user this question.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to notify admins?</title>
+		<link>https://docs.chatrace.com/kb/how-to-notify-admins/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-notify-admins/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 02:21:03 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=223</guid>
+
+					<description><![CDATA[This feature lets you notify an admin when certain events happen on your account or within your flow/automation. Setting up notifications on the admin tab.]]></description>
+										<content:encoded><![CDATA[
+<p>This feature lets you notify an admin when certain events happen on your account or within your flow/automation.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to set up admin notification" width="780" height="439" src="https://www.youtube.com/embed/oo_YgQlnIz8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Setting up notifications on the admin tab.</h4>
+
+
+
+<p>Goto settings &gt;&gt; Admins &gt;&gt; Manage &gt;&gt; Select Admin &gt;&gt;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-33-1024x495.png" alt="" class="wp-image-3182" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-33-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-33-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-33-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-33-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-33.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235147704-1024x495.png" alt="" class="wp-image-3183" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235147704-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235147704-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235147704-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235147704-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235147704.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235442590-1024x495.png" alt="" class="wp-image-3186" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235442590-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235442590-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235442590-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235442590-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_235442590.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Set the type of notifications you want and the Channels you wish to receive notifications.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-35-1024x494.png" alt="" class="wp-image-3187" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-35-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-35-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-35-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-35-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-35.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Receive notifications via Email.</h4>
+
+
+
+<p><strong>This is highly recommended. Enable Email on notification Channels &amp; Input your email address to receive notifications via Email.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-37-1024x495.png" alt="" class="wp-image-3189" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-37-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-37-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-37-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-37-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-37.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_003004706-1024x495.png" alt="" class="wp-image-3191" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_003004706-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_003004706-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_003004706-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_003004706-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_003004706.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Receive notifications on Messenger.</h4>
+
+
+
+<p><strong>We do not recommend you receive notifications on Messenger Channel as it requires you to interact with your Messenger Bot daily to ensure you are within the 24hrs window. </strong></p>
+
+
+
+<p><strong>To receive notifications on Messenger, Enable Messenger on notification Channels.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-39-1024x495.png" alt="" class="wp-image-3192" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-39-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-39-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-39-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-39-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-39.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Receive notifications on Telegram.</h4>
+
+
+
+<p><strong>Create Telegram Bot on your account &gt;&gt; Create a Telegram flow  &amp; preview the Telegram flow &gt;&gt; Enable Telegram on notification Channels.</strong></p>
+
+
+
+<p>Create Telegram Bot on your Account</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-40-1024x495.png" alt="" class="wp-image-3193" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-40-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-40-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-40-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-40-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-40.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Create a simple Telegram flow &gt;&gt; publish the flow &amp; preview the flow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-41-1024x495.png" alt="" class="wp-image-3194" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-41-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-41-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-41-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-41-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-41.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Enable Telegram on notification Channels.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_004743120-1024x495.png" alt="" class="wp-image-3196" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_004743120-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_004743120-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_004743120-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_004743120-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_004743120.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Receive notifications on Viber.</h4>
+
+
+
+<p><strong>Create Viber Bot on your account &gt;&gt; Create a Viber flow  &amp; preview the Viber flow &gt;&gt; Enable Viber on notification Channels.</strong></p>
+
+
+
+<p>Create a Viber bot on your Account</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-43-1024x495.png" alt="" class="wp-image-3199" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-43-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-43-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-43-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-43-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-43.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Create a Viber flow &gt;&gt; publish the flow &amp; preview the flow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005716687-1024x495.png" alt="" class="wp-image-3202" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005716687-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005716687-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005716687-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005716687-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005716687.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p> </p>
+
+
+
+<p>Enable Viber on notification Channels</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005850795-1024x495.png" alt="" class="wp-image-3204" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005850795-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005850795-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005850795-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005850795-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_005850795.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Receive notifications via Google Business Message.</h4>
+
+
+
+<p><strong>Create Google Business Message Bot on your account &gt;&gt; Create a Google Business Message flow  &amp; preview the Google Business Message flow &gt;&gt; Enable Google Business Message on notification Channels.</strong></p>
+
+
+
+<p>Create Google Business Message Bot on your Account</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010434124-1024x495.png" alt="" class="wp-image-3207" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010434124-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010434124-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010434124-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010434124-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010434124.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Create Google Business Message flow &gt;&gt; publish the flow &amp; preview the flow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010735171-1024x495.png" alt="" class="wp-image-3209" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010735171-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010735171-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010735171-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010735171-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010735171.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Enable Google Business Message on notification Channels.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010917064-1024x495.png" alt="" class="wp-image-3211" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010917064-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010917064-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010917064-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010917064-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_010917064.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">How to use Notify Admin Action in Flow Builder.</h4>
+
+
+
+<p><strong>Select Action &gt;&gt; Notify Admin &gt;&gt; Select the Admin you want to notify &amp; Input the notification text/message.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-49-1024x495.png" alt="" class="wp-image-3214" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-49-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-49-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-49-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-49-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-49.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Select the Admin or Team you want to notify.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-50-1024x495.png" alt="" class="wp-image-3215" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-50-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-50-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-50-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-50-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-50.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Input the notification text/message.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-51-1024x495.png" alt="" class="wp-image-3216" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-51-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-51-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-51-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-51-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-51.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-notify-admins/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Segment your audience with tags</title>
+		<link>https://docs.chatrace.com/kb/tags/</link>
+					<comments>https://docs.chatrace.com/kb/tags/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2020 06:23:28 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=461</guid>
+
+					<description><![CDATA[Tags in Chatrace are useful and important features to segment and target Messenger subscribers for your marketing campaign. For Example, you can use this tag]]></description>
+										<content:encoded><![CDATA[
+<p>Tags in Chatrace are useful and important features to segment and target Messenger subscribers for your marketing campaign.</p>
+
+
+
+<p>For Example, you can use this tag to group your audience for</p>
+
+
+
+<ul class="wp-block-list"><li>Different Campaign,</li><li>Different Product or services,</li><li>Different Targeting and a lot more things.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="296" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.31.08-PM-1024x296.png" alt="" class="wp-image-1461" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.31.08-PM-1024x296.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.31.08-PM-300x87.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.31.08-PM-768x222.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.31.08-PM-1536x443.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.31.08-PM.png 1594w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<h3 class="wp-block-heading">Where can I create Tags?</h3>
+
+
+
+<p>You can create tags on Chatrace in the Flows section.</p>
+
+
+
+<p>Go to Menu &gt; Flows &gt; Tags to create a new tag and give a name for your new tag on the next dialog below.&nbsp;</p>
+
+
+
+<p>You can also enable the sync tags on the floating window (looks similar like the image below) to integrate the tags that you are assigning to your subscribers with the Facebook page manager inbox.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="641" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.49.11-PM-1024x641.png" alt="" class="wp-image-1469" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.49.11-PM-1024x641.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.49.11-PM-300x188.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.49.11-PM-768x481.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.49.11-PM-1536x961.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.49.11-PM-2048x1282.png 2048w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.49.11-PM-800x500.png 800w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>So this is how the tags on Chatrace will synchronize and reflect (red box) on your Facebook page manager inbox (on the image below).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="905" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.33.16-PM-1024x905.png" alt="" class="wp-image-1463" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.33.16-PM-1024x905.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.33.16-PM-300x265.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.33.16-PM-768x679.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.33.16-PM-1536x1357.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.33.16-PM.png 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Now you know how to create a tag and we will see how to add tag to your subscribers to segment the audience.</p>
+
+
+
+<p>Adding tags to the subscribers in Chatrace can be done in two ways:</p>
+
+
+
+<ul class="wp-block-list"><li>Manually and,</li><li>Automatically</li></ul>
+
+
+
+<h3 class="wp-block-heading">Add Tags Manually:</h3>
+
+
+
+<p>Tags which you created can be assigned to your subscribers manually and note that it is a time-consuming process.</p>
+
+
+
+<h4 class="wp-block-heading">Add Tag to Individual Subscriber:</h4>
+
+
+
+<p>To apply the tag to a particular subscriber, Go to &#8220;users&#8221; tab by navigating through the main menu</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="479" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.47.27-PM-1024x479.png" alt="" class="wp-image-1467" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.47.27-PM-1024x479.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.47.27-PM-300x140.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.47.27-PM-768x359.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.47.27-PM-1536x718.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.47.27-PM-2048x958.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Now, select the subscriber by clicking the name on the list and add the tag on the given field (as shown in the image below) as you need.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.45.25-PM-1024x559.png" alt="" class="wp-image-1473" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.45.25-PM-1024x559.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.45.25-PM-300x164.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.45.25-PM-768x419.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.45.25-PM-1536x838.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.45.25-PM-2048x1117.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<h4 class="wp-block-heading">Add Tag to Multiple Subscribers:</h4>
+
+
+
+<p>You can also add tags to the multiple subscribers manually by selecting &#8220;users&#8221; (use checkbox) and click “Action”. Select “Add Tag” to add the tags to the multiple subscribers manually.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="464" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.52.30-PM-1024x464.png" alt="" class="wp-image-1477" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.52.30-PM-1024x464.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.52.30-PM-300x136.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.52.30-PM-768x348.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.52.30-PM-1536x696.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.52.30-PM-2048x928.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<h3 class="wp-block-heading">Add Tags Automatically on the Flow:</h3>
+
+
+
+<p>Assigning tags for your Messenger subscribers can also be done automatically on the chat flow using Messenger chatbots.</p>
+
+
+
+<p>To do this,&nbsp;</p>
+
+
+
+<p>Create a Tag first and select the flow on which you want to add automatic tagging subscribers features.</p>
+
+
+
+<p>You can use this automatic tagging feature on three places on the chat flow,</p>
+
+
+
+<ul class="wp-block-list"><li><strong>Using the Action Tab: </strong>While creating chat flow you can use the action “Add Tag” at a certain point to tag your subscribers on the flow automatically. </li></ul>
+
+
+
+<p>To do this</p>
+
+
+
+<ol class="wp-block-list"><li>Click on + or double click on the canvas >> action (to choose the action block)</li><li>Click on the action block >> add content >> actions >> add tag</li></ol>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="651" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.58.32-PM-1024x651.png" alt="" class="wp-image-1481" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.58.32-PM-1024x651.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.58.32-PM-300x191.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.58.32-PM-768x488.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.58.32-PM-1536x977.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.58.32-PM-2048x1302.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<ul class="wp-block-list"><li><strong>Using Buttons: </strong>Both reply &amp; quick reply button can be used to assign tags for the subscribers. When the user clicks the button on the chat flow, the tag which is integrated with the button will automatically be assigned to that subscribers.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="828" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-12.31.07-AM-1-1024x828.png" alt="" class="wp-image-1488" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-12.31.07-AM-1-1024x828.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-12.31.07-AM-1-300x243.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-12.31.07-AM-1-768x621.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-12.31.07-AM-1-1536x1242.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-12.31.07-AM-1.png 1830w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Did this article clear your doubts on the Tags feature in the Chatrace platform? We hope it serves the purpose well.</p>
+
+
+
+<p>If you still have any doubts, visit other articles on knowledge base or ask the community to get help or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/tags/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Custom field and get user data</title>
+		<link>https://docs.chatrace.com/kb/custom-field/</link>
+					<comments>https://docs.chatrace.com/kb/custom-field/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2020 12:08:18 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=463</guid>
+
+					<description><![CDATA[Custom fields in Chatrace act like variables to store the user information like email, phone number, preference, and a lot more based on your requirement]]></description>
+										<content:encoded><![CDATA[
+<p>Custom fields in Chatrace act like variables to store the user information like email, phone number, preference, and a lot more based on your requirement and bot building process.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to dynamically set custom field" width="780" height="439" src="https://www.youtube.com/embed/tchIFlHWbhI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<p>Custom field data can be stored in different formats like,</p>
+
+
+
+<ul class="wp-block-list">
+<li>Text,</li>
+
+
+
+<li>Number,</li>
+
+
+
+<li>Date,&nbsp;</li>
+
+
+
+<li>Date &amp; Time,</li>
+
+
+
+<li>True/False</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Create a Custom Field</h3>
+
+
+
+<p>You can create the custom field on the flow section.</p>
+
+
+
+<p>Go to <strong><em>Menu &gt; Flows &gt; Custom Fields</em></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="445" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.54.02-AM-1024x445.png" alt="" class="wp-image-1309" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.54.02-AM-1024x445.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.54.02-AM-300x130.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.54.02-AM-768x334.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.54.02-AM-1536x667.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-12.54.02-AM.png 1934w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>Click the &#8220;Add&#8221; button if you want to add a Custom Field. In the image below, you can fill the name and type as per your need, and don’t forget to fill in the details about the custom field on the description field. Even though the &#8220;description&#8221; is optional, this information will help you when you have multiple custom fields in the future.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="557" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.01.38-AM-1024x557.png" alt="" class="wp-image-1319" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.01.38-AM-1024x557.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.01.38-AM-300x163.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.01.38-AM-768x418.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.01.38-AM-1536x835.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.01.38-AM.png 1846w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>In the image below, you can fill the name and type as per your need, and don’t forget to fill in the details about the custom field on the description field. Even though the &#8220;description&#8221; is optional, this information will help you when you have multiple custom fields in the future.</p>
+
+
+
+<p>Now you will see how we can use this custom field on the chat flow to store the user information on the flow automatically.</p>
+
+
+
+<h3 class="wp-block-heading">Using Custom Field on the Chat Flow</h3>
+
+
+
+<p>If you already created the custom field to save the user input (information), it&#8217;s fine. Or you also can create custom field while building chat flow also.</p>
+
+
+
+<p>Select the flow where you want to use this custom field feature.</p>
+
+
+
+<p>On the flow, utilize “Get User Data” to gather input from your subscribers (similar to the image below).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="781" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.07.37-AM-1024x781.png" alt="" class="wp-image-1331" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.07.37-AM-1024x781.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.07.37-AM-300x229.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.07.37-AM-768x586.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.07.37-AM-1536x1171.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.07.37-AM.png 1954w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>Then click on the “Edit” button to configure the custom field wizard.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="799" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.09.52-AM-1024x799.png" alt="" class="wp-image-1333" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.09.52-AM-1024x799.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.09.52-AM-300x234.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.09.52-AM-768x599.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.09.52-AM-1536x1198.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.09.52-AM.png 1900w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Now, choose the custom field if you had created it already or you can create a new custom field here in the wizard itself.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="808" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.13.35-AM-1024x808.png" alt="" class="wp-image-1338" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.13.35-AM-1024x808.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.13.35-AM-300x237.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.13.35-AM-768x606.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.13.35-AM.png 1298w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>When any subscriber on this flow provides the input on this user input, it will get stored on the custom field named “preferred color &#8211; laptop bags”.</p>
+
+
+
+<p>This is how it will reflect on your subscribers.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="253" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.19.25-AM-1024x253.png" alt="" class="wp-image-1349" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.19.25-AM-1024x253.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.19.25-AM-300x74.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.19.25-AM-768x190.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.19.25-AM.png 1390w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>This is how the chat flow is constructed,</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="792" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.17.24-AM-1024x792.png" alt="" class="wp-image-1343" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.17.24-AM-1024x792.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.17.24-AM-300x232.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.17.24-AM-768x594.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.17.24-AM-1536x1188.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.17.24-AM.png 1922w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>And this user input will be stored on the respective custom field as we said before. You can see those custom field information on the individual audience details.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="363" src="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.21.12-AM-1024x363.png" alt="" class="wp-image-1351" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.21.12-AM-1024x363.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.21.12-AM-300x106.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.21.12-AM-768x273.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.21.12-AM-1536x545.png 1536w, https://docs.chatrace.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-1.21.12-AM.png 1578w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>You can see the Green color which the user gives was stored on the respective custom field.&nbsp;</p>
+
+
+
+<p>Hope this article helps you to understand more about custom field feature in Chatrace platform.</p>
+
+
+
+<p>If you still have any doubts, visit other articles on knowledge base or ask the community to get help or contact our support to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/custom-field/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chatrace System Fields</title>
+		<link>https://docs.chatrace.com/kb/chatrace-system-variables/</link>
+					<comments>https://docs.chatrace.com/kb/chatrace-system-variables/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 15:57:13 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=1225</guid>
+
+					<description><![CDATA[System fields are fields created by Chatrace that allow you to access many contact and business account data that are automatically saved by Chatrace. Chatrace]]></description>
+										<content:encoded><![CDATA[
+<p>System fields are fields created by Chatrace that allow you to access many contact and business account data that are automatically saved by Chatrace.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="685" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-13-1024x685.png" alt="" class="wp-image-2286" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-13-1024x685.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-13-300x201.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-13-768x514.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-13.png 1263w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Chatrace has many system fields, and not all system fields are visible when you build your flows. If you use a system field on your flow, even if the system field isn&#8217;t visible on the list of available fields, it will work.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Contacts fields</h2>
+
+
+
+<p><strong>{{first_name}}<br>{{last_name}}<br>{{full_name}}</strong><br><strong>{{email}}</strong><br><strong>{{phone}}</strong><br><strong>{{user_country}}<br>{{user_state}}<br>{{user_city}}</strong><br><strong>{{inbox_link}}:</strong> the link to the inbox on Chatrace.<strong><br>{{gender}}<br>{{locale}}</strong>: User language. Example en_US<br><strong>{{locale2}}: </strong> User language. Example en<strong><br>{{ig_user_name}} </strong>: The Instagram user name.<strong><br>{{ig_followers}}: </strong>The Instagram follower count for the user.<strong><br>{{ig_verified}}: </strong>Verification status for the user on Instagram.<strong><br>{{ig_follow_business}}:</strong> Indicates whether the user follows the business or not.<strong><br>{{ig_business_follow_user}}:</strong> Indicates whether the business follows the user or not.<strong><br>{{profile_pic}}<br>{{timezone}}</strong>: Timezone offset like +2 <br><strong>{{timezone_name}}</strong>: example: America/New_York<strong><br>{{user_id}}</strong> : the contact user ID on Chatrace. Use this ID on API.<strong><br>{{subscribed_date}}</strong> : the date when the contact was created.<strong><br>{{fb_chat_link}}</strong> : The direct link to a contact&#8217;s Facebook Inbox.<br><strong>{{me}}</strong> : Contains a link where a user can see and delete their data. This helps businesses to stay compliant with GDPR.<br><strong>{{user_code}}<br>{{last_btt_title}}<br>{{last_interaction}}<br>{{last_order}}<br>{{last_seen}}</strong><br><strong>{{last_input}}</strong>: the last text, image, video, audio, file, or voice message sent by the user.<br><strong>{{last_input_type}}</strong>: text, image, video, audio, file.<br><strong>{{consecutive_failed_reply}}</strong><br><strong>{{last_ref}}</strong> : the last entry point link clicked by the user.<br> <strong>{{last_ad}}</strong> : the last Facebook Ad id that leads the user to your bot.<br><strong>{{user_channel}}</strong>: the primary channel of the user.<br><strong>{{user_hash}}</strong><br><strong>{{user_tags}}</strong> &#8211; contains the name of all tags applied to a contact.<br><strong>{{user_external_id}}</strong>: the Viber user id.<br><strong>{{user_source}}</strong>: Ads, Facebook/IG comment, Direct, Imported, API, Inbound Message, Unknown &#8230;<br><strong>{{assigned_admin_name}}</strong><br><strong>{{assigned_admin_email}}</strong><br><strong>{{assigned_admin_id}}</strong><br><strong>{{current_user_time}}</strong><br><strong>{{chat_history}}: </strong>return the last 50 messages between the user and the business.<strong><br>{{chat_history_large}}: </strong>return the last 200 messages between the user and the business.<strong><br>{{chat_history_details}}: </strong>like {{chat_history}} but it includes WHO sent the message.<strong><br>{{chat_history_details_large}}</strong>: like {{chat_history_details}} but it includes WHO sent the message.<br><strong>{{user_notes}}</strong>: the notes added to the user.<br><strong>{{last_user_note}}</strong>: the last note added to the user.<br><strong>{{webchat}}</strong>: Contains a link that allows the user to continue a conversation from any channel in webchat.<br><strong>{{webchat_parent_url}}</strong>: contains the URL of the page that the webchat is loaded.</p>
+
+
+
+<h2 class="wp-block-heading">Account fields</h2>
+
+
+
+<p><strong>{{account_id}}<br>{{account_name}}</strong><br><strong>{{account_image}}</strong><br><strong>{{api_key}}</strong>: the API key of your account.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Facebook/Instagram Auto Comment fields</h2>
+
+
+
+<p><strong>{{total_new_tagged}} </strong> : Number of users that aren&#8217;t in your contact list that was tagged in the comment. Works only on Facebook.<br><strong>{{total_tagged}}</strong> : Number of users that aren&#8217;t tagged in the comment. Works only on Facebook.<br><strong>{{last_fb_comment}}</strong>: the text of the last comment of a user.<br><strong>{{last_post_id}}</strong> : the post ID of the last post commented by the user.<br><strong>{{last_comment_id}}</strong> : the post ID of the last post commented by the user.</p>
+
+
+
+<h2 class="wp-block-heading">Instagram Story Reply fields</h2>
+
+
+
+<p><strong>{{last_story_id}}</strong></p>
+
+
+
+<h2 class="wp-block-heading">Messenger</h2>
+
+
+
+<p><strong>{{page_user_name}}</strong></p>
+
+
+
+<h2 class="wp-block-heading">Viber</h2>
+
+
+
+<p><strong>{{viber_bot_username}}</strong></p>
+
+
+
+<h2 class="wp-block-heading">Voice</h2>
+
+
+
+<p><strong>{{last_call_recorded}} </strong>: Contains the link to the last call recorded.</p>
+
+
+
+<h2 class="wp-block-heading">Location</h2>
+
+
+
+<p><strong>{{last_latitude}}</strong> : only available if the user has shared their location.<br><strong>{{last_longitude}}</strong> : only available if the user has shared their location.</p>
+
+
+
+<h2 class="wp-block-heading">Pipelines fields</h2>
+
+
+
+<p><strong>{{last_opportunity_id}}</strong>: contains the ID of the last opportunity updated or created.</p>
+
+
+
+<h2 class="wp-block-heading">Booking fields</h2>
+
+
+
+<p><strong>{{booking_date}}<br>{{booking_link}}<br>{{booking_id}}<br>{{booking_calendar}}</strong></p>
+
+
+
+<h2 class="wp-block-heading">E-commerce  fields</h2>
+
+
+
+<p><strong>{{cart_checkout_link}}<br>{{cart_last_item_name}}<br>{{cart_last_item_quantity}}<br>{{cart_num_items}}<br>{{cart_other_fees}}<br>{{cart_shipping_cost}}<br>{{cart_subtotal}}<br>{{cart_total}}</strong><br><strong>{{cart_products}}<br>{{shop_link}}<br>{{money_symbol}}<br>{{order_coupon_code}}<br>{{order_coupon_discount}}<br>{{order_date_account_timezone}}<br>{{order_date_timestamp}}<br>{{order_date_utc}}<br>{{order_discount}}<br>{{order_email}}<br>{{order_id}}<br>{{order_name}}<br>{{order_payment_method}}<br>{{order_phone}}<br>{{order_products}}</strong><br><strong>{{order_shipping_type}}<br>{{order_shipping_address1}}<br>{{order_shipping_address2}}<br>{{order_shipping_city}}<br>{{order_shipping_cost}}<br>{{order_shipping_state}}<br>{{order_shipping_zip}}</strong><br><strong>{{order_shipping_country}}<br>{{order_shipping}}<br>{{order_status}}<br>{{order_subtotal}}<br>{{order_taxes}}<br>{{order_total}}</strong>: example 1000<br><strong>{{order_total_formatted}}</strong>: formatted value. Example $1,000.00<br><strong>{{product_name}}</strong>: use it with the Trigger &#8220;Product Ordered&#8221; or &#8220;Product added to cart&#8221;.<br><strong>{{product_quantity}}</strong>: use it with the Trigger &#8220;Product Ordered&#8221; or &#8220;Product added to cart&#8221;.<br><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong>{{product_id}}</strong>: use it with the Trigger &#8220;User Asked About a Product&#8221;, &#8220;Product Ordered&#8221;, &#8220;Product Added to Cart,&#8221; or &#8220;Product Removed from Cart&#8221;.</span></p>
+
+
+
+<h2 class="wp-block-heading">Questionnaire fields</h2>
+
+
+
+<p><strong>{{last_points}}</strong>: contains the total points of the last questionnaire filed by a contact.</p>
+
+
+
+<h2 class="wp-block-heading">Other fields</h2>
+
+
+
+<p><strong>{{last_step}}:</strong> contains the STEP ID of the previous executed step. Works only if used in published flows.<br><strong>{{current_step}}</strong>: contains the STEP ID of the current active step. Works only if used in published flows.<br><strong>{{admin_name}}</strong>: contains the admin&#8217;s name that sends the message or flow from the inbox.</p>
+
+
+
+<p><strong>{{last_input_failure}}</strong>: includes the reason the GET USER DATA failed. Possible values are <strong>timeout</strong>, <strong>user_skipped</strong>, <strong>invalid_input_attempts</strong>.</p>
+
+
+
+<p><br></p>
+
+
+
+<h2 class="wp-block-heading">System Field isn&#8217;t visible; how do you use it?</h2>
+
+
+
+<p>You will not see suggestions for all these above fields on the flow builder. If you want to send the data to Google Sheets or any similar built-in integration and you don&#8217;t see the system field on the list, you can create a Custom field and transfer the System field value to your Custom field using the action &#8220;<strong>Set Custom Field</strong>&#8220;.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="571" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-14-1024x571.png" alt="" class="wp-image-2299" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-14-1024x571.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-14-300x167.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-14-768x429.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-14.png 1258w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="629" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-15-1024x629.png" alt="" class="wp-image-2300" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-15-1024x629.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-15-300x184.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-15-768x472.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-15.png 1305w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/chatrace-system-variables/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pipeline &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/pipeline/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 09 Apr 2025 15:33:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Pipeline &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to use Pipeline</title>
+		<link>https://docs.chatrace.com/kb/how-to-use-pipeline/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-use-pipeline/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 15:09:49 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3931</guid>
+
+					<description><![CDATA[Overview Pipeline is a powerful CRM feature within Chatrace that expertly facilitates the management and nurturing of contacts/opportunities. Its streamlined interface empowers businesses to effectively]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>Pipeline is a powerful CRM feature within Chatrace that expertly facilitates the management and nurturing of contacts/opportunities. Its streamlined interface empowers businesses to effectively handle customer relationships, positioning itself as a robust alternative to other CRM systems.</p>
+
+
+
+<h2 class="wp-block-heading">Key Features</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Drag and Drop Interface</strong>: Effortlessly move contacts/opportunities between various stages of your pipeline.</li>
+
+
+
+<li><strong>Automation</strong>: Set up automated workflows triggered by events such as adding contacts/opportunities or moving them through the pipeline stages.</li>
+
+
+
+<li><strong>Customizable Permissions</strong>: Define user access levels for team members to ensure that data security and role clarity are maintained.</li>
+
+
+
+<li><strong>Versatile Use</strong>: The Pipeline can function as a lead nurturing tool, a lead management system, or a ticketing system, adapting to your business needs.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Getting Started</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Accessing the Pipeline</strong><br>To access Pipeline, log in to your Chatrace account and click on Pipeline on the navigation menu.<br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-1024x468.png" alt="" class="wp-image-3955" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_115639941.png 1312w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="wp-block-list">
+<li></li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>User Roles/Permissions</strong><br>After creating your Pipeline, you control which admins have access to it. Note that super admins have full access to all pipelines.<br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-1024x468.png" alt="" class="wp-image-3956" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-23-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-23.png 1312w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Creating &amp; managing Pipeline stages</h2>
+
+
+
+<p>With our easy-to-use interface, you can easily create a stage that best suits your automation/workflow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-1024x468.png" alt="" class="wp-image-3965" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-25-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-25.png 1312w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-1024x468.png" alt="" class="wp-image-3967" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image_2025-04-09_163301885.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Managing contacts/opportunities on the Pipeline</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Adding Contacts/Opportunities to Pipeline</strong><br>&#8211; Click on the &#8220;Add New&#8221; button within the Pipeline.<br>&#8211; Input the necessary information that defines the contact/opportunity<br>&#8211; Click &#8220;Save&#8221; to add the contact to the pipeline.</li>
+
+
+
+<li><strong>Moving Contacts/Opportunities between Stages<br></strong>&#8211; Click on the lead you wish to move.<br>&#8211; Drag the lead to the desired stage in the pipeline.<br>&#8211; Release the mouse button to drop it in the new stage<strong><br><br></strong><em><strong>Our intuitive drag-and-drop</strong></em><strong><em> interface simplifies the process of managing leads. Each stage in the pipeline is visually represented, allowing users to organize leads seamlessly.</em></strong></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Automation Capabilities</h2>
+
+
+
+<p>You can trigger automation when an opportunity or ticket is created, its value changed, or it is moved from one stage to another. Please refer to the screenshot below to understand the available triggers. <strong>You can perform any actions based on these triggers.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-1024x468.png" alt="" class="wp-image-3958" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-24-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-24.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-use-pipeline/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

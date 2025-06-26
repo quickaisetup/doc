@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Grow &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/grow/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 31 Jan 2024 20:04:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Grow &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>QR Code Generator</title>
+		<link>https://docs.chatrace.com/kb/qr-code-generator/</link>
+					<comments>https://docs.chatrace.com/kb/qr-code-generator/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2020 18:07:17 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=584</guid>
+
+					<description><![CDATA[QR code generator in our Chatrace platform is to help our clients to acquire Messenger subscribers in a physical way &#38; digital way. You can]]></description>
+										<content:encoded><![CDATA[
+<p>QR code generator in our Chatrace platform is to help our clients to acquire Messenger subscribers in a physical way &amp; digital way.</p>
+
+
+
+<p>You can use the QR code generated here in your brick &amp; mortar store, cards, invites, websites and more places to get subscribers for your Messenger chatbot.</p>
+
+
+
+<p>To use this awesome tool, navigate to Menu &gt; Tools &gt; QR Code Generator.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="874" height="283" src="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow.png" alt="" class="wp-image-1429" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow.png 874w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-300x97.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-768x249.png 768w" sizes="(max-width: 874px) 100vw, 874px" /></figure></div>
+
+
+
+<p>This is what the generator tool in Chatrace looks like.</p>
+
+
+
+<p>To create a QR code for your requirement, enter the size of the image (in pixels) on the “Image Size field.&nbsp;</p>
+
+
+
+<p>Then, paste the ref URL of any flow that you need to take your subscribers in while scanning this QR code.&nbsp;</p>
+
+
+
+<p><em>Note: For people who don’t know where to find Ref URL, you can get that on the “Flow” section (on the sub-menu of every flow).</em></p>
+
+
+
+<p>After pasting, ref URL click “Generate” so that you will get the QR code like this image below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="823" height="283" src="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2.png" alt="" class="wp-image-1435" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2.png 823w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2-300x103.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/qr-grow-2-768x264.png 768w" sizes="(max-width: 823px) 100vw, 823px" /></figure>
+
+
+
+<p>You can download the QR code and make a print to paste that on your physical store.</p>
+
+
+
+<p>Hope this article helps you to know about the “QR Code Generator” tool on the Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/qr-code-generator/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Entry Point Links and Referral Parameters</title>
+		<link>https://docs.chatrace.com/kb/ref-parameter/</link>
+					<comments>https://docs.chatrace.com/kb/ref-parameter/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2020 19:20:44 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=776</guid>
+
+					<description><![CDATA[Entry Points Links are bot links that allow your customer to easily reach your bot. Also, it let you track which links are most effective]]></description>
+										<content:encoded><![CDATA[
+<p>Entry Points Links are bot links that allow your customer to easily reach your bot. Also, it let you track which links are most effective or invoke specific conversation flow when the link is opened.</p>
+
+
+
+<p>You can use bot links on your website, email newsletters, and more.</p>
+
+
+
+<p>In addition to giving you a way to link your customers to your bot, the Entry Point Links also support passing an arbitrary parameter via these links. This can be used for many purposes, such as tracking different links placed in different channels, invoking specific conversation flow when the link is opened,  or tying a user to a session or account in an external app.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">How to c<strong>reate an Entry Point Link</strong></h3>
+
+
+
+<p>Go to <strong>Menu</strong> &gt; <strong>Tools</strong> &gt; <strong>Entry Point Link</strong> Links and click the &#8220;Add&#8221; button</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="399" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-25-1024x399.png" alt="" class="wp-image-2334" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-25-1024x399.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-25-300x117.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-25-768x299.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-25.png 1284w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After you create your Entry Point Link click 3 dots and click the <strong>Get Link</strong> option. Depending on the channel the link will be like below</p>
+
+
+
+<p><strong>Messenger</strong>: https://m.me/FB_PAGE_ID?ref=<strong>giveaway</strong><br><strong>Instagram</strong>: https://ig.me/m/INSTAGRAM_USERNAME?ref=<strong>giveaway</strong><br><strong>WhatsApp</strong>: https://wa.me/PHONE_NUMBER?text=/<strong>giveaway</strong><br><strong>Telegram</strong>: https://t.me/BOT_USERNAME?start=<strong>giveaway</strong><br><strong>Viber</strong>: viber://pa?chatURI=BOT_USERNAME&amp;context=<strong>giveaway</strong><br><strong>WebChat</strong>: https://chatrace.com/bots/webchat/?p=CHATRACE_ACCOUNT_ID&amp;ref=<strong>giveaway</strong></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">How to save payload data to a custom field</h3>
+
+
+
+<p>When you create an Entry Point Link, you can specify that your link may contain data that is saved on the user custom field once the link is opened.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="462" src="https://docs.chatrace.com/wp-content/uploads/2022/06/image-26-1024x462.png" alt="" class="wp-image-2337" srcset="https://docs.chatrace.com/wp-content/uploads/2022/06/image-26-1024x462.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-26-300x135.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-26-768x346.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/06/image-26.png 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You can append any data to an Entry Point Link and when a user opens your link the data is saved into the user custom field. Append  &#8220;<strong>&#8211;payload</strong>” at the end of the link, where the payload is any data you want to save to a custom field. </p>
+
+
+
+<p>In the below example we used the Messenger link, but the concept is the same for all channels.</p>
+
+
+
+<pre class="wp-block-code"><code>https://m.https://m.me/FB_PAGE_ID?ref=<strong>giveaway</strong>--456</code></pre>
+
+
+
+<p class="has-text-align-left">In the above link, <strong>456</strong> is the payload. When a user opens this link 456 is saved to the customer field <strong>user_external_Identifier</strong>.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">How to pass multiple payloads in an Entry Point Link</h3>
+
+
+
+<p>You can append as many values and save them to multiple custom fields. In the below example we used the Messenger link, but the concept is the same for all channels.</p>
+
+
+
+<pre class="wp-block-code"><code>https://m.me/&lt;FB_PAGE_ID&gt;?ref=<strong>giveaway</strong>--value1--738--value2--514--value3</code></pre>
+
+
+
+<p><strong>value1</strong> will be saved on the custom field that you choose when you create the Entry >Point Link. <br><br>In the link above the <strong>738</strong> and <strong>514</strong> are custom fields IDs and <strong>value2 </strong>and <strong>value3</strong> are any data you want to save in the custom field <strong>738</strong> and <strong>514</strong> respectively.</p>
+
+
+
+<p>&#8211;id1&#8211;value1<br>or<br>&#8211;id1&#8211;value1&#8211;id2&#8211;value2<br>or<br>&#8211;id1&#8211;value1&#8211;id2&#8211;value2&#8211;id3&#8211;value3<br>or<br>&#8230;..</p>
+
+
+
+<p>To get a Custom Field ID, go to <strong>Menu</strong> &gt; <strong>Flows</strong> &gt; <strong>Custom Fields</strong>, click 3 dots, and click <strong>Get ID</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/ref-parameter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Omnichannel link</title>
+		<link>https://docs.chatrace.com/kb/omnichannel-link/</link>
+					<comments>https://docs.chatrace.com/kb/omnichannel-link/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 10 Sep 2022 10:10:10 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2503</guid>
+
+					<description><![CDATA[Omnichannel link allows your users to easily choose which channel they want to communicate with your business. If your business uses more than one channel]]></description>
+										<content:encoded><![CDATA[
+<p>Omnichannel link allows your users to easily choose which channel they want to communicate with your business.  If your business uses more than one channel to communicate with customers, instead of sharing all your channel&#8217;s links, you can share a single link omnichannel link, and your customers will choose the best best way they want to stay in touch with your business. This feature isn&#8217;t available on the FREE plan.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="473" height="1024" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-17-473x1024.png" alt="" class="wp-image-2504" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-17-473x1024.png 473w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-17-139x300.png 139w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-17-768x1663.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-17-710x1536.png 710w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-17.png 946w" sizes="auto, (max-width: 473px) 100vw, 473px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">How to get the omnichannel link</h4>
+
+
+
+<p>The omnichannel link is only available if the message type on your flow is set to &#8220;<strong>Omnichannel</strong>.&#8221; To the Omnichannel link, go to Menu &gt; Flows, find your flow, click the 3 dots and click &#8220;Get Link&#8221; button.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="443" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-18-1024x443.png" alt="" class="wp-image-2505" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-18-1024x443.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-18-300x130.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-18-768x332.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-18-1536x664.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-18.png 1917w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="464" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-19-1024x464.png" alt="" class="wp-image-2506" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-19-1024x464.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-19-300x136.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-19-768x348.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-19-1536x696.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-19.png 1913w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Set visible channels on an omnichannel link</h4>
+
+
+
+<p>By default, all channels connected to an account are visible on an omnichannel link. You can control which channels are visible per omnichannel link.</p>
+
+
+
+<p>The below link will show all connected channels.</p>
+
+
+
+<pre class="wp-block-code"><code>https:&#47;&#47;chatrace.com/bots/103753548422877/l/1649245210669</code></pre>
+
+
+
+<p>To show only specific channels, add a parameter <strong>c</strong> and pass each channel ID separated by a comma. For example, the below link will show only Messenger, WhatsApp, and Instagram.</p>
+
+
+
+<pre class="wp-block-code"><code>https:&#47;&#47;chatrace.com/bots/103753548422877/l/1649245210669?c=0,5,10</code></pre>
+
+
+
+<p><strong>Channels IDs</strong></p>
+
+
+
+<p>Messenger -&gt; 0<br>SMS -&gt; 2<br>WhatsApp -&gt; 5<br>Google Business Message -&gt; 7<br>Telegram -&gt; 8<br>Webchat -&gt; 9<br>Instagram -&gt; 10<br>Viber -&gt; 12</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Limitations</h4>
+
+
+
+<p>Currently, the <strong>Google Business Message</strong> channel isn&#8217;t supported by the Omnichannel links.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/omnichannel-link/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

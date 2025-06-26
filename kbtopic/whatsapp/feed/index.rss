@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WhatsApp &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/whatsapp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Apr 2025 08:33:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>WhatsApp &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get started with WhatsApp Automation on Whitelabel</title>
+		<link>https://docs.chatrace.com/kb/whatsapp-automation/</link>
+					<comments>https://docs.chatrace.com/kb/whatsapp-automation/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 30 May 2022 15:20:07 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2203</guid>
+
+					<description><![CDATA[This article is only valid for a Whitelabel that doesn&#8217;t have a Meta app with permission to onboard clients using WhatsApp Embedded Signup. Please stop]]></description>
+										<content:encoded><![CDATA[
+<p>This article is only valid for a Whitelabel that doesn&#8217;t have a Meta app with permission to onboard clients using <a href="https://developers.facebook.com/docs/whatsapp/embedded-signup/" target="_blank" rel="noreferrer noopener">WhatsApp Embedded Signup</a>. Please stop reading this article if you are a Chatrace user or you are a user of a Whitelabel that has approval to use WhatsApp Embedded Signup.</p>
+
+
+
+<p>We strongly recommend that all WhiteLabel owners create their own Meta app and get approval to quickly onboard clients using WhatsApp Embedded Signup. <span style="box-sizing: border-box; margin: 0px; padding: 0px;">This <a href="https://docs.chatrace.com/kb/setup-whatsapp-onboard-process-on-whitelabel/" target="_blank" rel="noreferrer noopener">documentation </a>teaches you how to create your </span>Meta app.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Business verification</h3>
+
+
+
+<p>Completing Facebook business verification isn&#8217;t required to start automating messages on WhatsApp. Without business verification, your business will be able to</p>
+
+
+
+<ul class="wp-block-list">
+<li>Respond to unlimited customer-initiated conversations.</li>
+
+
+
+<li>Send business-initiated conversations (template messages) to 50 unique customers in a rolling 24-hour period. You will need to complete business verification if you want to initiate more than 50 business-initiated conversations in a rolling 24-hour period. </li>
+</ul>
+
+
+
+<p>Businesses can initiate Business Verification (BV) only when they are ready to scale business-initiated conversations or request to become an Official Business Account. </p>
+
+
+
+<h3 class="wp-block-heading">Phone Numbers</h3>
+
+
+
+<p>When choosing a phone number, consider the following:</p>
+
+
+
+<ul class="wp-block-list">
+<li>If you want to use a phone number that is already being used in the WhatsApp app, you will have to delete your account on the WhatsApp app.</li>
+
+
+
+<li>The phone number used for WhatsApp automation can&#8217;t be used in the WhatsApp app.</li>
+
+
+
+<li>After registering the phone number on the WhatsApp Business Platform, you can still use it for everyday purposes, such as calling and receiving messages.</li>
+
+
+
+<li>You don&#8217;t need a real phone number for testing purposes. Facebook will give you a free phone number for testing.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Setup WhatsApp Cloud API</h3>
+
+
+
+<p>Currently, each business needs to create a Meta app in order to get access to the Official WhatsApp Business API. Follow the below steps to set up WhatsApp Cloud API for your Business.</p>
+
+
+
+<ol class="wp-block-list">
+<li><a href="https://developers.facebook.com/apps" target="_blank" rel="noreferrer noopener">Register as a Meta Developer</a></li>
+
+
+
+<li>Create a Meta App: Go to your list of <a href="https://developers.facebook.com/apps" target="_blank" rel="noreferrer noopener">Meta Apps</a>   > <strong>Create App</strong>. Select the &#8220;Business&#8221; type and follow the prompts on your screen.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="187" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-6-1024x187.png" alt="" class="wp-image-2211" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-6-1024x187.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-6-300x55.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-6-768x140.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-6.png 1410w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">1 &#8211; Click &#8220;Create App&#8221;</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="467" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-23-1024x467.png" alt="" class="wp-image-3970" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-23-1024x467.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-23-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-23-768x350.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-23.png 1494w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="676" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-24-1024x676.png" alt="" class="wp-image-3971" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-24-1024x676.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-24-300x198.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-24-768x507.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-24.png 1358w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="456" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-25-1024x456.png" alt="" class="wp-image-3972" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-25-1024x456.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-25-300x134.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-25-768x342.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-25.png 1416w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Specify any name for your App and select a Meta Business Account to be the app&#8217;s owner. If you don&#8217;t have a Business account yet, leave it unselected, and Meta will automatically create one for you later.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="439" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-8-1024x439.png" alt="" class="wp-image-2213" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-8-1024x439.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-8-300x129.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-8-768x329.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-8.png 1416w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>From the App Dashboard, scroll down to find the &#8220;WhatsApp&#8221; product and click <strong>Set up</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="604" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-9-1024x604.png" alt="" class="wp-image-2214" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-9-1024x604.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-9-300x177.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-9-768x453.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-9.png 1488w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Select a Meta Business Account that will own the WhatsApp Business account. If you don&#8217;t have a Business Account, Meta will automatically create one for you.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="604" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-10-1024x604.png" alt="" class="wp-image-2215" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-10-1024x604.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-10-300x177.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-10-768x453.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-10.png 1488w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="571" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-12-1024x571.png" alt="" class="wp-image-2218" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-12-1024x571.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-12-300x167.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-12-768x428.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-12.png 1327w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Click Configuration &gt; Configure a webhook</figcaption></figure>
+
+
+
+<p><strong>Callback URL for Whitelabel:</strong> https://SUBDOMAIN/webhooks/whatsapp</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="435" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-26-1024x435.png" alt="" class="wp-image-3976" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-26-1024x435.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-26-300x127.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-26-768x326.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-26-1536x653.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-26.png 1873w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Add a phone number for WhatsApp Automation</h2>
+
+
+
+<p>In the configuration page, scroll down until the <strong>Phone numbers</strong> session and click the <strong>Manage phone numbers</strong> button.</p>
+
+
+
+<p>Go to Chatrace and start the process of creating a new bot.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="441" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-27-1024x441.png" alt="" class="wp-image-3981" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-27-1024x441.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-27-300x129.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-27-768x331.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-27-1536x662.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-27.png 1835w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Provide information to create your WhatsApp business profile. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="597" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-17-1024x597.png" alt="" class="wp-image-2224" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-17-1024x597.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-17-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-17-768x448.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-17.png 1222w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Connect your WhatsApp Business Account to our platform</h2>
+
+
+
+<p>Please read this <a href="https://docs.chatrace.com/kb/connect-whatsapp-channel-using-meta-system-user/" target="_blank" rel="noreferrer noopener">documentation</a>.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/whatsapp-automation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to send a broadcast message to WhatsApp contacts</title>
+		<link>https://docs.chatrace.com/kb/how-to-send-broadcast-message-on-whatsapp/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-send-broadcast-message-on-whatsapp/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 02 Jun 2023 12:25:12 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2918</guid>
+
+					<description><![CDATA[The broadcast tool allows you to send messages to multiple contacts simultaneously in an automated manner. It helps businesses send their contacts announcements, discounts, updates,]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send whatsapp broadcast to your contacts" width="780" height="439" src="https://www.youtube.com/embed/UCsQruaEw8w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The broadcast tool allows you to send messages to multiple contacts simultaneously in an automated manner. It helps businesses send their contacts announcements, discounts, updates, and other notifications.</p>
+
+
+
+<p>To send the broadcast message to your WhatsApp contacts, create and publish your broadcast flow.</p>
+
+
+
+<h4 class="wp-block-heading">Create your broadcast flow</h4>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125753907-1024x495.png" alt="" class="wp-image-2921" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125753907-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125753907-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125753907-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125753907-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125753907.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h4 class="wp-block-heading">Send your flow to your contact list</h4>
+
+
+
+<p><strong>Navigate to Menu &gt;&gt; Broadcast</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125920003-1024x495.png" alt="" class="wp-image-2922" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125920003-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125920003-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125920003-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125920003-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_125920003.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>On Broadcast, Click on Send</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png" alt="" class="wp-image-2924" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select WhatsApp channel to proceed.&nbsp;</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-1024x495.png" alt="" class="wp-image-2925" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select active contact within 24hrs</strong> <em>(your message will only be sent to contacts that interacted with your bot in the last 24hrs).</em></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130632309-1024x495.png" alt="" class="wp-image-2926" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130632309-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130632309-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130632309-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130632309-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130632309.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select your broadcast flow and click send</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_131434138-1024x495.png" alt="" class="wp-image-2927" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_131434138-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_131434138-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_131434138-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_131434138-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_131434138.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Sending WhatsApp Template Message</h4>
+
+
+
+<p>To send messages to contacts that did not interact with your bot in the last 24hrs, you must send a WhatsApp Template Message. </p>
+
+
+
+<p>To send a WhatsApp template message on broadcast, create and publish your WhatsApp template message flow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-1-1024x495.png" alt="" class="wp-image-2928" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-1-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-1-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-1-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-1-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-1.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-2-1024x495.png" alt="" class="wp-image-2929" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-2-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-2-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-2-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-2-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-2.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Goto broadcast &gt;&gt; Select WhatsApp channel &gt;&gt; select Template Message</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png" alt="" class="wp-image-2924" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130122349.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-1024x495.png" alt="" class="wp-image-2925" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_130346143.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-3-1024x495.png" alt="" class="wp-image-2930" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-3-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-3-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-3-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-3-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-3.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select your Template Message flow and click send.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-4-1024x495.png" alt="" class="wp-image-2931" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-4-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-4-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-4-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-4-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-4.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-send-broadcast-message-on-whatsapp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp Commerce</title>
+		<link>https://docs.chatrace.com/kb/whatsapp-commerce/</link>
+					<comments>https://docs.chatrace.com/kb/whatsapp-commerce/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 15:24:23 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2559</guid>
+
+					<description><![CDATA[Businesses can showcase and share their products and services with customers directly inside WhatsApp for them to browse items and add to a cart without]]></description>
+										<content:encoded><![CDATA[
+<p>Businesses can showcase and share their products and services with customers directly inside WhatsApp for them to browse items and add to a cart without leaving the chat.</p>
+
+
+
+<p>WhatsApp commerce is fully integrated with Chatrace allowing your business to easily sell your products inside your WhatsApp bot. </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Setup</h2>
+
+
+
+<p>Follow the below guides</p>
+
+
+
+<p><strong>1</strong>  &#8211; <strong>Create a Meta Catalog</strong>: All products used on WhatsApp Commerce must belong to a Facebook Catalog. If a business already has a Facebook catalog set up, we suggest that you leverage that catalog for WhatsApp commerce use cases. If you don&#8217;t have a Facebook catalog, follow this <a rel="noreferrer noopener" href="https://www.facebook.com/business/help/1275400645914358?id=725943027795860" target="_blank">documentation</a> to learn how to create it.</p>
+
+
+
+<p><strong>2 &#8211;</strong> <strong>Connect Your Catalog to a WABA:</strong> Follow this <a href="https://www.facebook.com/business/help/158662536425974" target="_blank" rel="noreferrer noopener">documentation</a> to learn how to connect your Catalog to your WhatsApp Business Account. Please be aware that you can only connect one Catalog to a WABA. A Catalog can be connected to multiple WABA.</p>
+
+
+
+<p><strong>3 &#8211;</strong> <strong>Connect Chatrace to your Catalog</strong>: Navigate to Menu &gt; Tools &gt; Ecommerce and click the &#8220;Connect Meta Catalog&#8221; button and follow the instructions.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="612" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-1024x612.png" alt="" class="wp-image-2561" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-1024x612.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-300x179.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-768x459.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image.png 1366w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>4 &#8211; Link Chatrace products to Catalog products</strong>: We automatically import all products from Facebook Catalog when you connect your bot to Catalog, but Facebook doesn&#8217;t allow apps to get product SKUs from their API. All communications with WhatsApp Commerce are through SKU (Content ID in Facebook Catalog). You will need to manually copy the <strong>Content ID</strong> in Facebook Catalog and set it as SKU in Chatrace.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-1-1024x678.png" alt="" class="wp-image-2563" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-1-1024x678.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-1-300x199.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-1-768x508.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-1.png 1239w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="629" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-3-1024x629.png" alt="" class="wp-image-2565" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-3-1024x629.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-3-300x184.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-3-768x472.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-3.png 1201w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Copy the <strong>Content ID</strong> for each Product and edit your Chatrace Product. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="545" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-4-1024x545.png" alt="" class="wp-image-2566" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-4-1024x545.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-4-300x160.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-4-768x409.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-4.png 1248w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>For <strong>products with variants</strong>, you will need to repeat the above process for all variants. Please be aware that inside the WhatsApp bot, only variants can be sent due to WhatsApp limitations. You can&#8217;t send the main product that contains variants.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="604" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-5-1024x604.png" alt="" class="wp-image-2567" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-5-1024x604.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-5-300x177.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-5-768x453.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-5.png 1492w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="675" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-6-1024x675.png" alt="" class="wp-image-2569" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-6-1024x675.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-6-300x198.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-6-768x506.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-6.png 1244w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Send products during a conversation.</h4>
+
+
+
+<p><strong>1 &#8211; Collection</strong>:  You can use the <strong>Collection</strong> element on the flow builder to send a product to a user. Please be aware that with the collection, you can&#8217;t send products with variants on WhatsApp. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="675" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-8-1024x675.png" alt="" class="wp-image-2578" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-8-1024x675.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-8-300x198.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-8-768x506.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-8.png 1427w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>2 &#8211; Send Products</strong>: if you choose <strong>WhatsApp as the </strong>message type, you see the <strong>Send Products</strong> element. The Send Product element will only show products that are ready to be sent in WhatsApp, including a variant of a product. Please be aware that if a product or variant doesn&#8217;t have an SKU defined, it can&#8217;t be sent to users on WhatsApp.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="684" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-11-1024x684.png" alt="" class="wp-image-2591" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-11-1024x684.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-11-300x200.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-11-768x513.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-11.png 1408w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>3 &#8211; Send products from the inbox</strong></p>
+
+
+
+<p>From the inbox, you can easily select products and send the user.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="544" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-12-1024x544.png" alt="" class="wp-image-2592" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-12-1024x544.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-12-300x159.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-12-768x408.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-12.png 1358w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Platform behavior when a user asks a question about a product</h4>
+
+
+
+<p>1 &#8211; The question and the product is shown in the Inbox.</p>
+
+
+
+<p>2 &#8211; The Platform triggers the &#8220;<strong>User Asked About a Product</strong>&#8220;. You can learn more about this new trigger in the session &#8220;Trigger and Actions&#8221; on this documentation.</p>
+
+
+
+<p>3 &#8211; Automated responses are triggered. Please be aware that the default reply is triggered if the bot does not know how to respond to the user&#8217;s question.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Platform behavior when a user sends a shopping cart</h4>
+
+
+
+<p>1 &#8211; The shopping is shown in the Inbox.</p>
+
+
+
+<p>2 &#8211; The Platform triggers the &#8220;<strong>WhatsApp Shopping Cart Sent</strong>&#8220;. You can use this trigger to notify admins.</p>
+
+
+
+<p>3 &#8211; The user receives a message with the shopping cart information ready to checkout.</p>
+
+
+
+<p>Please be aware that an order is created only after the user completes the checkout. If you want to create an order every time a customer sends a shopping cart, use the trigger &#8220;<strong>WhatsApp Shopping Cart Sent</strong>&#8221; and use the E-commerce action &#8220;Mark Order As Paid&#8221;.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Checkout</h4>
+
+
+
+<p>Chatrace has a built checkout page that allows your business to accept payments using Stripe, Paypal, or Razorpay. After the user sends a Shopping cart in WhatsApp, our platform will automatically ask the user to checkout. You can <a href="https://docs.chatrace.com/kb/how-to-use-your-own-custom-checkout-page/" target="_blank" rel="noreferrer noopener">build your own checkout page</a> or use a flow as a checkout option. </p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Abandoned cart recovery message</h4>
+
+
+
+<p>Our platform will automatically send an abandoned cart recovery message if the user sends a shopping cart and doesn&#8217;t checkout within a certain amount of time based on your configuration. You can disable or change the delay of the abandoned cart recovery message by navigating to Tools &gt; Ecommerce &gt; Settings &gt; General  &gt; <strong>Abandoned cart message</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="428" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-9-1024x428.png" alt="" class="wp-image-2583" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-9-1024x428.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-9-300x125.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-9-768x321.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-9.png 1248w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You can use Triggers and Actions if you want to have more control over the abandoned cart recovery message. </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Product discovery</h2>
+
+
+
+<p>By default, your product names are searchable, meaning that your customers can send messages to automatically find products. We automatically handle this process for you with our built-in AI. You can disable searching at the product level or at the account level. Products with variants aren&#8217;t searchable inside WhatsApp. To disable search in your account navigate to Tools &gt; Ecommerce &gt; Settings &gt; General &gt; <strong>Search Products</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="650" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-10-1024x650.png" alt="" class="wp-image-2584" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-10-1024x650.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-10-300x190.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-10-768x487.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-10.png 1247w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Triggers and Actions</h2>
+
+
+
+<p>All triggers related to e-commerce work in WhatsApp commerce except &#8220;<strong>Product Add to Cart</strong>&#8221; and &#8220;<strong>Category Add to Cart</strong>&#8220;. Also, we introduced two new triggers that work only with WhatsApp commerce. </p>
+
+
+
+<p><strong>WhatsApp Shopping Cart Sent</strong>: it is triggered when a user sends a shopping cart to the business. You could use this trigger to notify admins.</p>
+
+
+
+<p><strong>User Asked About a Product</strong>: it is triggered when a user asks a question about a product. Use the system field {{product_id}} or {{product_name}} to know with product the user is referring to.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="537" src="https://docs.chatrace.com/wp-content/uploads/2022/10/image-7-1024x537.png" alt="" class="wp-image-2573" srcset="https://docs.chatrace.com/wp-content/uploads/2022/10/image-7-1024x537.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-7-300x157.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-7-768x403.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-7-1536x806.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/10/image-7.png 1594w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/whatsapp-commerce/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to get user&#8217;s location on WhatsApp, Viber and Telegram</title>
+		<link>https://docs.chatrace.com/kb/how-to-get-users-location/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-get-users-location/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2023 23:10:21 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2715</guid>
+
+					<description><![CDATA[Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to get your customer&#8217;s location at one point or another in the customer journey. Chatrace provides two system fields you can use to perform actions on the contact&#8217;s geological data.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to get users location on whatsapp" width="780" height="439" src="https://www.youtube.com/embed/5_IzaMg73u8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To get the user’s location, follow the steps below</p>
+
+
+
+<ul class="wp-block-list">
+<li>Request the user’s location</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="484" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png" alt="" class="wp-image-2725" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-768x363.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6.png 1326w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh5.googleusercontent.com/t31bw7GIvWlw3rqt3l1vDTU3jVBwJKD-LCtiSy3O3WcJkyio5UXhR79VjH9mNKj-CrxYTyNy68gLWpVUOy58KQm8VIJyO_ti-NFwUCcoTPVv_SdbB5fKKHKcQ3w0FRtU-MyVrlYn6_bke8e7EDLSgHc" alt=""/></figure>
+
+
+
+<p>Once the user shares his/her location, the user’s entire geographical data (location) will be saved in the custom field you used on the Get User Data block.</p>
+
+
+
+<p><strong> </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>You can access the entire geographical data (location) in the custom field you used on the Get User Data block (You can access both latitude and longitude)</li>
+
+
+
+<li>You can access the ‘latitude’ of the last location the user/contact shared on {{last_latitude}}</li>
+
+
+
+<li>You can access the longitude of the last location the user/contact shared on {{last_longitude}}&nbsp;</li>
+</ul>
+
+
+
+<p><strong>Advance</strong></p>
+
+
+
+<p>To&nbsp; get the URL of the user’s location, use the Url below</p>
+
+
+
+<p><a href="https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C'{{last_longitude}} ">https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C{{last_longitude}} </a></p>
+
+
+
+<p><strong><em>Note: The URL will work based on the last location shared by the user/contact.</em></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-get-users-location/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to import contacts?</title>
+		<link>https://docs.chatrace.com/kb/import-contacts/</link>
+					<comments>https://docs.chatrace.com/kb/import-contacts/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 03:36:31 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=242</guid>
+
+					<description><![CDATA[The &#8216;Import Contact&#8217; tool is powerful and allows you to import contacts into your Chatrace account. With this tool, you can easily import WhatsApp contacts,]]></description>
+										<content:encoded><![CDATA[
+<p>The &#8216;Import Contact&#8217; tool is powerful and allows you to import contacts into your Chatrace account. With this tool, you can easily import WhatsApp contacts, SMS contacts and also import contacts from other chatbot platforms.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to import Sms and Whatsapp contact" width="780" height="439" src="https://www.youtube.com/embed/TTCJteDWx84?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To Import Contact, go to the &#8216;Contact&#8217; section and click on action >> Import contacts.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="558" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-1024x558.png" alt="" class="wp-image-2740" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-1024x558.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-300x163.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-768x418.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279-1536x837.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_234550279.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Import contacts from other chatbot platforms</h4>
+
+
+
+<p><strong>To imports contacts from Manychat, Select Manychat on the source option</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-1024x498.png" alt="" class="wp-image-2741" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235027463.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>To import contacts from other chatbot platforms different from Manychat, set the source as Other messenger bot platform and upload PSIDs</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-1024x498.png" alt="" class="wp-image-2742" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-20_235519809.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Import WhatsApp &amp; SMS contacts</h4>
+
+
+
+<p>To import WhatsApp contacts or SMS contacts, Set the source to WhatsApp contacts or Phone (For SMS), Set the country code, and upload a .csv or .xlsx file. The &#8216;More Options&#8217; option allows you to set a custom field or add a tag to the contacts. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="500" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-1024x500.png" alt="" class="wp-image-2743" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-1024x500.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-768x375.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7-1536x750.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-7.png 1850w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-1024x494.png" alt="" class="wp-image-2744" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8-1536x742.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-8.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/import-contacts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to send a WhatsApp Template Message from the inbox?</title>
+		<link>https://docs.chatrace.com/kb/how-to-send-a-whatsapp-template-message-from-the-inbox/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-send-a-whatsapp-template-message-from-the-inbox/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 21:16:48 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3044</guid>
+
+					<description><![CDATA[This feature allows you to send WhatsApp Template Messages directly from the Inbox. Send WhatsApp Template Message from Inbox Click on send flow icon >>]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to send WhatsApp Template Messages directly from the Inbox.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send template message from Inbox" width="780" height="439" src="https://www.youtube.com/embed/gNR7c4ETBYE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Send WhatsApp Template Message from Inbox</h4>
+
+
+
+<p><strong>Click on send flow icon >> select Template Message >> select WhatsApp Template Message of your choice >> Click send.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-1024x495.png" alt="" class="wp-image-3153" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-25.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-1024x495.png" alt="" class="wp-image-3154" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221043619.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-1024x495.png" alt="" class="wp-image-3156" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221224994.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-1024x495.png" alt="" class="wp-image-3158" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-13_221414641.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-send-a-whatsapp-template-message-from-the-inbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Connect WhatsApp channel using Meta System User</title>
+		<link>https://docs.chatrace.com/kb/connect-whatsapp-channel-using-meta-system-user/</link>
+					<comments>https://docs.chatrace.com/kb/connect-whatsapp-channel-using-meta-system-user/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 14:50:01 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3936</guid>
+
+					<description><![CDATA[Create system user Assign WhatsApp Business Account to a system user Generate an access token for a system user On the next screen, select the]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Create system user</h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-12.png" alt="" class="wp-image-3937" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-12.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-12-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-12-768x365.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-13.png" alt="" class="wp-image-3938" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-13.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-13-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-13-768x365.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-14.png" alt="" class="wp-image-3939" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-14.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-14-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-14-768x365.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Assign WhatsApp Business Account to a system user</h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-15.png" alt="" class="wp-image-3940" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-15.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-15-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-15-768x365.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-16.png" alt="" class="wp-image-3941" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-16.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-16-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-16-768x365.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Generate an access token for a system user</h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-17.png" alt="" class="wp-image-3942" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-17.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-17-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-17-768x365.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="898" height="652" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-18.png" alt="" class="wp-image-3943" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-18.png 898w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-18-300x218.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-18-768x558.png 768w" sizes="auto, (max-width: 898px) 100vw, 898px" /></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="884" height="630" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-19.png" alt="" class="wp-image-3944" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-19.png 884w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-19-300x214.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-19-768x547.png 768w" sizes="auto, (max-width: 884px) 100vw, 884px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>On the next screen, select the two required permissions: <strong>whatsapp_business_messaging</strong> and <strong>whatsapp_business_management</strong>.</p>
+
+
+
+<h2 class="wp-block-heading">Get WhatsApp Business Account ID (WABA)</h2>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-22.png" alt="" class="wp-image-3950" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-22.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-22-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-22-768x365.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Connect WhatsApp using system user.</h2>
+
+
+
+<p>Don&#8217;t worry if you don&#8217;t see the two checkboxes below. Everyone should see a screen similar to the image below.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="599" src="https://docs.chatrace.com/wp-content/uploads/2025/04/image-20.png" alt="" class="wp-image-3945" srcset="https://docs.chatrace.com/wp-content/uploads/2025/04/image-20.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-20-300x175.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/04/image-20-768x449.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/connect-whatsapp-channel-using-meta-system-user/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

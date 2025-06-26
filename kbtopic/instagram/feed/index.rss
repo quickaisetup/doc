@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Instagram &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/instagram/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Jul 2023 11:09:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Instagram &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get started with Instagram Automation</title>
+		<link>https://docs.chatrace.com/kb/instagram-automation/</link>
+					<comments>https://docs.chatrace.com/kb/instagram-automation/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 14:16:47 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=1883</guid>
+
+					<description><![CDATA[Instagram Automation allows Instagram Businesses to use a chatbot to manage their Instagram DMs. An Instagram Business Account must be connected to a Facebook Page for Instagram automation]]></description>
+										<content:encoded><![CDATA[
+<p>Instagram Automation allows Instagram Businesses to use a chatbot to manage their Instagram DMs. An Instagram Business Account must be connected to a Facebook Page for Instagram automation to work.</p>
+
+
+
+<p></p>
+
+
+
+<p>Instagram Automation is available for the following accounts:</p>
+
+
+
+<ul class="wp-block-list" style="line-height:1">
+<li style="line-height:2">Any Instagram Professional account for a business.</li>
+
+
+
+<li style="line-height:1">Any Instagram Professional account for a Creator.</li>
+</ul>
+
+
+
+<div style="height:57px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>To manage Instagram messages via Chatrace, Instagram business accounts must enable the connected tools to toggle under message control settings. </p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="665" src="https://docs.chatrace.com/wp-content/uploads/2021/07/161856968_298941651650715_9153695413459699473_n-1024x665.png" alt="" class="wp-image-1945" srcset="https://docs.chatrace.com/wp-content/uploads/2021/07/161856968_298941651650715_9153695413459699473_n-1024x665.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/07/161856968_298941651650715_9153695413459699473_n-300x195.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/07/161856968_298941651650715_9153695413459699473_n-768x499.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/07/161856968_298941651650715_9153695413459699473_n.png 1340w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Connect your Instagram Professional account to Chatrace.</h4>
+
+
+
+<p>Go to the <a rel="noreferrer noopener" href="https://chatrace.com/en/new-bot" target="_blank">Sign-Up</a> page and choose Instagram.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="632" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-8-1024x632.png" alt="" class="wp-image-2482" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-8-1024x632.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-8-300x185.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-8-768x474.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-8.png 1397w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">How to build Instagram flows </h4>
+
+
+
+<p>The process of building flows for all channels is the same. We recommend you always use the <strong>Omnichannel</strong> message type.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="559" src="https://docs.chatrace.com/wp-content/uploads/2022/09/image-10-1024x559.png" alt="" class="wp-image-2484" srcset="https://docs.chatrace.com/wp-content/uploads/2022/09/image-10-1024x559.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-10-300x164.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-10-768x419.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/09/image-10.png 1452w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><br></p>
+
+
+
+<h4 class="wp-block-heading" id="limitations">Important Notes</h4>
+
+
+
+<ul class="wp-block-list">
+<li>Your Instagram Business account must be connected to a Facebook Page.</li>
+
+
+
+<li>Group threads (conversations with more than 2 participants) are not supported.</li>
+
+
+
+<li>Instagram Comment Automation tool doesn&#8217;t work on Instagram Ads.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/instagram-automation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to auto-reply to comments on Facebook/Instagram posts</title>
+		<link>https://docs.chatrace.com/kb/facebook-comments/</link>
+					<comments>https://docs.chatrace.com/kb/facebook-comments/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2020 18:05:03 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=582</guid>
+
+					<description><![CDATA[A new way to turn your Facebook page audience into customers. Yes, you can configure your Messenger chatbot to auto-comment on users&#8217; comments on your]]></description>
+										<content:encoded><![CDATA[
+<p>A new way to turn your Facebook page audience into customers. Yes, you can configure your Messenger chatbot to auto-comment on users&#8217; comments on your post &amp; automatically reply to users in Messenger inbox when they comment on your page post.</p>
+
+
+
+<p>You can set up Facebook comment automation on a specific page post, all page posts, reels, or Fb Ads. This tool helps your business to increase engagement with your audience.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to use Facebook comment automation tool" width="780" height="439" src="https://www.youtube.com/embed/65VGIohDYXo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to use Instagram comment automation tool" width="780" height="439" src="https://www.youtube.com/embed/dyIy-sD0CaA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To use this tool, Goto Tools > Facebook Comment.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-1024x495.png" alt="" class="wp-image-2892" srcset="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h2 class="wp-block-heading">Create New Facebook Comment  Automation Tool</h2>
+
+
+
+<p>On the Facebook comment automation tool section, click the “Add Post” button above the table and name your Facebook comment automation tool. You will get a page similar to the image below.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-1024x495.png" alt="" class="wp-image-2893" srcset="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>In this setup window,</p>
+
+
+
+<p><strong>Tracks Comments on &#8211;</strong> Choose the post on which you want to use this comment tool.</p>
+
+
+
+<ul class="wp-block-list">
+<li><em>All Posts &#8211; The comment</em> tool will work on all your Facebook page posts.</li>
+
+
+
+<li><em>Specific Posts &#8211;</em> Comment tool work on the specific post selected</li>
+</ul>
+
+
+
+<p><strong>Reply To &#8211;</strong> This specifies the comment your Facebook comment automation tool will reply to.</p>
+
+
+
+<ul class="wp-block-list">
+<li><em>All comments &#8211;</em> The Facebook comment automation will reply to ALL the comments in the post</li>
+
+
+
+<li><em>Comments equal to &#8211;</em> The Facebook comment automation tool will ONLY reply to comments that match the keywords you define.</li>
+
+
+
+<li><em>Comments that contain</em>: The Facebook comment automation will ONLY reply to comments that contain the keywords you define.</li>
+</ul>
+
+
+
+<p><strong>Private Reply to comment &#8211;</strong> This is the message that will be sent to the user on Messenger. You can reply with a flow, product, plain text, events, elections, news, and vendors.</p>
+
+
+
+<p><strong>Publicly Reply to Comment</strong> &#8211; Your bot will automatically reply to the user&#8217;s comment with this message. Add multiple variations and your bot will reply with any of the variations.</p>
+
+
+
+<p><strong>More Options (Optional) &#8211;</strong> Even though this additional setup steps optional, it will help you to give additional power to your Messenger chatbot using this Facebook comment tool</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="394" src="https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-1024x394.png" alt="" class="wp-image-1452" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-1024x394.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-300x115.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-768x295.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/fct3.png 1189w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<ol class="wp-block-list">
+<li>If you do not want your Facebook comment automation to work on comments with specific keywords, define the keywords, and your Facebook automation will not work on comments containing these keywords.</li>
+
+
+
+<li>You can configure Facebook comment automation to reply to people who are not your chatbot subscriber.</li>
+
+
+
+<li> Like the user&#8217;s comment automatically.</li>
+
+
+
+<li>Configure your Facebook comment automation to reply to users who already commented on your previous Facebook posts.</li>
+
+
+
+<li>Set the Facebook comment automation to reply to &#8216;replies to user&#8217;s comment&#8217; in the comment section.   </li>
+</ol>
+
+
+
+<p>Hope this article helps you understand how to use the “Facebook Comment Automation” tool on the Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base, ask your question in our <a href="https://web.facebook.com/groups/chatrace.automations" target="_blank" rel="noreferrer noopener">community group</a>, or <a href="https://m.me/chatrace.automations" target="_blank" rel="noreferrer noopener">contact our support</a> to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/facebook-comments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to auto-reply to Instagram story replies</title>
+		<link>https://docs.chatrace.com/kb/how-to-auto-reply-to-instagram-story-replies/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-auto-reply-to-instagram-story-replies/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 08 Jun 2023 12:34:23 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2964</guid>
+
+					<description><![CDATA[This feature allows you to automatically reply to replies on your Instagram Story. Create Instagram Story Automation Click on Tools &#62;&#62; Instagram Story Automation &#62;&#62;]]></description>
+										<content:encoded><![CDATA[
+<p>This feature allows you to automatically reply to replies on your Instagram Story. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to set up Instagram story automation" width="780" height="439" src="https://www.youtube.com/embed/iTpRGKEQrcM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Create Instagram Story Automation</h4>
+
+
+
+<p><strong>Click on Tools &gt;&gt; Instagram Story Automation &gt;&gt; Click on &#8216;Add New&#8217; &amp; name your Instagram Story Automation.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-52-1024x495.png" alt="" class="wp-image-3221" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-52-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-52-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-52-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-52-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-52.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_224911261-1024x495.png" alt="" class="wp-image-3222" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_224911261-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_224911261-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_224911261-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_224911261-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_224911261.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>You can track replies on all your Instagram Stories or a Specific Story.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_225347644-1024x495.png" alt="" class="wp-image-3224" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_225347644-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_225347644-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_225347644-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_225347644-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_225347644.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>You can reply with a Text or with a Flow.</strong></p>
+
+
+
+<p><strong><em>Reply with Text</em></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-54-1024x495.png" alt="" class="wp-image-3225" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-54-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-54-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-54-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-54-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-54.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><em>Reply with a Flow</em></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-55-1024x495.png" alt="" class="wp-image-3226" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-55-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-55-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-55-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-55-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-55.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_230455004-1024x495.png" alt="" class="wp-image-3228" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_230455004-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_230455004-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_230455004-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_230455004-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_230455004.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>After setting up your Instagram Story Automation, click on Save &amp; Turn ON your Instagram Story Automation.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231313762-1024x495.png" alt="" class="wp-image-3239" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231313762-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231313762-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231313762-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231313762-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231313762.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231522412-1024x495.png" alt="" class="wp-image-3240" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231522412-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231522412-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231522412-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231522412-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-14_231522412.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-auto-reply-to-instagram-story-replies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to auto-reply to Instagram Story Mention</title>
+		<link>https://docs.chatrace.com/kb/how-to-automatically-respond-to-instagram-story-mention/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-automatically-respond-to-instagram-story-mention/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 15 Feb 2023 20:31:25 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2703</guid>
+
+					<description><![CDATA[Instagram Story Mention Reply is an important feature that helps businesses automatically reply/send a message whenever someone mentions your business in their Instagram story. Setup]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Instagram Story Mention Reply</strong> is an important feature that helps businesses automatically reply/send a message whenever someone mentions your business in their Instagram story.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to Create Story Mention Reply for Instagram" width="780" height="439" src="https://www.youtube.com/embed/gB4C0jU2x3U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Setup Instagram Story Mention Automation</h4>
+
+
+
+<p>Follow the steps below to set up Instagram Story Mention on your Instagram Bot.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Create your Instagram Story Mention Flow (Message type must be &#8216;Instagram&#8217; &amp; make sure you publish your flow)</strong></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="446" src="https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-5-1024x446.png" alt="" class="wp-image-2704" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-5-1024x446.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-5-300x131.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-5-768x335.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-5.png 1343w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Goto settings &gt;&gt; Channel &gt;&gt; Instagram&gt;&gt; Instagram Mention Reply<br></strong><em>Select the flow you created for Instagram Story Mention and click save</em></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="399" src="https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-6-1024x399.png" alt="" class="wp-image-2705" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-6-1024x399.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-6-300x117.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-6-768x299.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/Screenshot-6.png 1342w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-automatically-respond-to-instagram-story-mention/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to set up Conversation starters?</title>
+		<link>https://docs.chatrace.com/kb/conversation-starters/</link>
+					<comments>https://docs.chatrace.com/kb/conversation-starters/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 09:40:22 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=546</guid>
+
+					<description><![CDATA[Conversation Starters allow users to start a conversation with a business with a list of frequently asked questions. Users will see questions about your business]]></description>
+										<content:encoded><![CDATA[
+<p>Conversation Starters allow users to start a conversation with a business with a list of frequently asked questions. Users will see questions about your business instead of the generic &#8220;Get Started&#8221; button. We recommend you use the Conversation Starters feature to help your users/audience start a conversation with your business.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to create Conversation Starter" width="780" height="439" src="https://www.youtube.com/embed/vReLo8ZQnwE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">How to create Conversation Starters?</h4>
+
+
+
+<p>To create a Conversation Starter for your business, Navigate to Menu &gt; Settings &gt; Channels (Messenger/Instagram) &gt; Conversation Starter and click the “Edit” button.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="460" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-1024x460.png" alt="" class="wp-image-2752" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-1024x460.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-300x135.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-768x345.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-1536x690.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258.png 1896w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>Input your business&#8217;s frequently asked questions, set the response flow, click on the + icon to add it and click on save on the top right corner.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-1024x498.png" alt="" class="wp-image-2753" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-1024x497.png" alt="" class="wp-image-3071" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540.png 1889w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/conversation-starters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to setup bot Persistent Menu?</title>
+		<link>https://docs.chatrace.com/kb/persistent-menu/</link>
+					<comments>https://docs.chatrace.com/kb/persistent-menu/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 09:44:58 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=550</guid>
+
+					<description><![CDATA[The persistent menu allows you to have an always-on user interface element inside your bot conversations. This is an easy way to help people discover]]></description>
+										<content:encoded><![CDATA[
+<p>The persistent menu allows you to have an always-on user interface element inside your bot conversations. This is an easy way to help people discover and access the core functionality of your bot at any point in the conversation. </p>
+
+
+
+<p>The menu is always available to users. This menu should contain the top-level actions that users can use at any time. Having a menu easily communicates the basic capabilities of your chatbot for beginners and returned users.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="673" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-1024x673.png" alt="" class="wp-image-2432" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-1024x673.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-300x197.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-768x504.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-10.png 1125w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Supported Channels</h4>
+
+
+
+<p>Currently, the persistent menu is supported on Messenger, Instagram, and Webchat.</p>
+
+
+
+<h4 class="wp-block-heading">Creating the Persistent Menu</h4>
+
+
+
+<p>Navigate to Settings > Channels (Messenger, Instagram) > Persistent Menu</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="602" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-1024x602.png" alt="" class="wp-image-2433" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-1024x602.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-300x176.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-768x452.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-11.png 1459w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After clicking the “edit” button on the persistent menu settings, you will get a setup wizard similar to the image below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="403" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-1024x403.png" alt="" class="wp-image-2434" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-1024x403.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-300x118.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-768x302.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-12.png 1461w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>If you don&#8217;t want your users to send a text message, you can disable the message composer by unchecking the &#8220;<strong>Allow Keyboard Input</strong>&#8220;. </p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"></h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/persistent-menu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

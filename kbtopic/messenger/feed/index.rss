@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Messenger &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/messenger/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Apr 2025 23:51:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Messenger &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to setup Welcome Message for Messenger</title>
+		<link>https://docs.chatrace.com/kb/welcome-message/</link>
+					<comments>https://docs.chatrace.com/kb/welcome-message/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 09:27:38 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=537</guid>
+
+					<description><![CDATA[Welcome Message is the first message the user will receive from your Messenger bot. This message is sent when the user interacts for the first]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome Message is the first message the user will receive from your Messenger bot. This message is sent when the user interacts for the first time with the Bot by clicking on the &#8216;Get Started&#8217; button. Only Messenger Channel support the Welcome Message.</p>
+
+
+
+<p></p>
+
+
+
+<p>The below image is the perfect example of how a welcome message looks like,</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/jMw7b663B8GRiTzXpHmEIKYM8NUHbsvQVvpel74jinzh-98sFgvDv-lcYmAHkc_Bvt5lKfDWW3DKIFiwR4Rnfm2MIwAQZL5q862A1qyfD8fKYC8XSLcjBAXheaut6QHk-j63PyDA" alt="Messenger Chatbot Welcome Message"/></figure></div>
+
+
+
+<p>The first message (grey color) on the right side image, is the welcome message.<br></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>Follow the below steps to set the Welcome Message for your Messenger bot</p>
+
+
+
+<p>1 &#8211; Create your welcome flow</p>
+
+
+
+<p>2 &#8211; Navigate to Menu > Settings > Channels > Messenger > Welcome Message. <br>Select the flow that you created in 1.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="904" height="160" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_81.png" alt="" class="wp-image-1734" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_81.png 904w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_81-300x53.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_81-768x136.png 768w" sizes="(max-width: 904px) 100vw, 904px" /></figure></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>Watch this video tutorial to learn how to create one <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://docs.chatrace.com/wp-content/uploads/2021/07/How-to-create-a-welcome-message-in-chatrace.mp4"></video></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/welcome-message/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Core components of Messenger bot</title>
+		<link>https://docs.chatrace.com/kb/getting-started/</link>
+					<comments>https://docs.chatrace.com/kb/getting-started/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2020 13:11:00 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=454</guid>
+
+					<description><![CDATA[After connecting your Facebook page on Chatrace platform, you can start building your bot for your business. To “Get Start”, you need to configure three]]></description>
+										<content:encoded><![CDATA[
+<p>After connecting your Facebook page on Chatrace platform, you can start building your bot for your business.</p>
+
+
+
+<p>To “<strong>Get Start</strong>”, you need to configure three basic things for every bot,</p>
+
+
+
+<ol class="wp-block-list"><li>Greeting Message</li><li>Welcome Message</li><li>Ice Breakers</li></ol>
+
+
+
+<p>These are the first messages that will be shown to your audience when they interact with your bot. So, you need to write that in a clear, comprehensive and customised manner to make your user know what is your Facebook page about.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="1920" height="1080" src="https://docs.chatrace.com/wp-content/uploads/2020/03/Trio-Messenger.png" alt="Getting Started with Messenger Chatbot" class="wp-image-715" srcset="https://docs.chatrace.com/wp-content/uploads/2020/03/Trio-Messenger.png 1920w, https://docs.chatrace.com/wp-content/uploads/2020/03/Trio-Messenger-300x169.png 300w, https://docs.chatrace.com/wp-content/uploads/2020/03/Trio-Messenger-1024x576.png 1024w, https://docs.chatrace.com/wp-content/uploads/2020/03/Trio-Messenger-768x432.png 768w, https://docs.chatrace.com/wp-content/uploads/2020/03/Trio-Messenger-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure></div>
+
+
+
+<p>Check this knowledge base article to learn how to configure greeting message for your Messenger chatbot:</p>
+
+
+
+<p class="has-text-align-center"><em><a href="https://chatrace.comm/docs/kb/greeting-message/" class="rank-math-link">Greeting Message &#8211; Greet your Subscribers with Fun</a></em></p>
+
+
+
+<p>Also, check this knowledge base article to know how to configure a welcome message for your Messenger chatbot: <em><a class="rank-math-link" href="https://docs.chatrace.com/kb/welcome-message/">Welcome Message for your Messenger Chatbot</a></em></p>
+
+
+
+<p>This knowledgebase article will help you to understand more about the icebreakers and how it can be used for your Messenger chatbot: <em><a href="https://docs.chatrace.com/kb/icebreaker/" class="rank-math-link">Icebreakers &#8211; Way to start the conversation</a></em></p>
+
+
+
+<p>Along with this, there are other features need to configure also. They are,</p>
+
+
+
+<ol class="wp-block-list"><li>Persistent Menu</li><li>Default Reply</li></ol>
+
+
+
+<p>The persistent menu serves as a navigation for your Messenger chatbot like the menu that you had on your website. Check this article to know more: <a href="https://chatrace.comm/docs/kb/persistent-menu/" class="rank-math-link"><em>Persistent Menu</em></a></p>
+
+
+
+<p>Also, don&#8217;t forget to take a look at the default reply feature in Chatrace platform: <em><a class="rank-math-link" href="https://chatrace.comm/docs/kb/default-reply/">Default Reply &#8211; Make Chatbot sounds more Human</a></em></p>
+
+
+
+<p>These features have to be configured &amp; utilised well to get the best first impression on your Messenger chatbot.</p>
+
+
+
+<p>Make use of it and attract your audience with the first impression to make it more fun &amp; engaging.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/getting-started/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to auto-reply to comments on Facebook/Instagram posts</title>
+		<link>https://docs.chatrace.com/kb/facebook-comments/</link>
+					<comments>https://docs.chatrace.com/kb/facebook-comments/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2020 18:05:03 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=582</guid>
+
+					<description><![CDATA[A new way to turn your Facebook page audience into customers. Yes, you can configure your Messenger chatbot to auto-comment on users&#8217; comments on your]]></description>
+										<content:encoded><![CDATA[
+<p>A new way to turn your Facebook page audience into customers. Yes, you can configure your Messenger chatbot to auto-comment on users&#8217; comments on your post &amp; automatically reply to users in Messenger inbox when they comment on your page post.</p>
+
+
+
+<p>You can set up Facebook comment automation on a specific page post, all page posts, reels, or Fb Ads. This tool helps your business to increase engagement with your audience.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="How to use Facebook comment automation tool" width="780" height="439" src="https://www.youtube.com/embed/65VGIohDYXo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to use Instagram comment automation tool" width="780" height="439" src="https://www.youtube.com/embed/dyIy-sD0CaA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To use this tool, Goto Tools > Facebook Comment.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-1024x495.png" alt="" class="wp-image-2892" srcset="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211240141.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h2 class="wp-block-heading">Create New Facebook Comment  Automation Tool</h2>
+
+
+
+<p>On the Facebook comment automation tool section, click the “Add Post” button above the table and name your Facebook comment automation tool. You will get a page similar to the image below.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-1024x495.png" alt="" class="wp-image-2893" srcset="https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/05/image_2023-05-21_211830158.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>In this setup window,</p>
+
+
+
+<p><strong>Tracks Comments on &#8211;</strong> Choose the post on which you want to use this comment tool.</p>
+
+
+
+<ul class="wp-block-list">
+<li><em>All Posts &#8211; The comment</em> tool will work on all your Facebook page posts.</li>
+
+
+
+<li><em>Specific Posts &#8211;</em> Comment tool work on the specific post selected</li>
+</ul>
+
+
+
+<p><strong>Reply To &#8211;</strong> This specifies the comment your Facebook comment automation tool will reply to.</p>
+
+
+
+<ul class="wp-block-list">
+<li><em>All comments &#8211;</em> The Facebook comment automation will reply to ALL the comments in the post</li>
+
+
+
+<li><em>Comments equal to &#8211;</em> The Facebook comment automation tool will ONLY reply to comments that match the keywords you define.</li>
+
+
+
+<li><em>Comments that contain</em>: The Facebook comment automation will ONLY reply to comments that contain the keywords you define.</li>
+</ul>
+
+
+
+<p><strong>Private Reply to comment &#8211;</strong> This is the message that will be sent to the user on Messenger. You can reply with a flow, product, plain text, events, elections, news, and vendors.</p>
+
+
+
+<p><strong>Publicly Reply to Comment</strong> &#8211; Your bot will automatically reply to the user&#8217;s comment with this message. Add multiple variations and your bot will reply with any of the variations.</p>
+
+
+
+<p><strong>More Options (Optional) &#8211;</strong> Even though this additional setup steps optional, it will help you to give additional power to your Messenger chatbot using this Facebook comment tool</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="394" src="https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-1024x394.png" alt="" class="wp-image-1452" srcset="https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-1024x394.png 1024w, https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-300x115.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/02/fct3-768x295.png 768w, https://docs.chatrace.com/wp-content/uploads/2021/02/fct3.png 1189w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<ol class="wp-block-list">
+<li>If you do not want your Facebook comment automation to work on comments with specific keywords, define the keywords, and your Facebook automation will not work on comments containing these keywords.</li>
+
+
+
+<li>You can configure Facebook comment automation to reply to people who are not your chatbot subscriber.</li>
+
+
+
+<li> Like the user&#8217;s comment automatically.</li>
+
+
+
+<li>Configure your Facebook comment automation to reply to users who already commented on your previous Facebook posts.</li>
+
+
+
+<li>Set the Facebook comment automation to reply to &#8216;replies to user&#8217;s comment&#8217; in the comment section.   </li>
+</ol>
+
+
+
+<p>Hope this article helps you understand how to use the “Facebook Comment Automation” tool on the Chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base, ask your question in our <a href="https://web.facebook.com/groups/chatrace.automations" target="_blank" rel="noreferrer noopener">community group</a>, or <a href="https://m.me/chatrace.automations" target="_blank" rel="noreferrer noopener">contact our support</a> to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/facebook-comments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Messenger List &#8211; Marketing Messages</title>
+		<link>https://docs.chatrace.com/kb/messenger-recurrent-notification/</link>
+					<comments>https://docs.chatrace.com/kb/messenger-recurrent-notification/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 25 May 2022 09:31:37 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2188</guid>
+
+					<description><![CDATA[Messenger List lets businesses send messages beyond the standard messaging window to users who opt in. The &#8220;standard messaging window&#8221; is a 24-hour period that]]></description>
+										<content:encoded><![CDATA[
+<p>Messenger List lets businesses send messages beyond the standard messaging window to users who opt in. </p>
+
+
+
+<p>The &#8220;standard messaging window&#8221; is a 24-hour period that starts when a user interacts with a business on Facebook Messenger. During this time, businesses can send messages related to the user&#8217;s inquiry or transaction without needing special permissions.</p>
+
+
+
+<p>After this 24-hour window, businesses can&#8217;t send messages unless the user has opted in to receive marketing messages or if the message is about specific updates, like a recent purchase.</p>
+
+
+
+<p>Businesses can ask users for permission to send marketing messages during the 24-hour window. If a user opts in, the business can send messages about promotions and campaigns outside the standard 24-hour period.</p>
+
+
+
+<p>Marketing messages help businesses stay connected with customers and keep them informed about updates and offers they&#8217;re interested in.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send broadcast to your Messenger list" width="780" height="439" src="https://www.youtube.com/embed/b5Hw7Ofemvc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h3 class="wp-block-heading">The frequency with which you can message users</h3>
+
+
+
+<p>Businesses can send a maximum of one marketing message per day per topic. This means that if you want to send more than one message per day, you need to request users to opt in to multiple topics. Your business isn&#8217;t required to send them a message daily. </p>
+
+
+
+<h4 class="wp-block-heading">How do users opt-in to your Messenger List?</h4>
+
+
+
+<p>Before you can send your contact marketing messages, the contact needs to opt in to receive them. Follow this step to get user consent.</p>
+
+
+
+<ol class="wp-block-list">
+<li>On the flow builder, select Messenger as the message type.</li>
+
+
+
+<li>Add the &#8220;Notification Request&#8221; content.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="631" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-1024x631.png" alt="" class="wp-image-2191" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-1024x631.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-300x185.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-768x473.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image.png 1398w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>3. Choose or create the topic for your marketing messages. The topic name is visible only to admins.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="610" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-1-1024x610.png" alt="" class="wp-image-2192" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-1-1024x610.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-1-300x179.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-1-768x457.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-1.png 1461w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Send a broadcast to your Messenger List.</h2>
+
+
+
+<p>After a user subscribes to your Messenger List, you can send them a broadcast message in the future. Follow this step to send a broadcast to your Messenger List.</p>
+
+
+
+<ol class="wp-block-list">
+<li>Create your flow and select your topic as the message type.<br></li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="494" src="https://docs.chatrace.com/wp-content/uploads/2022/05/image-2-1024x494.png" alt="" class="wp-image-2194" srcset="https://docs.chatrace.com/wp-content/uploads/2022/05/image-2-1024x494.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-2-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-2-768x370.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-2-1536x740.png 1536w, https://docs.chatrace.com/wp-content/uploads/2022/05/image-2.png 1919w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>2. Navigate to Menu &gt; Broadcasts and click the <strong>Send</strong> button.<br>3. Choose the Messenger channel and select the Messenger list option.<br></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115358261-1024x495.png" alt="" class="wp-image-2910" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115358261-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115358261-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115358261-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115358261-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115358261.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115437995-1024x495.png" alt="" class="wp-image-2911" style="width:880px;height:425px" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115437995-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115437995-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115437995-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115437995-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115437995.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115553517-1024x495.png" alt="" class="wp-image-2913" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115553517-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115553517-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115553517-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115553517-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115553517.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115824356-1024x495.png" alt="" class="wp-image-2914" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115824356-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115824356-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115824356-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115824356-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_115824356.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>4. Select the flow you created in step 1.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_120423018-1024x495.png" alt="" class="wp-image-2916" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_120423018-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_120423018-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_120423018-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_120423018-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-02_120423018.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You can also subscribe your contacts to a drip campaign and send them messages using Messenger List. Drip campaigns are a great way to educate your leads by sending them sequences of valuable content over a period of time. </p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Best Practices</h3>
+
+
+
+<p>Your business should send people relevant, valuable messages in order to create a high-quality user experience by doing the following:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Your opt-in request, including the title and image, encompasses the types of messages users can expect to receive, such as product recommendations, offers, etc.<br></li>
+
+
+
+<li>When sending more than one opt-in request to a user, each opt-in request should clearly state the different, specific types of marketing messages the user can expect to receive.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Limitations</h3>
+
+
+
+<ul class="wp-block-list">
+<li>You must not use Messenger List, including opt-in requests, to spam users. This includes sending duplicate opt-in requests at high frequencies to the same user/s.<br></li>
+
+
+
+<li>Do not offer users rewards in exchange for opting into Messenger List. This includes tangible or intangible rewards, as well as financial or non-financial rewards, such as coupons, discounts, points, merchandise, cash back, or other rewards or incentives.<br></li>
+
+
+
+<li>Generally, up to 10 opt-in requests can be sent per user over a 7-day period. A sub-limit of up to 5 opt-in requests may be sent to a user in a day.</li>
+</ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/messenger-recurrent-notification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to set up Conversation starters?</title>
+		<link>https://docs.chatrace.com/kb/conversation-starters/</link>
+					<comments>https://docs.chatrace.com/kb/conversation-starters/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 09:40:22 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=546</guid>
+
+					<description><![CDATA[Conversation Starters allow users to start a conversation with a business with a list of frequently asked questions. Users will see questions about your business]]></description>
+										<content:encoded><![CDATA[
+<p>Conversation Starters allow users to start a conversation with a business with a list of frequently asked questions. Users will see questions about your business instead of the generic &#8220;Get Started&#8221; button. We recommend you use the Conversation Starters feature to help your users/audience start a conversation with your business.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to create Conversation Starter" width="780" height="439" src="https://www.youtube.com/embed/vReLo8ZQnwE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">How to create Conversation Starters?</h4>
+
+
+
+<p>To create a Conversation Starter for your business, Navigate to Menu &gt; Settings &gt; Channels (Messenger/Instagram) &gt; Conversation Starter and click the “Edit” button.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="460" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-1024x460.png" alt="" class="wp-image-2752" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-1024x460.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-300x135.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-768x345.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258-1536x690.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image_2023-02-21_015457258.png 1896w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>Input your business&#8217;s frequently asked questions, set the response flow, click on the + icon to add it and click on save on the top right corner.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-1024x498.png" alt="" class="wp-image-2753" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-1024x498.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9-1536x747.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-9.png 1903w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="497" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-1024x497.png" alt="" class="wp-image-3071" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-1024x497.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-768x373.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540-1536x746.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-10_220851540.png 1889w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/conversation-starters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to setup the greeting message</title>
+		<link>https://docs.chatrace.com/kb/greeting-message/</link>
+					<comments>https://docs.chatrace.com/kb/greeting-message/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 09:36:49 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=544</guid>
+
+					<description><![CDATA[The greeting message is the first message that an audience can see when they come to your Messenger chatbot. Watch the video tutorial below 👇]]></description>
+										<content:encoded><![CDATA[
+<p>The greeting message is the first message that an audience can see when they come to your Messenger chatbot. Watch the video tutorial below <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://docs.chatrace.com/wp-content/uploads/2021/07/How-to-create-a-greeting-message.mp4"></video></figure>
+
+
+
+<p>Take a look at the below image.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh5.googleusercontent.com/8KqmU7TsqRcw1Sa4GxS626OZmoD9mo9sXLgGQqsY_PNaxuAGPKjAgt73aRCstEx2lnltwiQxSwvhbBHpDHF8aZKUviPWqdBGp7B5BSRetkwfBoNLZfuWzup0zOABxdi7rd_WBwVe" alt="Greeting Message"/></figure></div>
+
+
+
+<p>Your Messenger chatbot’s greeting message will get displayed here (in the image) like a business description. Use this feature to turn your audience into subscribers and tell them about your business with a short description.</p>
+
+
+
+<p>Learn the steps below to know how to set greeting messages in different languages.</p>
+
+
+
+<p>Yes,<em> you can set greeting messages in various languages based on your audience application language</em>.</p>
+
+
+
+<p>To create a greeting message, navigate to Menu &gt; Settings &gt; Channels &gt; Greeting &gt; Edit.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="890" height="175" src="https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_77.png" alt="" class="wp-image-1724" srcset="https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_77.png 890w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_77-300x59.png 300w, https://docs.chatrace.com/wp-content/uploads/2021/03/Screenshot_77-768x151.png 768w" sizes="auto, (max-width: 890px) 100vw, 890px" /></figure></div>
+
+
+
+<p>Then, enter your greeting message on the given field and save the process. That’s it.</p>
+
+
+
+<p>If you want to use multi-language greeting messages, select “+ Language” drop-down menu and choose the languages as per your requirement.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh3.googleusercontent.com/efzFwgGOERB5M310PAO574ezJHKWMPcPuFQWoOJoT-314Zpoy6IpHXYHeIZ3POfttpHJeX_3OQRyGP-KR6uvxrZvTZtpLar5oRDwGGjPJy-Fmkhkp1SwVnuXo6jUarYUfgEyKKZK" alt="Greeting Message Language"/></figure></div>
+
+
+
+<p>You can create “n” number of greetings with multiple languages which are supported by Facebook.</p>
+
+
+
+<p>Hope this article helps you in creating your greeting message in Chatrace.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/greeting-message/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to setup bot Persistent Menu?</title>
+		<link>https://docs.chatrace.com/kb/persistent-menu/</link>
+					<comments>https://docs.chatrace.com/kb/persistent-menu/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 09:44:58 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=550</guid>
+
+					<description><![CDATA[The persistent menu allows you to have an always-on user interface element inside your bot conversations. This is an easy way to help people discover]]></description>
+										<content:encoded><![CDATA[
+<p>The persistent menu allows you to have an always-on user interface element inside your bot conversations. This is an easy way to help people discover and access the core functionality of your bot at any point in the conversation. </p>
+
+
+
+<p>The menu is always available to users. This menu should contain the top-level actions that users can use at any time. Having a menu easily communicates the basic capabilities of your chatbot for beginners and returned users.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="673" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-1024x673.png" alt="" class="wp-image-2432" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-1024x673.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-300x197.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-10-768x504.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-10.png 1125w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Supported Channels</h4>
+
+
+
+<p>Currently, the persistent menu is supported on Messenger, Instagram, and Webchat.</p>
+
+
+
+<h4 class="wp-block-heading">Creating the Persistent Menu</h4>
+
+
+
+<p>Navigate to Settings > Channels (Messenger, Instagram) > Persistent Menu</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="602" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-1024x602.png" alt="" class="wp-image-2433" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-1024x602.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-300x176.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-11-768x452.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-11.png 1459w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>After clicking the “edit” button on the persistent menu settings, you will get a setup wizard similar to the image below.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="403" src="https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-1024x403.png" alt="" class="wp-image-2434" srcset="https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-1024x403.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-300x118.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-12-768x302.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/08/image-12.png 1461w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>If you don&#8217;t want your users to send a text message, you can disable the message composer by unchecking the &#8220;<strong>Allow Keyboard Input</strong>&#8220;. </p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"></h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/persistent-menu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to use personas</title>
+		<link>https://docs.chatrace.com/kb/bot-profile/</link>
+					<comments>https://docs.chatrace.com/kb/bot-profile/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 09:34:42 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=542</guid>
+
+					<description><![CDATA[Note: This is a Pro Feature. Bot profile is simply the chatbot persona, you can change the Messenger chatbot’s profile name and image using this]]></description>
+										<content:encoded><![CDATA[
+<p><em>Note: This is a Pro Feature.</em></p>
+
+
+
+<p>Bot profile is simply the chatbot persona, you can change the Messenger chatbot’s profile name and image using this feature.&nbsp;</p>
+
+
+
+<p>It can be helpful on special occasions to wish &amp; celebrate with your subscribers on the conversation.&nbsp;</p>
+
+
+
+<p>The below image will help you to understand more about bot persona.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/j6bX5X78FWLBWIrb66nFzV3yoqgc5Fq4RSC9joUIOOn1h4cIK-QBCfhD2CNlLpR6G4TTdj9ur9xyIRqUaaaKmCLWgZTyTNPcBeHwyKNArdJuwB6jZWLOg13n_Z1J_WHR4QpGkmrX" alt="Bot profile"/></figure></div>
+
+
+
+<p>In this above image, you can see different profile pictures from the single Facebook page inbox. This is how the bot persona works. Follow the steps below to know how to create a bot persona for your chatbot.</p>
+
+
+
+<p>Number one step to create a bot persona is selecting the right tool.</p>
+
+
+
+<p>Navigate to Menu &gt; Tools &gt; Personas &gt; Add Persona.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh5.googleusercontent.com/oESBE766-6OlTqBCKyDmJVXsAO_ZwWOEFKbT3Bu4QRwqlvl0AdKx93M_idVy_rv6MF9Gpvzehusoq8MUnQNySFrh6kxMByuaHs3kdYmJeY-UhmiNACn1RfE8SVZ9x0tt3gPbfp3m" alt="bot persona creation"/></figure></div>
+
+
+
+<p>&nbsp;A popup will appear similar to the above image. In this popup,&nbsp;</p>
+
+
+
+<ul class="wp-block-list"><li>Name &#8211; Give a new name for your bot profile.</li><li>Image URL &#8211; Paste the URL of the image to set this as a profile picture of the chatbot.</li></ul>
+
+
+
+<p>Now, go to Settings &gt; General &gt; Bot Profile to set that persona as your profile.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/NRppSzGEoMVGnA03H68xPQZYFxKgpLwB1C-IjRFxKqcmEp_6C5L6kDz8zhD5tQ9RQapmfTazPR2u70Y9sDeXkBunqkoXr5bvXrQEfOVYN6QwJUNCJTKDoJ8NcQPMrdwfP8wv7Evv" alt="Bot profile setting"/></figure></div>
+
+
+
+<p>That’s it. You Messenger chatbot has a new bot profile and it will reflect on the conversation with your subscribers.&nbsp;&nbsp;</p>
+
+
+
+<p><em>Note: You can create “n” number of bot persona on chatrace platform to give more personalisation to your subscribers.</em></p>
+
+
+
+<p>Hope this article helps you to learn more about “Bot Profile” on chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interaction with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/bot-profile/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to dynamically disable Messenger message composer</title>
+		<link>https://docs.chatrace.com/kb/enable-and-disable-message-composer/</link>
+					<comments>https://docs.chatrace.com/kb/enable-and-disable-message-composer/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2019 12:31:28 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=373</guid>
+
+					<description><![CDATA[It can be done in three simple steps easily and it will help you to decide whether you can get the user input through buttons]]></description>
+										<content:encoded><![CDATA[
+<p>It can be done in three simple steps easily and it will help you to decide whether you can get the user input through buttons or through the keyboard.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to dynamically enable and disable message composer on messenger" width="780" height="439" src="https://www.youtube.com/embed/oXgRkSzFvKY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Follow these steps to know how to enable/disable message composer on your Messenger chat flow.</p>
+
+
+
+<p>Step 1: Go to the flow in which you have to use this feature,</p>
+
+
+
+<p>Step 2: Click the “Action” >> Messenger >> “Enable Message Composer/Disable Message Composer” on the list.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/04/image_2023-04-27_162722871-1024x495.png" alt="" class="wp-image-2874" srcset="https://docs.chatrace.com/wp-content/uploads/2023/04/image_2023-04-27_162722871-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/04/image_2023-04-27_162722871-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/04/image_2023-04-27_162722871-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/04/image_2023-04-27_162722871-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/04/image_2023-04-27_162722871.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Step 3: That’s it</p>
+
+
+
+<p><em>Like we said before, it can be done in 3 simple steps<br></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/enable-and-disable-message-composer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Send conversion events to Facebook</title>
+		<link>https://docs.chatrace.com/kb/send-conversion-events-to-facebook/</link>
+					<comments>https://docs.chatrace.com/kb/send-conversion-events-to-facebook/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2022 12:25:57 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2423</guid>
+
+					<description><![CDATA[Facebook Conversion Tracking is a powerful tool for businesses using Facebook Ads. It allows businesses to send specific event data back to Facebook, enabling them]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Facebook Conversion Tracking</strong> is a powerful tool for businesses using Facebook Ads. It allows businesses to send specific event data back to Facebook, enabling them to track how effective their ads are in leading to customer actions, such as purchases, sign-ups, and other key conversions.</p>
+
+
+
+<p>This feature works on all channels. The contact must have at least an email address or phone number or come from Facebook Lead Ads.</p>
+
+
+
+<p>We strongly recommend you use Standard Events whenever possible. Only standard events are reported in Ads Manager and available for ad targeting and optimization (where available).</p>
+
+
+
+<h4 class="wp-block-heading">Requirements </h4>
+
+
+
+<p>You need to have a Facebook pixel. You can learn how to create a Pixel <a href="https://www.facebook.com/business/help/314143995668266?id=1205376682832142" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<h4 class="wp-block-heading">Get Access Token to send conversion events</h4>
+
+
+
+<p>Go to <a href="https://www.facebook.com/events_manager2/overview" target="_blank" rel="noreferrer noopener">Events Manager</a> &gt; <strong>Data sources</strong> &gt; select your Pixel &gt; <strong>Settings</strong> and scroll until the <strong>Generate access token </strong>button. You will use the generated access token in the next step.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-1024x486.png" alt="" class="wp-image-3676" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31-1536x730.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-31.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Get the Facebook Pixel ID</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-1024x486.png" alt="" class="wp-image-3681" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34-1536x730.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-34.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Setup Facebook Conversion Tracking Integration</h4>
+
+
+
+<p>Go to <strong>Settings</strong> &gt; <strong>Integrations</strong> &gt; <strong>Facebook Conversion Tracking</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="504" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-1024x504.png" alt="" class="wp-image-3677" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-1024x504.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-300x148.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-768x378.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32-1536x756.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-32.png 1605w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="491" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-1024x491.png" alt="" class="wp-image-3678" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-1024x491.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-300x144.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-768x368.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33-1536x736.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-33.png 1602w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Send conversion events</h4>
+
+
+
+<p>You must use <strong>Actions</strong> &gt; <strong>Send Conversion Event</strong> on Flow Builder to send conversion events to Facebook.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="581" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-1024x581.png" alt="" class="wp-image-3682" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-1024x581.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-300x170.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-768x436.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35-1536x872.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-35.png 1607w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="581" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-1024x581.png" alt="" class="wp-image-3683" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-1024x581.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-300x170.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-768x436.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36-1536x872.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-36.png 1607w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Viewing sent events in Event Manager</h4>
+
+
+
+<p>When you send a conversion event, it may take up to 40 minutes for the event to show up on the Event Manager.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/02/image-1024x486.png" alt="" class="wp-image-3695" srcset="https://docs.chatrace.com/wp-content/uploads/2024/02/image-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/02/image-1536x730.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/02/image.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading"></h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/send-conversion-events-to-facebook/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

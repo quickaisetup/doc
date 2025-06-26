@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Flows &#8211; Chatrace</title>
+	<atom:link href="https://docs.chatrace.com/kbtopic/flows/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.chatrace.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Apr 2025 08:42:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://docs.chatrace.com/wp-content/uploads/2021/02/icon96.png</url>
+	<title>Flows &#8211; Chatrace</title>
+	<link>https://docs.chatrace.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dynamic multiple choice options</title>
+		<link>https://docs.chatrace.com/kb/dynamic-multiple-choice-options/</link>
+					<comments>https://docs.chatrace.com/kb/dynamic-multiple-choice-options/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Sat, 19 Mar 2022 12:05:40 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2161</guid>
+
+					<description><![CDATA[Dynamic Multiple Choice allows your bot to ask your users questions and create options dynamically by getting the data from any API or Google Sheets.]]></description>
+										<content:encoded><![CDATA[
+<p>Dynamic Multiple Choice allows your bot to ask your users questions and create options dynamically by getting the data from any API or Google Sheets. This feature is very important for businesses that want to create a quiz or ask questions to qualify leads.</p>
+
+
+
+<p>To create Dynamic Multiple Choice you use the &#8220;Get User Data&#8221; </p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="492" src="https://docs.chatrace.com/wp-content/uploads/2022/03/image-1024x492.png" alt="" class="wp-image-2162" srcset="https://docs.chatrace.com/wp-content/uploads/2022/03/image-1024x492.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-300x144.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-768x369.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/03/image.png 1414w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="707" src="https://docs.chatrace.com/wp-content/uploads/2022/03/image-1-1024x707.png" alt="" class="wp-image-2163" srcset="https://docs.chatrace.com/wp-content/uploads/2022/03/image-1-1024x707.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-1-300x207.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-1-768x531.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-1.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Get User Data</figcaption></figure>
+
+
+
+<p>The reply type should be <strong>Multiple Choice</strong>. All your options must be stored in a single custom field.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Format of data for Dynamic Multiple Choice</h4>
+
+
+
+<p>Let&#8217;s imagine you want to ask the question &#8220;What&#8217;s your favorite color?&#8221; and you could offer the option Blue, White, Black, Yellow, Red</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="965" height="244" src="https://docs.chatrace.com/wp-content/uploads/2022/03/image-2.png" alt="" class="wp-image-2165" srcset="https://docs.chatrace.com/wp-content/uploads/2022/03/image-2.png 965w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-2-300x76.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-2-768x194.png 768w" sizes="(max-width: 965px) 100vw, 965px" /></figure>
+
+
+
+<p>1 &#8211; <strong>Separate options with a comma</strong>: Blue, White, Black, Yellow, Red</p>
+
+
+
+<p>You can get data from any source like Google Sheets where the options are separated by a comma.<br></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="869" height="204" src="https://docs.chatrace.com/wp-content/uploads/2022/03/image-3.png" alt="" class="wp-image-2166" srcset="https://docs.chatrace.com/wp-content/uploads/2022/03/image-3.png 869w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-3-300x70.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-3-768x180.png 768w" sizes="auto, (max-width: 869px) 100vw, 869px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>2 &#8211; Array of options</strong> (From API):  [&#8220;Blue&#8221;, &#8220;White&#8221;, &#8220;Black&#8221;, &#8220;Yellow&#8221;, &#8220;Red&#8221;]</p>
+
+
+
+<p>You can use our <a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/how-to-use-dynamic-contents/" target="_blank">External Request</a> feature to get data from any API and use response mapping to extract the data you need. On the bellow response, you use response mapping to save the data to the custom field that is used to store the options.</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    data: &#91;"Blue", "White", "Black", "Yellow", "Red"]
+}</code></pre>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Check what option the user chose</h4>
+
+
+
+<p>Use Condition to check what option the user chose. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="499" src="https://docs.chatrace.com/wp-content/uploads/2022/03/image-4-1024x499.png" alt="" class="wp-image-2170" srcset="https://docs.chatrace.com/wp-content/uploads/2022/03/image-4-1024x499.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-4-300x146.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-4-768x374.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-4.png 1508w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p>Also, you can always personalize your messages with the option that the user chose.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="493" src="https://docs.chatrace.com/wp-content/uploads/2022/03/image-5-1024x493.png" alt="" class="wp-image-2171" srcset="https://docs.chatrace.com/wp-content/uploads/2022/03/image-5-1024x493.png 1024w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-5-300x144.png 300w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-5-768x370.png 768w, https://docs.chatrace.com/wp-content/uploads/2022/03/image-5.png 1275w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/dynamic-multiple-choice-options/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Get started with Chatrace</title>
+		<link>https://docs.chatrace.com/kb/overview/</link>
+					<comments>https://docs.chatrace.com/kb/overview/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2020 06:17:06 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=459</guid>
+
+					<description><![CDATA[In this article, we will walk you through the flow dashboard &#38; flow builder overview and show you how to create a simple flow on]]></description>
+										<content:encoded><![CDATA[
+<p>In this article, we will walk you through the flow dashboard &amp; flow builder overview and show you how to create a simple flow on Chatrace.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to create a simple flow" width="780" height="439" src="https://www.youtube.com/embed/2DK2TTOWNtQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Navigate to Flows</h4>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-1024x495.png" alt="" class="wp-image-3309" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-23_171849856.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h4 class="wp-block-heading">Flow dashboard overview</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-1024x495.png" alt="" class="wp-image-3321" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-24_110404846.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Flow Builder</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-1024x495.png" alt="" class="wp-image-3313" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-66.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-1024x495.png" alt="" class="wp-image-3314" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image-67.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="495" src="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-1024x495.png" alt="" class="wp-image-3331" srcset="https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-1024x495.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-300x145.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-768x371.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757-1536x743.png 1536w, https://docs.chatrace.com/wp-content/uploads/2023/06/image_2023-06-27_001949757.png 1870w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<h4 class="wp-block-heading">Learn more</h4>
+
+
+
+<p>Take your Bot building skills to the next level. Learn how to use major components like Conditions, Tags, Custom fields, &amp; many more.</p>
+
+
+
+<p><a href="https://docs.chatrace.com/kb/how-to-train-your-bot-to-answer-to-messages/" target="_blank" rel="noreferrer noopener">How to connect automated responses (keyword) to flow (How to train to Bot)</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">H</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">o</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">w</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank"> </a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">t</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">o</a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank"> </a><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/tags/" target="_blank">Segment your audience with Tags </a></p>
+
+
+
+<p><a href="https://youtu.be/FdMDfCyYHGA" target="_blank" rel="noreferrer noopener">How to use condition</a></p>
+
+
+
+<p><a href="https://docs.chatrace.com/kb/how-to-notify-admins/">How to notify admins</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://docs.chatrace.com/kb/custom-field/" target="_blank">How to use custom fields and get user data</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/overview/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to personalize the conversation with custom fields?</title>
+		<link>https://docs.chatrace.com/kb/custom-field-2/</link>
+					<comments>https://docs.chatrace.com/kb/custom-field-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Team]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2020 06:06:46 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=652</guid>
+
+					<description><![CDATA[Custom fields are user-dependent functions that will change its data based on the users’ nature. This is how the structure of custom field inside the]]></description>
+										<content:encoded><![CDATA[
+<p>Custom fields are user-dependent functions that will change its data based on the users’ nature.</p>
+
+
+
+<p>This is how the structure of custom field inside the platform looks like,</p>
+
+
+
+<p class="has-text-align-center"><strong><em>{{custom_field_name}}</em></strong></p>
+
+
+
+<p>Some custom fields are pre-defined inside the chatrace platform and they are,</p>
+
+
+
+<ul class="wp-block-list"><li>First Name,</li><li>Last Name,</li><li>Email,</li><li>Phone,</li><li>Profile Image,</li><li>Locale,</li><li>Time Zone,</li><li>User ID,</li><li>Page Name,</li><li>Page ID</li></ul>
+
+
+
+<p>All the above custom fields are given by default inside the chatrace and these details are pulled out from Facebook itself.</p>
+
+
+
+<p>Like we said before, custom fields are user-defined functions and the values changes from one person to another.</p>
+
+
+
+<p>Let’s take a look at the “First Name” custom field as an example. If a Messenger subscriber has name “Barveen Kumar” then the first name will be considered as “Barveen” and for “Vasanth Kumar” the first name will be ”Vasanth.”</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://lh5.googleusercontent.com/xwq55DW8NzXTIPOATOjcNokzDHPDDZIn8b_jyMfYwmcxe7VjKRW20Idwg7tMM7Dh7_3799uSgPW91iWibeiMRCFJQtVIBywiv4vUIuR_m_A4jhIFeyGIU8sn4a6oc8WgjlgAWuRP" alt=""/></figure></div>
+
+
+
+<p>To use custom fields on the Messenger chat flow, use curly brackets { } on the text block to set the required custom field for your chat flow.</p>
+
+
+
+<p>When you start typing the curly brackets {{ to get the list of the custom fields you had in the platform.</p>
+
+
+
+<p>On that custom field list apart from the default custom field from chatrace, you will find additional custom fields. They are nothing but the custom fields that you created for storing the user details. </p>
+
+
+
+<p>Hope this article helps you to know about the “Custom fields” feature on the chatrace platform.</p>
+
+
+
+<p>If you have any other doubts or queries, visit other articles on the knowledge base or interact with our community or contact our support to get your doubts cleared.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/custom-field-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to get user&#8217;s location on WhatsApp, Viber and Telegram</title>
+		<link>https://docs.chatrace.com/kb/how-to-get-users-location/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-get-users-location/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2023 23:10:21 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=2715</guid>
+
+					<description><![CDATA[Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to]]></description>
+										<content:encoded><![CDATA[
+<p>Chatrace provides an excellent tool to quickly request and get your customer&#8217;s location via Facebook Messenger, WhatsApp, Viber, and Telegram channels, as you need to get your customer&#8217;s location at one point or another in the customer journey. Chatrace provides two system fields you can use to perform actions on the contact&#8217;s geological data.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to get users location on whatsapp" width="780" height="439" src="https://www.youtube.com/embed/5_IzaMg73u8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>To get the user’s location, follow the steps below</p>
+
+
+
+<ul class="wp-block-list">
+<li>Request the user’s location</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="484" src="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png" alt="" class="wp-image-2725" srcset="https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-1024x484.png 1024w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6-768x363.png 768w, https://docs.chatrace.com/wp-content/uploads/2023/02/image-6.png 1326w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh5.googleusercontent.com/t31bw7GIvWlw3rqt3l1vDTU3jVBwJKD-LCtiSy3O3WcJkyio5UXhR79VjH9mNKj-CrxYTyNy68gLWpVUOy58KQm8VIJyO_ti-NFwUCcoTPVv_SdbB5fKKHKcQ3w0FRtU-MyVrlYn6_bke8e7EDLSgHc" alt=""/></figure>
+
+
+
+<p>Once the user shares his/her location, the user’s entire geographical data (location) will be saved in the custom field you used on the Get User Data block.</p>
+
+
+
+<p><strong> </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>You can access the entire geographical data (location) in the custom field you used on the Get User Data block (You can access both latitude and longitude)</li>
+
+
+
+<li>You can access the ‘latitude’ of the last location the user/contact shared on {{last_latitude}}</li>
+
+
+
+<li>You can access the longitude of the last location the user/contact shared on {{last_longitude}}&nbsp;</li>
+</ul>
+
+
+
+<p><strong>Advance</strong></p>
+
+
+
+<p>To&nbsp; get the URL of the user’s location, use the Url below</p>
+
+
+
+<p><a href="https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C'{{last_longitude}} ">https://www.google.com/maps/search/?api=1&amp;query={{last_latitude}}%2C{{last_longitude}} </a></p>
+
+
+
+<p><strong><em>Note: The URL will work based on the last location shared by the user/contact.</em></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-get-users-location/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to send your business location to your customers</title>
+		<link>https://docs.chatrace.com/kb/how-to-send-your-business-location-to-your-customers/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-send-your-business-location-to-your-customers/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2024 10:34:57 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3610</guid>
+
+					<description><![CDATA[Overview In this documentation, you will learn how a business can quickly share its location with its customers. With one click, your customers can quickly]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>In this documentation, you will learn how a business can quickly share its location with its customers. With one click, your customers can quickly find your location on Google Maps or other map apps.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to send your business location to your customers" width="780" height="439" src="https://www.youtube.com/embed/xVgMXGEHdvo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Key Details</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Business Data/Location Input</strong>: You need to input your business name, address, longitude, and latitude within the Visual Flow Builder.</li>
+
+
+
+<li><strong>Supported Channels</strong>: This feature is supported on channels that support location sharing such as Viber, WhatsApp, and Telegram.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Usecase</h2>
+
+
+
+<p>For businesses looking to provide precise location details to their customers, the Business Location Sharing feature streamlines the process, ensuring that customers can easily access and navigate to the business location.</p>
+
+
+
+<h2 class="wp-block-heading">How to setup</h2>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-20-1024x488.png" alt="" class="wp-image-3611" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-20-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-20-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-20-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-20-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-20.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-21-1024x488.png" alt="" class="wp-image-3612" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-21-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-21-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-21-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-21-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-21.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Input your business name, address, longitude, and latitude.</strong></p>
+
+
+
+<p>As you can see in the image below, you must know the <strong>Latitude</strong> and <strong>Longitude</strong> of your location. You can get it from Google Maps. Find your location on Google Maps, click on your location, and you will see the <strong>Latitude</strong> and <strong>Longitude</strong> of your location.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="479" src="https://docs.chatrace.com/wp-content/uploads/2024/01/image-2-1536x718-1-1024x479.png" alt="" class="wp-image-3613" srcset="https://docs.chatrace.com/wp-content/uploads/2024/01/image-2-1536x718-1-1024x479.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-2-1536x718-1-300x140.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-2-1536x718-1-768x359.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/01/image-2-1536x718-1.png 1536w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-send-your-business-location-to-your-customers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Supported file format &#038; file size for each channel</title>
+		<link>https://docs.chatrace.com/kb/supported-file-format-file-size-for-each-channel/</link>
+					<comments>https://docs.chatrace.com/kb/supported-file-format-file-size-for-each-channel/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2024 11:19:35 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3832</guid>
+
+					<description><![CDATA[Instagram Channel Media Type Supported Format Support Size (Maximum) Audio aac, m4a, wav, mp4 25MB Media Document &#8212; &#8212; Image png, jpeg, gif 8MB Video]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Instagram Channel</h2>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Media Type</strong></td><td><strong>Supported Format</strong></td><td><strong>Support Size (Maximum)</strong></td></tr><tr><td>Audio</td><td>aac, m4a, wav, mp4</td><td>25MB</td></tr><tr><td>Media Document</td><td>&#8212;</td><td>&#8212;</td></tr><tr><td>Image</td><td>png, jpeg, gif</td><td>8MB</td></tr><tr><td>Video</td><td>mp4, ogg, avi, mov, webm</td><td>25MB</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading">Messenger Channel</h2>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Media Type</strong></td><td><strong>Supported Format</strong></td><td><strong>Support Size (Maximum)</strong></td></tr><tr><td>Audio</td><td>aac, m4a, wav, mp4</td><td>25MB</td></tr><tr><td>Media Document</td><td>Any valid MIME-type.</td><td>25MB</td></tr><tr><td>Image</td><td>png, jpeg, gif</td><td>25MB</td></tr><tr><td>Video</td><td>mp4, ogg, avi, mov, webm</td><td>25MB</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading">WhatsApp Channel</h2>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Media Type</strong></td><td><strong>Supported Format</strong></td><td><strong>Support Size (Maximum)</strong></td></tr><tr><td>Audio</td><td>aac, m4a, ogg, mp4,mp3,amr</td><td>16MB</td></tr><tr><td>Media Document</td><td>Any valid MIME-type.</td><td>100MB</td></tr><tr><td>Image</td><td>png, jpeg</td><td>5MB</td></tr><tr><td>Video</td><td>3gp, mp4</td><td>16MB</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading">Telegram Channel</h2>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Media Type</strong></td><td><strong>Supported Format</strong></td><td><strong>Support Size (Maximum)</strong></td></tr><tr><td>Audio</td><td>mpeg</td><td>20MB</td></tr><tr><td>Media Document</td><td>Any valid MIME-type.</td><td>20MB</td></tr><tr><td>Image</td><td>png, jpeg,webp</td><td>5MB</td></tr><tr><td>Video</td><td>mp4</td><td>20MB</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading">Viber Channel</h2>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Media Type</strong></td><td><strong>Supported Format</strong></td><td><strong>Support Size (Maximum)</strong></td></tr><tr><td>Audio</td><td>&#8212;</td><td>&#8212;</td></tr><tr><td>Media Document</td><td>doc(x), xls(x), csv, pdf.</td><td>200MB</td></tr><tr><td>Image</td><td>png, jpeg,jpg,gif</td><td>200MB</td></tr><tr><td>Video</td><td>mp4</td><td>200MB</td></tr></tbody></table></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/supported-file-format-file-size-for-each-channel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to edit an image using Google Gemini</title>
+		<link>https://docs.chatrace.com/kb/how-to-edit-an-image-using-google-gemini/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-edit-an-image-using-google-gemini/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 09:35:17 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3905</guid>
+
+					<description><![CDATA[Overview This documentation provides a step-by-step guide on how to edit an image using Google Gemini integration within our platform. Connect Google Gemini Integration Google]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>This documentation provides a step-by-step guide on how to edit an image using Google Gemini integration within our platform.</p>
+
+
+
+<h2 class="wp-block-heading">Connect Google Gemini Integration</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Login to your Chatrace account</strong></li>
+
+
+
+<li><strong>Goto Settings &gt;&gt;Integration &gt;&gt; Google Gemini</strong><br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png" alt="" class="wp-image-3890" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Google Gemini Action in the Flow Builder</h2>
+
+
+
+<p><strong>Action>> Google Gemini >> Edit image</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png" alt="" class="wp-image-3891" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-1024x468.png" alt="" class="wp-image-3907" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102501630.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select Edit image >> select the image you want to edit >> set the user&#8217;s message >> select the custom field to save the output.</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>User&#8217;s Message: This refers to the instruction/information about what Google Gemini should do to your image</li>
+
+
+
+<li>Image: This refers to the image you want to edit.</li>
+
+
+
+<li>Output Message: This refers to the custom field where the generated image will be saved.<strong> This custom field will be used on an image block to display the image to the user.</strong></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-1024x468.png" alt="" class="wp-image-3908" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_103118871.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Success &amp; Failed Nodes</h2>
+
+
+
+<p>The Google Gemini action includes both success and failure nodes:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Success Node: This node allows you to define actions that should occur if Google Gemini successfully edited your image (perform action X).</li>
+
+
+
+<li>Failed Node: This node allows you to manage actions if Google Gemini was unable to edit your image (perform action Y)</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="457" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-1024x457.png" alt="" class="wp-image-3906" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-1024x457.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-300x134.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175-768x343.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_102120175.png 1126w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-edit-an-image-using-google-gemini/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to analyze an image using OpenAI Vision</title>
+		<link>https://docs.chatrace.com/kb/how-to-analyze-an-image-using-openai-vision/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-analyze-an-image-using-openai-vision/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2024 10:54:48 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3743</guid>
+
+					<description><![CDATA[Overview In this documentation, you will learn how to use OpenAI Vision to analyze images. This feature allows businesses to gain insights from images sent]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading" id="block-d7d234b5-ef02-4987-b1a1-3496c8f3d1f0">Overview</h2>
+
+
+
+<p id="block-1a386d89-888e-4449-9529-a73c8c814550">In this documentation, you will learn how to use OpenAI Vision to analyze images. This feature allows businesses to gain insights from images sent to their chatbot.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How to analyze image using OpenAI Vision" width="780" height="439" src="https://www.youtube.com/embed/DMd3fJEEXEM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading" id="block-5bbaa0fb-6d96-4127-b060-56806c28ceaa">Key Details</h2>
+
+
+
+<ul class="wp-block-list" id="block-adc7b45d-c402-4225-a7c9-db354b6a21b1">
+<li><strong>Connect OpenAI in the Integration section (Settings &gt;&gt; Integration &gt;&gt; OpenAI ChatGPT)</strong></li>
+
+
+
+<li><strong>In your flow, collect the image from your user and analyze the image with OpenAI Vision using OpenAI action.</strong></li>
+</ul>
+
+
+
+<p id="block-7c471ef6-b638-44b4-b99b-35abc217911a"></p>
+
+
+
+<h2 class="wp-block-heading" id="block-86dd861b-9d0e-4a33-a1e0-6ec35adad726">How to setup</h2>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Connect OpenAI integration if you have not connected it yet. Please read this <a href="https://docs.chatrace.com/kb/improve-customer-service-with-openai/">documentation</a></strong></li>
+
+
+
+<li><strong>Create a flow where you will collect images from your user (using Get User Data)</strong></li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large" id="block-bef35447-7ba3-42cd-8099-7f912355e5c4"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-1024x488.png" alt="" class="wp-image-3745" srcset="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100543861.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Analyze the image with OpenAI Vision.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-1024x488.png" alt="" class="wp-image-3746" srcset="https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-1024x488.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-300x143.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-768x366.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968-1536x732.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/03/image_2024-03-20_100907968.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-1024x486.png" alt="" class="wp-image-3802" srcset="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437-1536x729.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085506437.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-1024x486.png" alt="" class="wp-image-3804" srcset="https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-1024x486.png 1024w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-300x142.png 300w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-768x365.png 768w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871-1536x729.png 1536w, https://docs.chatrace.com/wp-content/uploads/2024/06/image_2024-06-05_085716871.png 1853w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Advance use-case</h4>
+
+
+
+<p><strong>This powerful feature allows you to analyze an image randomly sent to your chatbot, regardless of whether you are using your own custom default reply flow or if OpenAI ChatGPT handles your default reply.</strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-analyze-an-image-using-openai-vision/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to generate images using Google Gemini</title>
+		<link>https://docs.chatrace.com/kb/how-to-generate-images-using-google-gemini/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-generate-images-using-google-gemini/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 16:36:27 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3889</guid>
+
+					<description><![CDATA[Overview This documentation provides a step-by-step guide to generating an image using Google Gemini integration within our platform. Connect Google Gemini Integration Google Gemini Action]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>This documentation provides a step-by-step guide to generating an image using Google Gemini integration within our platform.</p>
+
+
+
+<h2 class="wp-block-heading">Connect Google Gemini Integration</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Login to your Chatrace account</strong></li>
+
+
+
+<li><strong>Goto Settings >>Integration >> Google Gemini</strong><br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png" alt="" class="wp-image-3890" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-21_171308138.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Google Gemini Action in the Flow Builder</h2>
+
+
+
+<p><strong>Action>> Google Gemini >> Generate image</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png" alt="" class="wp-image-3891" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-1024x468.png" alt="" class="wp-image-3892" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-1-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-1.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select Generate image >> set the user&#8217;s message >> set aspect ratio and select the custom field to save the output</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>User&#8217;s Message: The refer to the instruction/information about the image Google Gemini will generate</li>
+
+
+
+<li>Output Message: Refers to the custom field where the generated image will be saved.<strong> This custom field will be used on an image block to display the image to the user.</strong></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-1024x468.png" alt="" class="wp-image-3893" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-2-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-2.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Success &amp; Failed Nodes</h2>
+
+
+
+<p>The Google Gemini action includes both success and failure nodes:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Success Node: This node allows you to define actions that should occur if the image generation is executed successfully (perform action X).</li>
+
+
+
+<li>Failed Node: This node allows you to manage actions if there was an error in the image generation process (perform action Y)</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-1024x468.png" alt="" class="wp-image-3894" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-3-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image-3.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-generate-images-using-google-gemini/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to generate images using xAI</title>
+		<link>https://docs.chatrace.com/kb/how-to-generate-images-using-xai/</link>
+					<comments>https://docs.chatrace.com/kb/how-to-generate-images-using-xai/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwafemi Lawrence]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 08:25:07 +0000</pubDate>
+				<guid isPermaLink="false">https://docs.chatrace.com/?post_type=kb&#038;p=3897</guid>
+
+					<description><![CDATA[Overview This documentation provides a step-by-step guide to generating an image using xAI integration within our platform. Connect xAI Integration xAI Action in the Flow]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Overview</h2>
+
+
+
+<p>This documentation provides a step-by-step guide to generating an image using xAI integration within our platform.</p>
+
+
+
+<h2 class="wp-block-heading">Connect xAI Integration</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Login to your Chatrace account</strong></li>
+
+
+
+<li><strong>Goto Settings >>Integration >> xAI</strong><br></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091338661-1024x468.png" alt="" class="wp-image-3899" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091338661-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091338661-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091338661-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091338661.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">xAI Action in the Flow Builder</h2>
+
+
+
+<p><strong>Action>> xAI>> Generate image</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091625905-1024x468.png" alt="" class="wp-image-3900" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091625905-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091625905-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091625905-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091625905.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091731622-1024x468.png" alt="" class="wp-image-3901" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091731622-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091731622-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091731622-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091731622.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Select Generate image >> set the user&#8217;s message >> select the custom field to save the output</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>User&#8217;s Message: This refers to the instruction/information about the image xAI will generate</li>
+
+
+
+<li>Output Message: This message refers to the custom field where the generated image will be saved.<strong> This custom field will be used on an image block to display the image to the user.</strong></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091914901-1024x468.png" alt="" class="wp-image-3902" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091914901-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091914901-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091914901-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_091914901.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Success &amp; Failed Nodes</h2>
+
+
+
+<p>The xAI action includes both success and failure nodes:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Success Node: This node allows you to define actions that should occur if the image generation is executed successfully (perform action X).</li>
+
+
+
+<li>Failed Node: This node allows you to manage actions if there was an error in the image generation process (perform action Y)</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_092255124-1024x468.png" alt="" class="wp-image-3903" srcset="https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_092255124-1024x468.png 1024w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_092255124-300x137.png 300w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_092255124-768x351.png 768w, https://docs.chatrace.com/wp-content/uploads/2025/03/image_2025-03-26_092255124.png 1312w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://docs.chatrace.com/kb/how-to-generate-images-using-xai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
